@@ -1,4 +1,3 @@
-// src/app/api/monsters/route.ts
 import { NextResponse } from 'next/server'
 import Papa from 'papaparse'
 
