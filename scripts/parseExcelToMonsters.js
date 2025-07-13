@@ -5,7 +5,9 @@ const path = require('path');
 
 const regionSheets = [
   { name: '維多利亞島', gid: '2100610320' },
-  // { name: '艾納斯大陸', gid: '483624389' },
+  { name: '艾納斯大陸', gid: '483624389' },
+  { name: '路德斯湖', gid: '1917063682' },
+  { name: '水世界', gid: '1535813276' },
   // 其他地區...
 ];
 
@@ -182,14 +184,14 @@ async function main() {
 
     // ====== 這裡插測試用 code ======
 
-    const drops = getMonsterDrop(table);
+    // const drops = getMonsterDrop(table);
 
-    drops.slice(0, 5).forEach((monsterDrops, i) => {
-      console.log(`第${i + 1}隻怪物的掉落物:`);
-      monsterDrops.forEach((item, idx) => {
-        console.log(`  ${idx + 1}: ${item}`);
-      });
-    });
+    // drops.slice(0, 5).forEach((monsterDrops, i) => {
+    //   console.log(`第${i + 1}隻怪物的掉落物:`);
+    //   monsterDrops.forEach((item, idx) => {
+    //     console.log(`  ${idx + 1}: ${item}`);
+    //   });
+    // });
 
     // ====== 測試用 code 結束 ======
 
