@@ -21,12 +21,29 @@ async function fetchAndParseSheet(region) {
 
 const MONSTERS_PER_ROW = 5;
 const nameColIndexes = [4, 10, 16, 22, 28];
+const DROP_COL_INDEXES = [
+  [1, 3, 5],
+  [7, 9, 11],
+  [13, 15, 17],
+  [19, 21, 23],
+  [25, 27, 29]
+];
+
 
 function getBlockStartRowsLv(table) {
   const blockStarts = [];
 
   for (let i = 0; i < table.length; i++) {
     if (!table[i]) continue;
+
+    // 先檢查這一列有沒有 "BOSS"
+    if (table[i].some(cell =>
+      typeof cell === 'string' && cell.toLowerCase().includes('boss')
+    )) {
+      // 偵測到 "BOSS" 就整個結束，後面都不抓
+      break;
+    }
+
     for (let c = 0; c < table[i].length; c++) {
       const cell = table[i][c];
       if (
@@ -38,7 +55,6 @@ function getBlockStartRowsLv(table) {
       }
     }
   }
-
   return blockStarts;
 }
 
@@ -47,6 +63,14 @@ function getBlockStartRowsDefense(table) {
 
   for (let i = 0; i < table.length; i++) {
     if (!table[i]) continue;
+
+    // 先檢查這一行有沒有 "BOSS"
+    if (table[i].some(cell =>
+      typeof cell === 'string' && cell.toLowerCase().includes('boss')
+    )) {
+      break; // 偵測到 BOSS 就整個 break
+    }
+
     for (let c = 0; c < table[i].length; c++) {
       const cell = table[i][c];
       if (
@@ -104,18 +128,50 @@ function getMonsterDefense(table) {
   return monsters;
 }
 
-function getMonsterDrop(){
-  
+function getMonsterDrop(table) {
+  const lvStarts = getBlockStartRowsLv(table);
+  const defenseStarts = getBlockStartRowsDefense(table);
+
+  const allDrops = [];
+
+  lvStarts.forEach((lvIdx, block) => {
+    const nextDefenseIdx = defenseStarts.find(idx => idx > lvIdx) ?? table.length;
+    const dropRows = table.slice(lvIdx + 10, Math.min(lvIdx + 25, nextDefenseIdx)); // Row 10~25
+
+    // 依序抓5隻怪
+    for (let i = 0; i < DROP_COL_INDEXES.length; i++) {
+      const colIndexes = DROP_COL_INDEXES[i];
+      const monsterDrops = [];
+
+      // 每一列row，對應這三個欄位抓一次
+      for (const row of dropRows) {
+        for (const col of colIndexes) {
+          const cell = row[col];
+          if (typeof cell === 'string' && cell.trim()) {
+            monsterDrops.push(cell.trim());
+          }
+        }
+      }
+      allDrops.push(monsterDrops);
+    }
+  });
+
+  return allDrops;
 }
+
 
 function parseAllMonsters(table) {
   const monsters = getMonsterBasicInformation(table);
   const defenses = getMonsterDefense(table);
+  const drops = getMonsterDrop(table);
 
   return monsters.map((monster, idx) => ({
     ...monster,
     defense: defenses[idx] || {},
-  }));
+    drops: drops[idx] || [],
+  }))
+
+    .filter(monster => monster.name && monster.name.trim() !== '');
 }
 
 async function main() {
@@ -125,18 +181,16 @@ async function main() {
     const monsters = parseAllMonsters(table);
 
     // ====== 這裡插測試用 code ======
-    const lvStarts = getBlockStartRowsLv(table);
-    const defenseStarts = getBlockStartRowsDefense(table);
 
-    const firstLvIdx = lvStarts[0];
-    const firstDefenseIdx = defenseStarts.find(idx => idx > firstLvIdx) ?? table.length;
+    const drops = getMonsterDrop(table);
 
-    const firstDropBlock = table.slice(firstLvIdx + 1, firstDefenseIdx);
-
-    console.log('第一組 LV~物理防禦力之間的區塊：');
-    firstDropBlock.forEach((row, i) => {
-      console.log(`Row ${firstLvIdx + 1 + i}:`, row);
+    drops.slice(0, 5).forEach((monsterDrops, i) => {
+      console.log(`第${i + 1}隻怪物的掉落物:`);
+      monsterDrops.forEach((item, idx) => {
+        console.log(`  ${idx + 1}: ${item}`);
+      });
     });
+
     // ====== 測試用 code 結束 ======
 
     fs.writeFileSync(

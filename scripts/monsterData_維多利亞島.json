@@ -12,7 +12,19 @@
       "defenseMagic": "0",
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Bob's Snail Shell\n(嫩寶的蝸牛殼)",
+      "Red Potion\n(紅色藥水)",
+      "Green Apple\n(青蘋果)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Arrow for Bow\n(箭矢)",
+      "Green Headband\n(綠髮帶)",
+      "Bronze Ore\n(青銅母礦)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Scroll for Cape for MDEF 60%\n(披風魔防卷軸60%)",
+      "Scroll for Helmet for DEF 10%\n(頭盔防禦卷軸10%)"
+    ]
   },
   {
     "level": "LV. 2",
@@ -27,7 +39,21 @@
       "defenseMagic": "0",
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Blue Snail Shell\n(藍寶殼)",
+      "Red Potion\n(紅色藥水)",
+      "Green Apple.\n(青蘋果)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Red-Striped T-Shirt\n(黃紅短T)",
+      "Grey Thick Sweat Pants\n(灰色橡膠褲)",
+      "Grey / Brown Training Shirt\n(灰修煉服)",
+      "Grey / Brown Training Pants\n(灰修煉褲)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Scroll for Cape for HP 100%\n(披風生命卷軸100%)"
+    ]
   },
   {
     "level": "LV. 2",
@@ -42,7 +68,22 @@
       "defenseMagic": "0",
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Mushroom Spore\n(蘑菇芽孢)",
+      "Red Potion\n(紅色藥水)",
+      "Green Apple.\n(青蘋果)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Field Dagger\n(戰鬥短刀)",
+      "Ice Jeans\n(破爛牛仔褲)",
+      "Jean Capris\n(藍馬褲)",
+      "Green Avelin Skirt\n(綠色旅行裙)",
+      "Brown Rocky Bandana\n(褐色洛基頭巾)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Scroll for Cape for HP 60%\n(披風生命卷軸60%)"
+    ]
   },
   {
     "level": "LV. 4",
@@ -57,7 +98,26 @@
       "defenseMagic": 10,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Red Snail Shell\n(紅寶殼)",
+      "Red Potion\n(紅色藥水)",
+      "Green Apple.\n(青蘋果)",
+      "Silver Ore\n(銀的母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Wooden Sword\n(木劍)",
+      "Leather Purse\n(皮製手提包)",
+      "Metal Wand\n(金屬短杖)",
+      "Brown Duo\n(褐短指手套)",
+      "Red Cloth Pants\n(紅夢褲)",
+      "Brown Rocky Suit\n(褐色洛基外衣)",
+      "Brown Woodsman Boots\n(褐軟布鞋)",
+      "Amethyst Earrings\n(紫水晶耳環)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Scroll for Overall Armor for DEX 10%\n(套服敏捷卷軸10%)",
+      "Scroll for Cape for MP 100%\n(披風魔力卷軸100%)"
+    ]
   },
   {
     "level": "LV. 4",
@@ -72,7 +132,24 @@
       "defenseMagic": 10,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Tree Branch\n(樹枝)",
+      "Red Potion\n(紅色藥水)",
+      "Green Apple.\n(青蘋果)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Composite Bow\n(鋼鐵弓)",
+      "Triangular Zamadar\n(三角刃)",
+      "Pistol\n(火槍)",
+      "Juno\n(腕甲)",
+      "Brown High Boots\n(褐旅行鞋)",
+      "Rookie Pants\n(紅皮甲褲)",
+      "Arrow for Bow\n(箭矢)",
+      "Scroll for Topwear for DEF 10%\n(上衣防禦卷軸10%)",
+      "Scroll for Cape for HP 10%\n(披風生命卷軸10%)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 6",
@@ -87,7 +164,27 @@
       "defenseMagic": 10,
       "evasionRate": 1,
       "accuracy": "4 (每少1級 +0.13)"
-    }
+    },
+    "drops": [
+      "Squishy Liquid\n(綠液球)",
+      "Scroll for Cape for DEX 100%\n(披風敏捷卷軸100%)",
+      "Slime Bubble\n(綠水靈珠)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for Bottomwear for DEF 10%\n(褲、裙防禦卷軸10%)",
+      "White Bandana\n(白頭巾)",
+      "Metal Axe\n(遺失的斧頭)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "Fork on a Stick\n(叉槍)",
+      "Beige Nitty\n(褐安全鞋)",
+      "Lemona\n(魔法手套)",
+      "Leather Purse\n(皮製手提包)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Green Apple.\n(青蘋果)",
+      "Steel Knuckler\n(鐵指虎)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 7",
@@ -102,7 +199,27 @@
       "defenseMagic": 20,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Pig's Head\n(肥肥頭)",
+      "Scroll for Cape for LUK 100%\n(披風幸運卷軸100%)",
+      "Red Potion\n(紅色藥水)",
+      "Brown Hard Leather Pants\n(褐色皮製褲)",
+      "Brown Skullcap\n(褐色皮帽)",
+      "Scroll for Shoes for DEX 10%\n(鞋子敏捷卷軸10%)",
+      "Wooden Mallet\n(木錘)",
+      "Gold Ore\n(黃金母礦)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Garnier\n(拳套)",
+      "White Split Skirt\n(白伽藍裙)",
+      "Leather\n(動物皮)",
+      "Orange Lolica Armor\n(黃皮製鎧甲)",
+      "Dark Nightshift\n(黑夜)",
+      "Green Apple.\n(青蘋果)",
+      "Brown Rocky Bandana\n(褐色洛基頭巾)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 8",
@@ -117,7 +234,25 @@
       "defenseMagic": 10,
       "evasionRate": 1,
       "accuracy": "4 (每少1級 +0.13)"
-    }
+    },
+    "drops": [
+      "Orange Mushroom Cap\n(菇菇寶貝傘)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for Shoes for Jump 10%\n(鞋子跳躍卷軸10%)",
+      "White Gomushin\n(白橡膠鞋)",
+      "Bronze Koif\n(青銅頭盔)",
+      "Spear\n(長槍)",
+      "Double Axe\n(雙刃斧)",
+      "Bronze Ore\n(青銅母礦)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Basic Archer Gloves\n(青狩獵手套)",
+      "Red Ninja Sandals\n(紅忍者涼鞋)",
+      "Brown Hard Leather Boots\n(褐硬皮鞋)",
+      "Brown Rocky Suit\n(褐色洛基外衣)",
+      "Bullet\n(彈丸)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 10",
@@ -132,7 +267,28 @@
       "defenseMagic": 30,
       "evasionRate": 2,
       "accuracy": "7 (每少1級 +0.26)"
-    }
+    },
+    "drops": [
+      "Pig's Ribbon\n(蝴蝶結)",
+      "Red Potion\n(紅色藥水)",
+      "Stiff Feather\n(堅硬的羽毛)",
+      "Scroll for Shield for DEF 10%\n(盾牌防禦卷軸10%)",
+      "Silver Leather Hoodwear\n(銀連帽弓箭手服)",
+      "Dark Nightshift\n(黑夜)",
+      "Dark Nightshift Pants\n(黑夜褲)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "Leather\n(動物皮)",
+      "Amethyst Earrings\n(紫水晶耳環)",
+      "Wooden Samurai Sword\n(幻木劍)",
+      "Red-Striped T-Shirt\n(黃紅短T)",
+      "Orange Sporty T-Shirt\n(橙色運動T恤)",
+      "Pistol\n(火槍)",
+      "Brown Cotton Lagger\n(褐色皮外套)",
+      "Brown Lagger Slipper\n(褐色拖鞋)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 10",
@@ -147,7 +303,30 @@
       "defenseMagic": 10,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Leaf\n(葉子)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for Gloves for DEX 10%\n(手套敏捷卷軸10%)",
+      "Stolen Fence\n(木盾)",
+      "Bronze Helmet\n(青銅帽)",
+      "Pole Arm\n(鐵戟)",
+      "Yellow Avelin\n(黃旅行服)",
+      "Yellow Avelin Skirt\n(黃旅行裙)",
+      "Green Arianne Skirt\n(綠錦絲緊身裙)",
+      "Green Arianne\n(綠錦絲緊身衣)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Single Earring\n(單邊銀色耳環)",
+      "Wooden Staff\n(木製長杖)",
+      "Machete\n(逆月刀)",
+      "Orange Potion\n(橘色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Steel Knuckler\n(鐵指虎)",
+      "Brown Lagger Cap\n(灰色萊克帽)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 12",
@@ -162,7 +341,25 @@
       "defenseMagic": 40,
       "evasionRate": 4,
       "accuracy": "15 (每少1級 +0.53)"
-    }
+    },
+    "drops": [
+      "Octopus Leg\n(章魚腳)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for One-Handed Sword for ATT 10%\n(單手劍攻擊卷軸10%)",
+      "Single Earring\n(單邊銀色耳環)",
+      "Wooden Mallet\n(木錘)",
+      "Steel Shield\n(鋼盾)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Yellow Arianne Skirt\n(黃錦絲緊身裙)",
+      "Yellow Arianne\n(黃錦絲緊身衣)",
+      "Brown Corporal\n(青銅胸甲)",
+      "Brown Corporal Pants\n(褐色鐵板褲子)",
+      "Leather Arms\n(加固皮護手)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 15",
@@ -177,7 +374,38 @@
       "defenseMagic": 40,
       "evasionRate": 5,
       "accuracy": "18 (每少1級 +0.66)"
-    }
+    },
+    "drops": [
+      "Green Mushroom Cap\n(綠菇菇傘)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for One-Handed Axe for ATT 10%\n(單手斧攻擊卷軸10%)",
+      "Blue Potion\n(藍色藥水)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Mace\n(鐵瓜錘)",
+      "Red Nightshift\n(赤夜)",
+      "Red Nightshift Pants\n(赤夜褲)",
+      "Silver Ore\n(銀的母礦)",
+      "Pan Lid\n(鍋蓋)",
+      "Battle Crossbow\n(戰鬥弩弓)",
+      "Grey Able Armor\n(黑皮製旅行服)",
+      "Grey Able Skirt\n(灰旅行皮裙)",
+      "Composite Bow\n(鋼鐵弓)",
+      "Old Wisconsin\n(狗皮帽)",
+      "Long Sword\n(大劍)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Leather Arms\n(加固皮護手)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Single Earring\n(單邊銀色耳環)",
+      "Brown Winter Hat\n(褐色高級皮帽)",
+      "Orange Potion\n(橘色藥水)",
+      "Green Matty\n(綠星魔法帽)",
+      "Brown Lagger Slipper\n(褐色拖鞋)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Zeco\n(雙天戟)",
+      "Purple Arianne\n(紫錦絲緊身衣)",
+      "Purple Arianne Skirt\n(紫錦絲緊身裙)"
+    ]
   },
   {
     "level": "LV. 15",
@@ -192,7 +420,33 @@
       "defenseMagic": 50,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Red Potion\n(紅色藥水)",
+      "Scroll for Cape for INT 100%\n(披風智力卷軸100%)",
+      "Scroll for Dagger for ATT 10%\n(短劍攻擊卷軸10%)",
+      "Scroll for Cape for DEF 60%\n(披風防禦卷軸60%)",
+      "Blue Potion\n(藍色藥水)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Bubbling's Huge Bubble\n(藍水靈珠)",
+      "Red Apprent冰 Hat\n(紅色舊魔法帽)",
+      "Spear\n(槍)",
+      "Blue Nightshift\n(青夜)",
+      "Blue Nightshift Pants\n(青夜褲)",
+      "Yellow Able Armor\n(黃皮製旅行服)",
+      "Brown Able Skirt\n(褐旅行皮裙)",
+      "Wooden Samurai Sword\n(幻木劍)",
+      "Blue Jewelry Boots\n(藍寶石鞋)",
+      "Fish Spear\n(海神叉)",
+      "The Magic Rock\n(魔法石)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Green Lagger Halfglove\n(綠色皮手套)",
+      "Dellinger Special\n(迪林格火槍)",
+      "Bullet\n(彈丸)"
+    ]
   },
   {
     "level": "LV. 17",
@@ -207,7 +461,31 @@
       "defenseMagic": 10,
       "evasionRate": 5,
       "accuracy": "18 (每少1級 +0.66)"
-    }
+    },
+    "drops": [
+      "wood\n(木柴)",
+      "Red Potion\n(紅色藥水)",
+      "Scroll for One-Handed BW for ATT 10%\n(單手棍攻擊卷軸10%)",
+      "Wizard Wand\n(法師短杖)",
+      "Bronze Aroa Boots\n(褐短鞋)",
+      "Blue Potion\n(藍色藥水)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Contra Axe\n(遺失的斧頭)",
+      "Wooden Sword\n(木劍)",
+      "Battle Shield\n(戰鬥盾牌)",
+      "Amethyst Earrings\n(紫水晶耳環)",
+      "Orange Split Piece\n(朱紅伽藍)",
+      "White Split Pants\n(白伽藍褲)",
+      "Brown Nightshift\n(黃夜)",
+      "Brown Nightshift Pants\n(黃夜褲)",
+      "Blue Robin Hat\n(藍羽翼帽)",
+      "Old Wooden Staff\n(木製長杖)",
+      "Wooden Baseball Bat\n(木球棍)",
+      "Dellinger Special\n(迪林格火槍)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 19",
@@ -222,7 +500,31 @@
       "defenseMagic": 15,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Seedling\n(苗木)",
+      "Red Potion\n(紅色藥水)",
+      "Bronze Ore\n(青銅母礦)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Silver Ore\n(銀的母礦)",
+      "Scroll for Overall Armor for DEX 60%\n(套服敏捷卷軸60%)",
+      "Scroll for Gloves for DEX 60%\n(手套敏捷卷軸60%)",
+      "Yellow Able Armor\n(黃皮製旅行服)",
+      "Brown Able Skirt\n(褐旅行皮裙)",
+      "Green Plain Robe\n(綠魔法袍)",
+      "Green Lagger Halfglove\n(綠色皮手套)",
+      "Black Split Pants\n(黑伽藍褲)",
+      "Black Split Skirt\n(黑伽藍裙)",
+      "Orange High Boots\n(黃旅行鞋)",
+      "Blue Enamel Boots\n(藍漆皮鞋)",
+      "Dark Savata\n(黑命中手套)",
+      "Red Thief Hood\n(盜賊紅頭巾)",
+      "Blue Feather Hat\n(藍羽毛帽)",
+      "Blue Wizard Robe\n(藍牧師長袍)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Blue Potion\n(藍色藥水)",
+      "Scroll for Knuckle for ATT 10%\n(指虎攻擊卷軸10%)"
+    ]
   },
   {
     "level": "LV. 20",
@@ -237,7 +539,38 @@
       "defenseMagic": 60,
       "evasionRate": 7,
       "accuracy": "26 (每少1級 +0.93)"
-    }
+    },
+    "drops": [
+      "Blue Mushroom Cap\n(藍菇菇傘)",
+      "Orange Potion\n(橘色藥水)",
+      "Magic Potion\n(魔力藥水)",
+      "Scroll for Two-handed Sword for ATT 10%\n(雙手劍攻擊卷軸10%)",
+      "Field Dagger\n(戰鬥短刀)",
+      "Steel Fitted Mail\n(鋼鐵鎧甲)",
+      "Red Loosecap\n(紅色自由帽)",
+      "Arrow for Bow\n(箭矢)",
+      "Gold Ore\n(黃金母礦)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Mithril Pole Arm\n(鋰礦戟)",
+      "Red Shivermail\n(紅硬皮裝)",
+      "Red Shivermail Skirt\n(紅硬皮裙)",
+      "Blue Sergeant\n(藍軍官鎧甲)",
+      "Steel Sergeant Kilt\n(鋼鐵軍官裙)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Purple Jewelry Boots\n(紫寶石鞋)",
+      "Fork on a Stick\n(叉槍)",
+      "Topaz Ore\n(黃晶母礦)",
+      "White Potion\n(白色藥水)",
+      "Mithril War Boots\n(鋰礦戰鬥鞋)",
+      "Halfmoon Zamadar\n(半月刃)",
+      "Wizard Staff\n(法師長杖)",
+      "Green Burgler\n(綠防風帽)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Brown Lagger Cap\n(灰色萊克帽)",
+      "Brown Double Marine\n(褐色水手頭巾)",
+      "Brown Pitz Bandana\n(褐色皮茲頭巾)"
+    ]
   },
   {
     "level": "LV. 20",
@@ -252,7 +585,31 @@
       "defenseMagic": 20,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Stirge Wing\n(蝙蝠翅膀)",
+      "Orange Potion\n(橘色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Lemon\n(檸檬)",
+      "Stiff Feather\n(堅硬的羽毛)",
+      "Steel Corporal\n(鐵胸甲)",
+      "Steel Corporal Pants\n(鐵板褲)",
+      "Red Pao\n(紅唐裝)",
+      "Red Pao Bottom\n(紅唐衫褲)",
+      "Pink Qi Pao\n(粉紅旗袍)",
+      "Purple Qi Pao Skirt\n(紫旗袍裙)",
+      "Scroll for Knuckle for ATT 60%\n(指虎攻擊卷軸60%)",
+      "Scroll for Cape for MDEF 10%\n(披風魔防卷軸10%)",
+      "Green Robin Hat\n(綠羽翼帽)",
+      "Ryden\n(雷電)",
+      "Scroll for Helmet for INT 100%\n(頭盔智力卷軸100%)",
+      "Scroll for One-Handed Axe for ATT 60%\n(單手斧攻擊卷軸60%)",
+      "Work Gloves\n(工地手套)",
+      "Brown Cotton Lagger\n(褐色皮外套)",
+      "Beige Carribean\n(褐色加勒比套裝)"
+    ]
   },
   {
     "level": "LV. 21",
@@ -267,7 +624,25 @@
       "defenseMagic": 30,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Jr. Necki Skin\n(蛇皮)",
+      "Orange Potion\n(橘色藥水)",
+      "Scroll for Shield for DEF 10%\n(盾牌防禦卷軸10%)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Orange\n(柳橙)",
+      "Coconut Knife\n(牙刀)",
+      "Red Jack Boots\n(紅皮製長靴)",
+      "Steel Sharp Helm\n(鐵製尖頭具)",
+      "Blue Kendo Robe\n(藍劍道服)",
+      "Purple Split\n(紫伽藍)",
+      "White Split Skirt\n(白伽藍裙)",
+      "Brown Lamelle\n(褐十字軍甲)",
+      "Brown Ramel Skirt\n(褐十字軍裙)",
+      "Scroll for Bottomwear for Jump 100%\n(褲裙跳躍卷軸10%)",
+      "Double Tail Knuckler\n(雙棘指虎)"
+    ]
   },
   {
     "level": "LV. 22",
@@ -282,7 +657,36 @@
       "defenseMagic": "0",
       "evasionRate": 7,
       "accuracy": "26 (每少1級 +0.93)"
-    }
+    },
+    "drops": [
+      "Horny Mushroom Cap\n(刺菇菇傘)",
+      "Orange Potion\n(橘色藥水)",
+      "Wizard Potion\n(強效魔力水)",
+      "Scroll for Two-handed Axe for ATT 10%\n(雙手斧攻擊卷軸10%)",
+      "Iron Burgernet Helm\n(鋼製騎士頭盔)",
+      "Green Able Armor\n(皮製旅行服)",
+      "Green Able Armor Skirt\n(綠旅行皮裙)",
+      "Yellow Windshoes\n(黃飄風鞋)",
+      "Red Kendo Robe\n(紅劍道服)",
+      "Arrow for Bow\n(箭矢)",
+      "Bronze Ore\n(青銅母礦)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Eagle Crow\n(鷹弩)",
+      "Black Pao\n(黑唐衫)",
+      "Black Pao Bottom\n(黑唐衫褲)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Blue Jean Shorts\n(藍牛仔短褲)",
+      "Steel Fingerless Gloves\n(鋼製短手套)",
+      "Brown Jester\n(褐色術士帽)",
+      "Steel Shield\n(鋼盾)",
+      "Cutlus\n(彎刀)",
+      "Mithril Pole Arm\n(鋰礦戟)",
+      "The Negotiator\n(格蘭德火槍)",
+      "Brown Turk Gally\n(褐色海盜服)",
+      "Bullet\n(彈丸)",
+      "Scroll for One-Handed BW for Accuracy 10%\n(單手棍命中卷軸10%)"
+    ]
   },
   {
     "level": "LV. 22",
@@ -297,7 +701,35 @@
       "defenseMagic": 20,
       "evasionRate": 7,
       "accuracy": "26 (每少1級 +0.93)"
-    }
+    },
+    "drops": [
+      "wood\n(木柴)",
+      "Orange Potion\n(橘色藥水)",
+      "Sap of Ancient Tree\n(枯木樹液)",
+      "Scroll for Two-handed BW for ATT 10%\n(雙手棍攻擊卷軸10%)",
+      "Brown Doroness Robe\n(褐魔者之袍)",
+      "Green Able Armor Skirt\n(綠旅行皮裙)",
+      "Purple Shivermail\n(紫硬皮裝)",
+      "Purple Shivermail Skirt\n(紫硬皮裙)",
+      "Arrow for Bow\n(箭矢)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Adamantium Igor\n(朱礦指虎)",
+      "Red Lappy Boots\n(紅追擊鞋)",
+      "Yellow Starry Bandana\n(黃星頭巾)",
+      "Mithril Guards\n(鋰礦鬥拳)",
+      "Silver Guardian\n(銀守護拳套)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Purple Doroness Robe\n(紫魔者之袍)",
+      "Black Lappy Boots\n(黑追擊鞋)",
+      "The Summoning Rock\n(召喚石)",
+      "Wooden Top\n(木製陀螺)",
+      "Axe\n(遺失的斧頭)",
+      "Brown Double Marine\n(褐色水手頭巾)",
+      "Scroll for Two-Handed Sword for Accuracy 60%\n(雙手劍命中卷軸60%)",
+      "Scroll for Two-handed BW for ATT 100%\n(雙手棍攻擊卷軸100%)"
+    ]
   },
   {
     "level": "LV. 23",
@@ -312,7 +744,32 @@
       "defenseMagic": 40,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Wooden Board\n(木板)",
+      "Orange Potion\n(橘色藥水)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Bronze Ore\n(青銅母礦)",
+      "Scroll for Cape for INT 60%\n(披風智力卷軸60%)",
+      "Brown Robin Hat\n(褐羽翼帽)",
+      "Mithril Viking Helm\n(鋰礦海盜頭盔)",
+      "Scroll for Shield for DEF 60%\n(盾牌防禦卷軸60%)",
+      "Blue Split Piece\n(藍伽藍)",
+      "Green Loosecap\n(綠色自由帽)",
+      "Black Split Pants\n(黑伽藍褲)",
+      "Black Lappy Boots\n(黑追擊鞋)",
+      "Gold War Boots\n(金戰鬥鞋)",
+      "Silver Sylvia\n(銀暴風手套)",
+      "Iron Dagger\n(鋼短刀)",
+      "Orihalcon Missel\n(紫礦機器手套)",
+      "Ocean Mesana\n(藍賢者手套)",
+      "Scroll for Spear for Accuracy 60%\n(槍命中卷軸60%)",
+      "Blue Potion\n(藍色藥水)",
+      "Scroll for Knuckle for Accuracy 100%\n(指虎命中卷軸100%)",
+      "Bullet\n(彈丸)",
+      "Brown Double Marine\n(褐色水手頭巾)"
+    ]
   },
   {
     "level": "LV. 24",
@@ -327,7 +784,39 @@
       "defenseMagic": 30,
       "evasionRate": 7,
       "accuracy": "29 (每少1級 +1.06)"
-    }
+    },
+    "drops": [
+      "Charm of the Undead\n(道符)",
+      "Orange Potion\n(橘色藥水)",
+      "Scroll for Spear for ATT 10%\n(槍攻擊卷軸10%)",
+      "Weighted Earrings\n(錘珠耳環)",
+      "Gold Earrings\n(金耳環)",
+      "Hunter's Bow\n(打獵弓)",
+      "Iron Axe\n(鐵製斧頭)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Green Hunter\n(綠獵人帽)",
+      "Brown Sneak\n(褐敏捷之服)",
+      "Blue Potion\n(藍色藥水)",
+      "Brown Sneak Pants\n(褐敏捷之褲)",
+      "Mithril Wand\n(鋰礦短杖)",
+      "Red Martial Arts Pants\n(紅武褲)",
+      "Green Hwarang Shirt\n(綠龍服)",
+      "Steel Corporal\n(鐵胸甲)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "White Potion\n(白色藥水)",
+      "Blue Chaos Robe\n(藍魔力長袍)",
+      "White Chaos Robe\n(白魔力長袍)",
+      "Pink Jester\n(粉紅術士帽)",
+      "Nakamaki\n(刺槍)",
+      "Red Hwarang Shirt\n(紅龍服)",
+      "Blue Counter\n(青光斧)",
+      "Golden Hook\n(黃金火槍)",
+      "Speed Potion\n(速度藥水)",
+      "Brown Leather Armor Glove\n(褐色皮革手腕)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)"
+    ]
   },
   {
     "level": "LV. 24",
@@ -342,7 +831,28 @@
       "defenseMagic": 40,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Slate\n(石板)",
+      "Orange Potion\n(橘色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Scroll for Earring for INT 60%\n(耳環智力卷軸60%)",
+      "Scroll for Spear for ATT 60%\n(槍攻擊卷軸60%)",
+      "Viking Sword\n(海盜劍)",
+      "冰 Wand\n(冰精短杖)",
+      "Blue Pao Bottom\n(藍唐衫褲)",
+      "Blue Pao\n(藍唐裝)",
+      "Sky Shark\n(天藍騎士甲)",
+      "Sky Shark Skirt\n(天藍騎士裙)",
+      "Scroll for Staff for Magic Attack 60%\n(長杖魔力卷軸60%)",
+      "Ryden\n(雷電)",
+      "Green Marker\n(綠擊中手套)",
+      "Red Lutia\n(紅守護手套)",
+      "Speed Potion\n(速度藥水)"
+    ]
   },
   {
     "level": "LV. 25",
@@ -357,7 +867,38 @@
       "defenseMagic": 30,
       "evasionRate": 8,
       "accuracy": "29 (每少1級 +1.06)"
-    }
+    },
+    "drops": [
+      "Wild Boar Tooth\n(黑肥肥尖牙)",
+      "Orange Potion\n(橘色藥水)",
+      "Stiff Feather\n(堅硬的羽毛)",
+      "Weighted Earrings\n(錘珠耳環)",
+      "Green Shivermail\n(綠硬皮裝)",
+      "Green Shivermail Skirt\n(綠硬皮裙)",
+      "Red Doroness Robe\n(紅魔者之袍)",
+      "Sapphire Earrings\n(藍寶石耳環)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Bronze Pride\n(孫悟空青銅頭箍)",
+      "Mithril Battle Grieves\n(藍鬥士鞋)",
+      "Iron Chain Boots\n(鋼鐵鏈鞋)",
+      "Leather\n(動物皮)",
+      "Nakamaki\n(刺槍)",
+      "Lionheart\n(高原之劍)",
+      "Circle-Winded Staff\n(風輪長杖)",
+      "Brown Piette Pants\n(褐貴族褲)",
+      "Brown Piette\n(褐貴族之服)",
+      "Blue Knucklevest Pants\n(藍暗影之褲)",
+      "Brown Guiltian\n(褐魔道之帽)",
+      "Ryden\n(雷電)",
+      "Eagle Crow\n(鷹弩)",
+      "Red Distinction\n(紅羽絲絨帽)",
+      "Sabretooth\n(格鬥斧)",
+      "Hard Leather Glove\n(褐色堅固皮手腕)",
+      "Split Bullet\n(彈丸)",
+      "Warrior Potion\n(攻擊藥水)"
+    ]
   },
   {
     "level": "Lv. 27",
@@ -372,7 +913,38 @@
       "defenseMagic": 70,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Evil Eye Tail\n(火獨眼獸之尾巴)",
+      "Orange Potion\n(橘色藥水)",
+      "Scroll for Pole Arm for ATT 10%\n(矛攻擊卷軸10%)",
+      "Yellow Square\n(方形耳環)",
+      "Speed Potion\n(速度藥水)",
+      "Gold Sneak\n(綠敏捷之服)",
+      "Great Red Helmet\n(紅色戰鬥頭盔)",
+      "Cat's Eye\n(貓眼耳環)",
+      "Silver Ore\n(銀的母礦)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "White Wizard Robe\n(白牧師長袍)",
+      "Cutlus\n(彎刀)",
+      "Blue Potion\n(藍色藥水)",
+      "Gold Sneak Pants\n(綠敏捷褲)",
+      "Blue Engrit\n(藍護身鎧甲)",
+      "Arrow for Bow\n(箭矢)",
+      "Arrow for Crossbow\n(弩箭)",
+      "Green Bennis Chainmail\n(綠打獵服)",
+      "Bennis Chainpants\n(打獵褲)",
+      "Forked Spear\n(三支槍)",
+      "Red Hwarang Shirt\n(紅龍服)",
+      "Diamond Ore\n(鑽石母礦)",
+      "White Potion\n(白色藥水)",
+      "Green Avelin\n(綠色旅行服)",
+      "Scroll for Two-Handed Sword for Accuracy 100%\n(雙手劍命中卷軸100%)",
+      "Scroll for Gloves for HP 100%\n(手套生命卷軸100%)",
+      "Norman Grip\n(諾曼指虎)",
+      "Khaki Shadow Pants\n(樹林之褲)",
+      "Mithril Maul\n(鋰礦錘)"
+    ]
   },
   {
     "level": "Lv. 30",
@@ -387,7 +959,20 @@
       "defenseMagic": 105,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Fierry's Tentacle\n(蝴蝶精的觸角)",
+      "Orange Potion\n(橘色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Silver Ore\n(銀的母礦)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Mithril Ore\n(鋰礦石母礦)"
+    ]
   },
   {
     "level": "Lv. 32",
@@ -402,7 +987,40 @@
       "defenseMagic": 40,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "火 Boar's Tooth\n(火肥肥尖牙)",
+      "Leather\n(動物皮)",
+      "Wolbi Throwing-Stars\n(迴旋鏢)",
+      "Arwen's Glass Shoes\n(玻璃鞋)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Korean Fan\n(太極扇)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Green Hwarang Shirt\n(綠龍服)",
+      "Ryden\n(雷電)",
+      "Brown Martial Arts Pants\n(黃武褲)",
+      "Gold Sylvia\n(黃金暴風手套)",
+      "Red Hunter Boots\n(紅打獵鞋)",
+      "Blue Lutia\n(藍守護手套)",
+      "Silver Guardian\n(銀守護拳套)",
+      "Black Salt Shoes\n(黑守護鞋)",
+      "Green Burgler\n(綠防風帽)",
+      "Red Silky Boots\n(紅錦絲鞋)",
+      "Heckler\n(雙弦弩)",
+      "Crystal Wand\n(水晶短杖)",
+      "Red Matty\n(紅星魔法帽)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Mithril Wand\n(鋰礦短杖)",
+      "Orange Potion\n(橘色藥水)",
+      "Brown Pollard\n(褐色無袖服)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Gun Production Stimulator\n(火槍催化劑)",
+      "Shield Production Stimulator\n(盾牌催化劑)"
+    ]
   },
   {
     "level": "Lv. 32",
@@ -417,7 +1035,33 @@
       "defenseMagic": 40,
       "evasionRate": 12,
       "accuracy": "44 (每少1級 +1.66)"
-    }
+    },
+    "drops": [
+      "Ligator Skin\n(鱷魚皮)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Plunger\n(通通樂)",
+      "Gephart\n(暗影刃)",
+      "Scroll for Cape for MDEF 10%\n(披風魔防卷軸10%)",
+      "The Magic Rock\n(魔法石)",
+      "Yellow Engrit\n(黃護身鎧甲)",
+      "Mithril Maul\n(鋰礦錘)",
+      "Green Marker\n(綠擊中手套)",
+      "Red Amoria Top\n(紅神聖法衣)",
+      "Steel Arbion\n(鋼鐵追擊手套)",
+      "Mithril Trigger\n(藍鐵頭鞋)",
+      "Steel Tower Shield\n(鋼鐵方盾)",
+      "Zeco\n(雙天戟)",
+      "Scroll for Knuckle for ATT 10%\n(指虎攻擊卷軸10%)",
+      "Red Amoria Skirt\n(紅神聖裙)",
+      "White Oceania Cap\n(白色遠洋帽)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "One-Handed Sword Production Stimulator\n(單手劍催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)"
+    ]
   },
   {
     "level": "Lv. 35",
@@ -432,7 +1076,21 @@
       "defenseMagic": 155,
       "evasionRate": 27,
       "accuracy": "99 (每少1級 +3.666)"
-    }
+    },
+    "drops": [
+      "Jr. Boogie Horn\n(幼魔精靈的角)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "The Magic Rock\n(魔法石)",
+      "The Summoning Rock\n(召喚石)",
+      "Dark Crystal Ore\n(黑暗母礦)",
+      "Power Crystal Ore\n(力量母礦)",
+      "Wisdom Crystal Ore\n(智慧母礦)",
+      "LUK Crystal Ore\n(幸運母礦)",
+      "DEX Crystal Ore\n(敏捷母礦)"
+    ]
   },
   {
     "level": "Lv. 35",
@@ -447,7 +1105,31 @@
       "defenseMagic": 90,
       "evasionRate": 17,
       "accuracy": "62 (每少1級 +2.26)"
-    }
+    },
+    "drops": [
+      "Tablecloth\n(桌布)",
+      "White Potion\n(白色藥水)",
+      "Scroll for Helmet for HP 10%\n(頭盔生命卷軸10%)",
+      "Mokbi Throwing-Stars\n(黑色利刃)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Scroll for Helmet for DEX 100%\n(頭盔敏捷卷軸100%)",
+      "Battle Bow\n(戰鬥弓)",
+      "Dark Crusader Chainmail\n(黑十字鎖子甲)",
+      "Dark Engrit\n(黑護身鎧甲)",
+      "Blue Avenger\n(藍飛影甲)",
+      "Mithril Scaler\n(鋰礦名弓手套)",
+      "Dark Noel\n(黑神聖手套)",
+      "Orihalcon Arbion\n(紫礦追擊手套)",
+      "Niam\n(綠蛇刀)",
+      "Red Moon Shoes\n(紅月鞋)",
+      "Red Pierre Shoes\n(紅精靈鞋)",
+      "Adamantium Avar冰\n(朱礦護腕)",
+      "Shooting Star\n(流星)",
+      "Dagger Production Stimulator\n(短劍的催化劑",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)",
+      "Helmet Production Stimulator\n(頭盔催化劑)"
+    ]
   },
   {
     "level": "Lv. 35",
@@ -462,7 +1144,36 @@
       "defenseMagic": 70,
       "evasionRate": 10,
       "accuracy": "37 (每少1級 +1.33)"
-    }
+    },
+    "drops": [
+      "Curse Eye Tail\n(風獨眼獸之尾巴)",
+      "White Potion\n(白色藥水)",
+      "Scroll for Bow for ATT 10%\n(弓攻擊卷軸10%)",
+      "Blue Potion\n(藍色藥水)",
+      "Lollipop\n(棒棒果)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Split Bullet\n(彈丸)",
+      "Red Hwarang Shirt\n(紅龍服)",
+      "Black Martial Arts Pants\n(黑武褲)",
+      "Green Matty\n(綠星魔法帽)",
+      "Dark Burgler\n(黑防風帽)",
+      "Black Knucklevest\n(黑暗影之服)",
+      "Black Knucklevest Pants\n(黑暗影之褲)",
+      "Nakamaki\n(刺槍)",
+      "Blue Moon light\n(藍色月光服)",
+      "Red Duke\n(紅色武士頭盔)",
+      "Brown Piette Pants\n(褐貴族褲)",
+      "Brown Piette\n(褐貴族之服)",
+      "Scroll for Gun for ATT 10%\n(火槍攻擊卷軸10%)",
+      "Lunar Shooter\n(銀月神射)",
+      "Sniper Potion\n(命中藥水)",
+      "Silver Maiden\n(利刃拳套)",
+      "Two-Handed Axe Production Stimulator\n(雙手斧催化劑)",
+      "Gun Production Stimulator\n(火槍催化劑)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "Blackbull's deed to the land\n(酋長的地契)"
+    ]
   },
   {
     "level": "Lv. 37",
@@ -477,7 +1188,40 @@
       "defenseMagic": 200,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.44)"
-    }
+    },
+    "drops": [
+      "Lorang Claw\n(紅螃蟹鉗)",
+      "Blue Potion\n(藍色藥水)",
+      "White Potion\n(白色藥水)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Scroll for Dagger for ATT 60%\n(短劍攻擊卷軸60%)",
+      "Sky Blue Umbrella\n(藍色雨傘)",
+      "Korean Fan\n(太極扇)",
+      "The Summoning Rock\n(召喚石)",
+      "Ryden\n(雷電)",
+      "Mithril Pole Arm\n(鋰礦戟)",
+      "Circle-Winded Staff\n(風輪長杖)",
+      "Dark Trigger\n(黑鐵頭鞋)",
+      "Dark Noel\n(黑神聖手套)",
+      "White Crusader Chainmail\n(白十字鎖子甲)",
+      "Blue Starlight\n(藍星光長袍)",
+      "Adamantium Tower Shield\n(朱礦方盾)",
+      "Blue Pierre Shoes\n(藍精靈鞋)",
+      "Dark Cleave\n(黑盜賊手套)",
+      "Dark Piette\n(黑貴族之服)",
+      "Dark Piette Pants\n(黑貴族褲)",
+      "Purple Shadow\n(花精之影)",
+      "Purple Shadow Pants\n(樹林之褲)",
+      "Brown Locote Shoes\n(褐色洛卡特鞋)",
+      "Scroll for Topwear for LUK 100%\n(上衣幸運卷軸100%)",
+      "Scroll for Helmet for INT 100%\n(頭盔智力卷軸100%)",
+      "Scroll for Knuckle for ATT 10%\n(指虎攻擊卷軸10%)",
+      "Neozard\n(尼奧札德毀滅拳套)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Claw Production Stimulator\n(拳套催化劑)",
+      "Bottomwear Production Stimulator\n( 褲裙催化劑)"
+    ]
   },
   {
     "level": "Lv. 37",
@@ -492,7 +1236,42 @@
       "defenseMagic": 40,
       "evasionRate": 20,
       "accuracy": "73 (每少1級 +2.66)"
-    }
+    },
+    "drops": [
+      "Lupin Doll\n(猴子娃娃)",
+      "Stiff Feather\n(堅硬的羽毛)",
+      "Scroll for Cape for MP 60%\n(披風魔力卷軸60%)",
+      "Blue Potion\n(藍色藥水)",
+      "Leather\n(動物皮)",
+      "Kumbi Throwing-Stars\n(雪花鏢)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Silver Ore\n(銀的母礦)",
+      "Lupin's Banana\n(香蕉)",
+      "Aluminum Baseball Bat\n(鋁球棍)",
+      "Snowball\n(雪球)",
+      "Brown Jester\n(褐色術士帽)",
+      "Blue Guise\n(藍假面帽)",
+      "Purple Steal\n(紫寂靜之服)",
+      "Purple Steal Pants\n(紫寂靜裙)",
+      "Dark Pole-Feather Hat\n(黑羽翼三角帽)",
+      "Dark Legolier\n(黑守護之服)",
+      "Dark Legolier Pants\n(黑守護之褲)",
+      "Scroll for Pole arm for Accuracy 10%\n(矛命中卷軸10%)",
+      "Sapphire Fitted Mail\n(藍寶石鎧甲)",
+      "Black Yellow-Lined Shoes\n(黃流星鞋)",
+      "Gold Moon Shoes\n(黃月鞋)",
+      "Mithril Tower Shield\n(鋰礦方盾)",
+      "Dark Avarice\n(黑護腕)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Eloon\n(太陽劍)",
+      "Light Mantis\n(灰飛影之服)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Brown Jeweled\n(褐色寶石手套)",
+      "Brown Leather Krag\n(褐色尖頭皮鞋)",
+      "White Potion\n(白色藥水)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "Shoes Production Stimulator\n(鞋子催化劑)"
+    ]
   },
   {
     "level": "Lv. 40",
@@ -507,7 +1286,38 @@
       "defenseMagic": 80,
       "evasionRate": 15,
       "accuracy": "55 (每少1級 +2)"
-    }
+    },
+    "drops": [
+      "Cold Eye Tail\n(冰獨眼獸之尾巴)",
+      "Scroll for Helmet for DEF 60%\n(頭盔防禦卷軸60%)",
+      "White Potion\n(白色藥水)",
+      "Gold Ore\n(黃金母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Pink Moon Conehat\n(紅色魔法帽)",
+      "Icicle\n(冰柱)",
+      "Eagle Crow\n(鷹弩)",
+      "Dark Guardian\n(黑守護拳套)",
+      "Red Salt Shoes\n(紅守護鞋)",
+      "Niam\n(綠蛇刀)",
+      "Dark Avar冰\n(黑護腕)",
+      "Red Distinction\n(紅羽絲絨帽)",
+      "Old Old Steel Nordic Helm\n(舊諾曼頭盔)",
+      "Brown Distinction\n(褐羽絲絨帽)",
+      "Red Shadow\n(火焰之影)",
+      "Red Shadow Pants\n(滄海之褲)",
+      "Emerald Hildon Boots\n(祖母綠將軍靴)",
+      "Pink Goldwind Shoes\n(粉紅黃金風)",
+      "Brown Moon Gloves\n(黃月手套)",
+      "Cat's Eye\n(貓眼耳環)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Scroll for Pole arm for Accuracy 60%\n(矛命中卷軸60%)",
+      "Dark Hunter's Pants\n(黑遊俠之褲)",
+      "Mana Elixir\n(活力藥水)",
+      "Two-Handed Sword Production Stimulator\n(雙手劍催化劑)",
+      "One-Handed BW Production Stimulator\n( 單手棍催化劑)",
+      "Pole Arm Production Stimulator\n(矛催化劑)"
+    ]
   },
   {
     "level": "Lv. 40",
@@ -522,7 +1332,39 @@
       "defenseMagic": 70,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Cursed Doll\n(詛咒娃娃)",
+      "White Potion\n(白色藥水)",
+      "Stiff Feather\n(堅硬的羽毛)",
+      "Blue Potion\n(藍色藥水)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "Silver Crow\n(白銀弩)",
+      "Purple Avenger\n(紫飛影甲)",
+      "Green Legolier Pants\n(綠守護之褲)",
+      "Green Legolier\n(綠守護之服)",
+      "Dark Pilfer\n(黑海盜頭巾)",
+      "Dark Starlight\n(黑星光長袍)",
+      "Brown Guiltian\n(褐魔道之帽)",
+      "Black Jangoon Skirt\n(黑鎮月裙)",
+      "Yellow Jangoon Armor\n(黃金鎧甲)",
+      "Blood Avar冰\n(赤紅護腕)",
+      "Arc Staff\n(精靈長杖)",
+      "Rower\n(炎弩)",
+      "The Nine Dragons\n(九龍刀)",
+      "Shinkita\n(破碎刃)",
+      "Black Jangoon Armor\n(黑鎮月鎧甲)",
+      "Bronze Wolfskin\n(青銅精神手套)",
+      "Dark Legolia\n(黑守護之服)",
+      "Scroll for Spear for Accuracy 10%\n(槍命中卷軸10%)",
+      "Emerald Fitted Mail\n(祖母綠鎧甲)",
+      "Red Misty\n(紅色皇家頭巾)",
+      "Two-Handed Sword Production Stimulator\n(雙手劍催化劑)",
+      "Gloves Production Stimulator\n(手套催化劑)",
+      "Shield Production Stimulator\n(盾牌催化劑)",
+      "Bow Production Stimulator\n(弓催化劑)"
+    ]
   },
   {
     "level": "Lv. 42",
@@ -537,7 +1379,30 @@
       "defenseMagic": 400,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.44)"
-    }
+    },
+    "drops": [
+      "Iron Hog's Metal Hoof\n(肥肥盔甲)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Elixir\n(特殊藥水)",
+      "Halfmoon Zamadar\n(半月刃)",
+      "Dankke\n(大斧)",
+      "Brown Burgler\n(褐防風帽)",
+      "Adamantium Tower Shield\n(朱礦方盾)",
+      "Red-Lined Kismet\n(赤仙白宮)",
+      "Red Moon Shoes\n(紅月鞋)",
+      "Blue Pierre Shoes\n(藍精靈鞋)",
+      "Gold Cleave\n(黃金盜賊手套)",
+      "Brown Guiltian\n(褐魔道之帽)",
+      "Orange Potion\n(橘色藥水)",
+      "Scroll for Helmet for DEX 100%\n(頭盔敏捷卷軸100%)",
+      "Blood Slain\n(赤紅手甲)",
+      "Knuckle Mace\n(旋風錘)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)"
+    ]
   },
   {
     "level": "Lv. 44",
@@ -552,7 +1417,35 @@
       "defenseMagic": 190,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.44)"
-    }
+    },
+    "drops": [
+      "Skeledog's Bone\n(骷髏犬骨頭)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Silver Ore\n(銀的母礦)",
+      "Bronze Ore\n(青銅母礦)",
+      "Great Red Helmet\n(紅色戰鬥頭盔)",
+      "Blue Bandana\n(青頭巾)",
+      "Brown Matty\n(褐星魔法帽)",
+      "Green Burgler\n(綠防風帽)",
+      "Hall Staff\n(護法之杖)",
+      "Steel Titan\n(鋼鐵拳套)",
+      "Sai\n(華氏短劍)",
+      "Blue-Lined Kismet\n(青仙白宮)",
+      "Red Pierre Shoes\n(紅精靈鞋)",
+      "Black Green-Lined Shoes\n(綠流星鞋)",
+      "Maroon Jangoon Shoes\n(紫金月鞋)",
+      "Mokbi Throwing-Stars\n(黑色利刃)",
+      "The Magic Rock\n(魔法石)",
+      "Scroll for Spear for ATT 60%\n(槍攻擊卷軸60%)",
+      "Scroll for Shoes for Jump 10%\n(鞋子跳躍卷軸10%)",
+      "Scroll for Gloves for HP 60%\n(手套生命卷軸60%)",
+      "Scroll for Shield for STR 100%\n(盾牌力量卷軸100%)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "One-Handed Sword Production Stimulator\n(單手劍催化劑)",
+      "Overall Production Stimulator\n(套裝催化劑)"
+    ]
   },
   {
     "level": "Lv. 45",
@@ -567,7 +1460,37 @@
       "defenseMagic": 100,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.444)"
-    }
+    },
+    "drops": [
+      "Drake Skull\n(暴龍的頭骨)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Dragon Skin\n(龍皮)",
+      "Blue Potion\n(藍色藥水)",
+      "The Summoning Rock\n(召喚石)",
+      "Dark Crusader Chainmail\n(黑十字鎖子甲)",
+      "Blue Pole-Feather Hat\n(藍羽翼三角帽)",
+      "Dark Arten\n(黑精靈手套)",
+      "Jacker\n(古代錘)",
+      "Brown Piette Pants\n(褐貴族褲)",
+      "Brown Piette\n(褐貴族之服)",
+      "Blue Bone Helm\n(藍色骷髏頭盔)",
+      "Arc Staff\n(精靈長杖)",
+      "Red Calas\n(紅魔法戰士衣)",
+      "Jeweled Katar\n(樹靈之劍)",
+      "Sai\n(華氏短劍)",
+      "Mithril Hildon Boots\n(鋰礦藍將軍靴)",
+      "Purple Steel-Tip Boots\n(紫弓手鞋)",
+      "Scroll for Two-Handed Sword for Accuracy 10%\n(雙手劍命中卷軸10%)",
+      "Red Barbay\n(紅色麻布衣)",
+      "Scroll for Helmet for INT 60%\n(頭盔智力卷軸60%)",
+      "Scroll for Bottomwear for HP 60%\n(褲裙生命卷軸60%)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Two-Handed Axe Production Stimulator\n(雙手斧催化劑)",
+      "Topwear Production Stimulator\n(上衣催化劑)"
+    ]
   },
   {
     "level": "Lv. 45",
@@ -582,7 +1505,32 @@
       "defenseMagic": 350,
       "evasionRate": 20,
       "accuracy": "73 (每少1級 +2.66)"
-    }
+    },
+    "drops": [
+      "Iron Boar Armor\n(鋼之黑肥肥的盔甲)",
+      "Scroll for Two-handed Sword for ATT 60%\n(雙手劍攻擊卷軸60%)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Brown Pilfer\n(褐海盜頭巾)",
+      "Pansy Earrings\n(紫荊花耳環)",
+      "Brown Piettra Skirt\n(褐貴族裙)",
+      "Orange Calas\n(朱紅魔法戰士衣)",
+      "Aqua Brace\n(藍勇氣手套)",
+      "Gold Moon Shoes\n(黃月鞋)",
+      "Maroon Jangoon Shoes\n(紫金月鞋)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Scroll for Shield for LUK 100%\n(盾牌幸運卷軸100%)",
+      "Bronze Arrow for Bow\n(青銅箭矢)",
+      "Bronze Arrow for Crossbow\n(青銅弩箭)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "Shoes Production Stimulator\n(鞋子催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)",
+      "Brown Piettra\n(褐女貴族服)"
+    ]
   },
   {
     "level": "Lv. 46",
@@ -597,7 +1545,35 @@
       "defenseMagic": 300,
       "evasionRate": 15,
       "accuracy": "55 (每少1級 +2)"
-    }
+    },
+    "drops": [
+      "Tortie Shell\n(烏龜殼)",
+      "Scroll for Cape for STR 60%\n(披風力量卷軸60%)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "Mithril Ore\n(鋰礦石母礦)",
+      "Scroll for Gloves for ATT 10%\n(手套攻擊卷軸10%)",
+      "Adamantium Avar冰\n(朱礦護腕)",
+      "Blue Guiltian\n(藍魔道之帽)",
+      "Green Pilfer\n(綠海盜頭巾)",
+      "White Piettra\n(白女貴族服)",
+      "White Piettra Skirt\n(白貴族裙)",
+      "Lion's Fang\n(虎劍)",
+      "Skull Shield\n(骷髏盾)",
+      "Blue Steel-Tip Boots\n(藍弓手鞋)",
+      "Purple Goldwind Shoes\n(紫黃金風)",
+      "Dark Shouldermail Pants\n(黑將軍褲)",
+      "Dark Shouldermail\n(黑將軍鎧甲)",
+      "Brown Moon Pants\n(黃月褲)",
+      "Brown Moon\n(黃月)",
+      "Scroll for Shield for LUK 100%\n(盾牌幸運卷軸100%)",
+      "Brown Double Boots\n(褐色強化皮靴)",
+      "Two-Handed Sword Production Stimulator\n(雙手劍催化劑)",
+      "One-Handed Axe Production Stimulator\n(單手斧催化劑)",
+      "Pole Arm Production Stimulator\n(矛催化劑)"
+    ]
   },
   {
     "level": "Lv. 47",
@@ -612,7 +1588,35 @@
       "defenseMagic": 195,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.44)"
-    }
+    },
+    "drops": [
+      "Dirty Bandage\n(繃帶)",
+      "Scroll for Cape for STR 10%\n(披風力量卷軸10%)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Topaz Ore\n(黃晶母礦)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Brown Jangoon Pants\n(黃金褲)",
+      "Red Jangoon Armor\n(紅鎮月鎧甲)",
+      "Brown Piettra\n(褐女貴族服)",
+      "Brown Piette Pants\n(褐貴族褲)",
+      "White Calas\n(白魔法戰士衣)",
+      "Blue Calaf\n(藍妖精禮服)",
+      "Mithril Brist\n(鋰礦合金手套)",
+      "Scroll for Two-handed BW for ATT 60%\n(雙手棍攻擊卷軸60%)",
+      "Brown Moon Gloves\n(黃月手套)",
+      "Bronze Pow\n(青銅柔絲手套)",
+      "Oaker Garner\n(黃神功手套)",
+      "Brown Leather Ocean Hat\n(褐色皮製遠洋帽)",
+      "Bronze Clench\n(青銅戰鬥手套)",
+      "The Summoning Rock\n(召喚石)",
+      "Scroll for Topwear for STR 10%\n(上衣力量卷軸10%)",
+      "Scroll for Topwear for LUK 60%\n(上衣幸運卷軸60%)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "One-Handed BW Production Stimulator\n( 單手棍催化劑)"
+    ]
   },
   {
     "level": "Lv. 48",
@@ -627,7 +1631,36 @@
       "defenseMagic": 180,
       "evasionRate": 20,
       "accuracy": "73 (每少1級 +2.66)"
-    }
+    },
+    "drops": [
+      "Medicine With Weird Vibes\n(怪藥)",
+      "Dark Crystal Ore\n(黑暗母礦)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Steel Ore\n(鋼鐵母礦)",
+      "Garnet Ore\n(石榴石母礦)",
+      "Red Whip\n(紅色鞭子)",
+      "The Summoning Rock\n(召喚石)",
+      "Cat's Eye\n(貓眼耳環)",
+      "Brown Double Boots\n(褐色強化皮靴)",
+      "Blue Knucklevest Pants\n(藍暗影之褲)",
+      "Green Knucklevest\n(綠暗影之服)",
+      "Maroon Jangoon Armor\n(紫金鎧甲)",
+      "White Jangoon Pants\n(白金褲)",
+      "Mithril Nordic Helm\n(鋰礦諾曼頭盔)",
+      "Red Sonata\n(紅黑太陽帽)",
+      "Blue Maro\n(藍貴族軟帽)",
+      "Flame Golden Circlet\n(火黃金法冠)",
+      "Red Maro\n(紅貴族軟帽)",
+      "Brown Moon Gloves\n(黃月手套)",
+      "Blue Goldwind Shoes\n(藍黃金風)",
+      "Scroll for Helmet for INT 10%\n(頭盔智力卷軸10%)",
+      "Mighty Bullet\n(強力子彈)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)",
+      "Helmet Production Stimulator\n(頭盔催化劑)"
+    ]
   },
   {
     "level": "Lv. 48",
@@ -642,7 +1675,34 @@
       "defenseMagic": 250,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Clang Claw\n(青螃蟹鉗)",
+      "Elixir\n(特殊藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Yellow Umbrella\n(黃色雨傘)",
+      "Scroll for One-Handed BW for ATT 60%\n(單手棍攻擊卷軸60%)",
+      "Marine Shadow\n(滄海之影)",
+      "Marine Shadow Pants\n(滄海之褲)",
+      "Brown Piettra Skirt\n(褐貴族裙)",
+      "Brown Piettra\n(褐女貴族服)",
+      "Red Duke\n(紅色武士頭盔)",
+      "Arc Staff\n(精靈長杖)",
+      "Orange Golden Circlet\n(土黃金法冠)",
+      "Mithril Crusader Helm\n(鋰礦十字軍帽)",
+      "Red Shouldermail\n(紅將軍鎧甲)",
+      "Red Shouldermail Pants\n(紅將軍褲)",
+      "Blue China Pants\n(青陽褲)",
+      "Blue China\n(青陽)",
+      "The Rising\n(太陽之斧)",
+      "Scroll for Topwear for LUK 10%\n(上衣幸運卷軸10%)",
+      "Fury Claw\n(惡魔之爪)",
+      "Two-Handed Sword Production Stimulator\n(雙手劍催化劑)",
+      "Claw Production Stimulator\n(拳套催化劑)",
+      "Gun Production Stimulator\n(火槍催化劑)"
+    ]
   },
   {
     "level": "Lv. 50",
@@ -657,7 +1717,41 @@
       "defenseMagic": 180,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Drake Skull\n(暴龍的頭骨)",
+      "White Potion\n(白色藥水)",
+      "Warrior Potion\n(攻擊藥水)",
+      "Drake's Blood\n(暴龍之血)",
+      "Drake's Meat\n(暴龍之肉)",
+      "Gold Ore\n(黃金母礦)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Dragon Skin\n(龍皮)",
+      "Elixir\n(特殊藥水)",
+      "Kumbi Throwing-Stars\n(雪花鏢)",
+      "Vaulter 2000\n(暴風弓)",
+      "Zeco\n(雙天戟)",
+      "Black Green-Lined Shoes\n(綠流星鞋)",
+      "Gold Moon Shoes\n(黃月鞋)",
+      "Sabretooth\n(格鬥斧)",
+      "Dark Calaf\n(黑妖精禮服)",
+      "Blue Lumati\n(藍貴族禮服)",
+      "Umber Shouldermail\n(黑板金鎧甲)",
+      "Umber Shouldermail Pants\n(黑板金褲)",
+      "Maroon Moon\n(紫月)",
+      "Maroon Moon Pants\n(紫月褲)",
+      "Dark Willow\n(黑意志手套)",
+      "Thorns\n(白龍之杖)",
+      "Pan Lid\n(鍋蓋)",
+      "Eagle Crow\n(鷹弩)",
+      "Speed Potion\n(速度藥水)",
+      "Silver Ore\n(銀的母礦)",
+      "Brown Leather Ocean Hat\n(褐色皮製遠洋帽)",
+      "Scroll for Topwear for HP 10%\n(上衣生命卷軸10%)",
+      "Claw Production Stimulator\n(拳套催化劑)",
+      "One-Handed BW Production Stimulator\n( 單手棍催化劑)",
+      "Pole Arm Production Stimulator\n(矛催化劑)"
+    ]
   },
   {
     "level": "Lv. 52",
@@ -672,7 +1766,35 @@
       "defenseMagic": 80,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Croco Skin\n(黑鱷魚皮)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Bronze Ore\n(青銅母礦)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Dragon Toenail\n(龍炎短劍)",
+      "Hall Staff\n(護法之杖)",
+      "Red Calas\n(紅魔法戰士衣)",
+      "Dark Golden Circlet\n(黑黃金法冠)",
+      "Green Lumati\n(綠貴族禮服)",
+      "Brown Sonata\n(黃黑太陽帽)",
+      "Brown Moon Pants\n(黃月褲)",
+      "Brown Moon\n(黃月)",
+      "Light Scorpio\n(白飛影之服)",
+      "Light Scorpio Pants\n(白飛影之褲)",
+      "Wooden Legend Shield\n(古老木盾)",
+      "Bronze Pow\n(青銅柔絲手套)",
+      "Scroll for Helmet for DEX 100%\n(頭盔敏捷卷軸100%)",
+      "Scroll for One-Handed BW for Accuracy 60%\n(單手棍命中卷軸60%)",
+      "Scroll for Two-Handed BW for Accuracy 60%\n(雙手棍命中卷軸60%)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Scroll for Knuckle for ATT 60%\n(指虎攻擊卷軸60%)",
+      "Black Royal Barone\n(紫色皇家套裝)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)"
+    ]
   },
   {
     "level": "Lv. 55",
@@ -687,7 +1809,39 @@
       "defenseMagic": 100,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Stone Golem Rubble\n(石塊)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Elixir\n(特殊藥水)",
+      "Red Cross Shield\n(紅十字盾牌)",
+      "Blue Potion\n(藍色藥水)",
+      "Scroll for Bow for ATT 60%\n(弓攻擊卷軸60%)",
+      "Scroll for Crossbow for ATT 60%\n(弩攻擊卷軸60%)",
+      "Crystal Wand\n(水晶短杖)",
+      "Dark Knuckle\n(黑色長手套)",
+      "Gold Cleave\n(黃金盜賊手套)",
+      "Blue Pierre Shoes\n(藍精靈鞋)",
+      "Green Goldwind Shoes\n(綠黃金風)",
+      "Red Moon\n(赤月)",
+      "Red Moon Pants\n(赤月褲)",
+      "Bronze Crusader Helm\n(青銅十字軍帽)",
+      "White Calas\n(白魔法戰士衣)",
+      "Bronze Identity\n(青銅忍者頭巾)",
+      "Green 冰 Queen\n(綠鋼玉鎧甲)",
+      "Green 冰 Queen Skirt\n(綠鋼玉裙)",
+      "Hawkhead\n(猛禽斧)",
+      "Ryden\n(雷電)",
+      "Sapphire Earrings\n(藍寶石耳環)",
+      "Kumbi Throwing-Stars\n(雪花鏢)",
+      "Mana Elixir\n(活力藥水)",
+      "Dark Shadow\n(深夜之影)",
+      "Brown Double Boots\n(褐色強化皮靴)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "CrossBow Production Stimulator\n(弩催化劑)",
+      "Helmet Production Stimulator\n(頭盔催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)"
+    ]
   },
   {
     "level": "Lv. 55",
@@ -702,7 +1856,38 @@
       "defenseMagic": 200,
       "evasionRate": "0",
       "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Malady's Experimental Frog\n(巫婆的青蛙實驗)",
+      "Dark Crystal Ore\n(黑暗母礦)",
+      "White Potion\n(白色藥水)",
+      "Blue Potion\n(藍色藥水)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Gold Ore\n(黃金母礦)",
+      "Elixir\n(特殊藥水)",
+      "The Magic Rock\n(魔法石)",
+      "Green Distinction\n(綠羽絲絨帽)",
+      "Yellow Duke\n(黃鐵頭盔)",
+      "Black Jangoon Pants\n(黑金褲)",
+      "Blue Jangoon Armor\n(青金鎧甲)",
+      "White Calaf\n(白妖精禮服)",
+      "Red Lumati\n(紅貴族禮服)",
+      "Gold Brist\n(黃金合金手套)",
+      "Olympus\n(天弓)",
+      "Green Goldwind Shoes\n(綠黃金風)",
+      "Sapphire Slain\n(藍寶手甲)",
+      "Crystal Flower Earrings\n(水仙耳環)",
+      "Green Orientican Pants\n(綠鋼玉褲)",
+      "Green Orientican\n(綠鋼玉鎧甲)",
+      "Asianic Bow\n(鳳凰之弓)",
+      "Green Distinction\n(綠羽絲絨帽)",
+      "Steal Pow\n(鋼鐵柔絲手套)",
+      "Brown Royce\n(褐色羅伊斯手套)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Two-Handed Axe Production Stimulator\n(雙手斧催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)"
+    ]
   },
   {
     "level": "Lv. 57",
@@ -717,7 +1902,38 @@
       "defenseMagic": 160,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Rib\n(肋骨)",
+      "Blue Potion\n(藍色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Opal Ore\n(蛋白石母礦)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Brown Steel-Tip Boots\n(褐弓手鞋)",
+      "Emerald Hildon Boots\n(祖母綠將軍靴)",
+      "Pink Goldwind Shoes\n(粉紅黃金風)",
+      "Blue Goni Shoes\n(藍雷電鞋)",
+      "Scroll for Staff for Magic Attack 60%\n(長杖魔力卷軸60%)",
+      "Blue Orientican\n(藍鋼玉鎧甲)",
+      "Blue Orientican Pants\n(藍鋼玉褲)",
+      "Light Scorpio Pants\n(白飛影之褲)",
+      "Light Scorpio\n(白飛影之服)",
+      "Blue Tai\n(青旋風甲)",
+      "Red Anakarune\n(紅聖黨之服)",
+      "Silver Planet\n(銀製戰盔)",
+      "Red Infinium Circlet\n(紅神聖之冠)",
+      "Brown Nightfox\n(褐天空之帽)",
+      "Scroll for Claw for ATT 60%\n(拳套攻擊卷軸60%)",
+      "Scroll for Wand for Magic attack 60%\n(短杖魔力卷軸60%)",
+      "Scroll for One-Handed BW for Accuracy 100%\n(單手棍命中卷軸100%)",
+      "Scroll for Spear for Accuracy 60%\n(槍命中卷軸60%)",
+      "Beige Patriot\n(黃司令帽)",
+      "Black Basile Boots\n(黑色巴西里靴)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "One-Handed Axe Production Stimulator\n(單手斧催化劑)",
+      "Bottomwear Production Stimulator\n( 褲裙催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)"
+    ]
   },
   {
     "level": "Lv. 58",
@@ -732,7 +1948,42 @@
       "defenseMagic": 200,
       "evasionRate": 18,
       "accuracy": "66 (每少1級 +2.44)"
-    }
+    },
+    "drops": [
+      "Dark Stone Golem Rubble\n(黑石塊)",
+      "Dark Starlight\n(黑星光長袍)",
+      "Dark Crystal Ore\n(黑暗母礦)",
+      "Blue Potion\n(藍色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Tobi Throwing-Stars\n(梅之鏢)",
+      "Scroll for Two-handed BW for ATT 60%\n(雙手棍攻擊卷軸60%)",
+      "Maroon Jangoon Armor\n(紫金鎧甲)",
+      "White Jangoon Pants\n(白金褲)",
+      "Purple Shadow\n(花精之影)",
+      "Purple Shadow Pants\n(樹林之褲)",
+      "Brown Pierre Shoes\n(褐精靈鞋)",
+      "Green Sonata\n(綠黑太陽帽)",
+      "Black Maro\n(黑貴族軟帽)",
+      "Steel Brist\n(鋼鐵合金手套)",
+      "Old Old Steel Nordic Helm\n(舊諾曼頭盔)",
+      "聖 Cross Earrings\n(聖十字耳環)",
+      "Dark Manute\n(黑封印手套)",
+      "Black Magic Cape\n(黑色魔法披風)",
+      "Dark Identity\n(黑忍者頭巾)",
+      "Red Orientican\n(紅鋼玉鎧甲)",
+      "Red Orientican Pants\n(紅鋼玉褲)",
+      "Blue Goldrunners\n(藍天使鞋)",
+      "Blue Tai\n(青旋風甲)",
+      "Evil Wings\n(魔靈之翼)",
+      "Scroll for Bottomwear for Jump 60%\n(褲裙跳躍卷軸60%)",
+      "Scroll for Topwear for LUK 60%\n(上衣幸運卷軸60%)",
+      "Scroll for Knuckle for ATT 10%\n(指虎攻擊卷軸10%)",
+      "Burning Hell\n(灼熱地獄)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Gun Production Stimulator\n(火槍催化劑)",
+      "Gloves Production Stimulator\n(手套催化劑)"
+    ]
   },
   {
     "level": "Lv. 59",
@@ -747,7 +1998,35 @@
       "defenseMagic": 220,
       "evasionRate": 20,
       "accuracy": "73 (每少1級 +2.66)"
-    }
+    },
+    "drops": [
+      "Mixed Block\n(混種石塊)",
+      "Brown Moon Gloves\n(黃月手套)",
+      "Green Gore Boots\n(綠花精鞋)",
+      "Gold Manute\n(黃金封印手套)",
+      "Gold Ore\n(黃金母礦)",
+      "Elixir\n(特殊藥水)",
+      "Maroon Moon\n(紫月)",
+      "Maroon Moon Pants\n(紫月褲)",
+      "Blue Potion\n(藍色藥水)",
+      "White Potion\n(白色藥水)",
+      "Light Mantis Pants\n(灰飛影之褲)",
+      "Light Mantis\n(灰飛影之服)",
+      "Black Basile Boots\n(黑色巴西里靴)",
+      "Blue Orientican Pants\n(藍鋼玉褲)",
+      "Blue Orientican\n(藍鋼玉鎧甲)",
+      "Scroll for Gloves for ATT 60%\n(手套攻擊卷軸60%)",
+      "Scroll for Shield for HP 10%\n(盾牌生命卷軸10%)",
+      "Red Oriental Helmet\n(將軍的紅頭盔)",
+      "Silver Identity\n(銀忍者頭巾)",
+      "White Polyfeather Hat\n(白弓羽)",
+      "Evil Tale\n(火焰之杖)",
+      "Scroll for Shield for DEF 60%\n(盾牌防禦卷軸60%)",
+      "Scroll for Gloves for HP 60%\n(手套生命卷軸60%)",
+      "Two-Handed Sword Production Stimulator\n(雙手劍催化劑)",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)",
+      "Topwear Production Stimulator\n(上衣催化劑)"
+    ]
   },
   {
     "level": "Lv. 60",
@@ -762,7 +2041,45 @@
       "defenseMagic": 220,
       "evasionRate": 22,
       "accuracy": "81 (每少1級 +2.93)"
-    }
+    },
+    "drops": [
+      "Blaze Capsule\n(火炎膠囊)",
+      "Mana Elixir\n(活力藥水)",
+      "Elixir\n(特殊藥水)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Steely Throwing-Knives\n(雷之鏢)",
+      "Dark Piette Pants\n(黑貴族褲)",
+      "Dark Piette\n(黑貴族之服)",
+      "Red Moon Gloves\n(赤月手套)",
+      "Red Moon Pants\n(赤月褲)",
+      "Psycho Claw\n(塞爾拉利刃拳套)",
+      "Red Moon\n(赤月)",
+      "Skull Shield\n(骷髏盾)",
+      "Marine Shadow\n(滄海之影)",
+      "Dark Anakamoon\n(黑神聖服)",
+      "Marine Shadow Pants\n(滄海之褲)",
+      "Evil Tale\n(火焰之杖)",
+      "Dark Seraphis\n(黑和平之帽)",
+      "Silver Identity\n(銀忍者頭巾)",
+      "Pink Goldrunners\n(粉紅天使鞋)",
+      "Green Gore Boots\n(綠花精鞋)",
+      "Orihalcon Camel Boots\n(紫十字鞋)",
+      "Dark Scorpio\n(黑飛影之服)",
+      "Dark Scorpio Pants\n(黑飛影之褲)",
+      "Red Gaia Cape\n(紅鬥士披風)",
+      "Mithril Platine Pants\n(鋰礦暴風褲)",
+      "Mithril Platine\n(鋰礦暴風甲)",
+      "Gold Lapiz Sandals\n(金水晶涼鞋)",
+      "Blue Mystique Shoes\n(藍龍皮鞋)",
+      "Blue Eyes\n(藍神眼手套)",
+      "Drake Skull\n(暴龍的頭骨)",
+      "Dragon Skin\n(龍皮)",
+      "Scroll for Earring for LUK 100%\n(耳環幸運卷軸100%)",
+      "Dagger Production Stimulator\n(短劍的催化劑",
+      "One-Handed BW Production Stimulator\n( 單手棍催化劑)",
+      "Helmet Production Stimulator\n(頭盔催化劑)"
+    ]
   },
   {
     "level": "Lv. 62",
@@ -777,7 +2094,45 @@
       "defenseMagic": 130,
       "evasionRate": 20,
       "accuracy": "73 (每少1級 +2.66)"
-    }
+    },
+    "drops": [
+      "Scroll for Earring for LUK 10%\n(耳環幸運卷軸10%)",
+      "Mana Elixir\n(活力藥水)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Gold Ore\n(黃金母礦)",
+      "Scroll for Wand for Magic attack 60%\n(短杖魔力卷軸60%)",
+      "Dark Golden Circlet\n(黑黃金法冠)",
+      "Power Elixir\n(超級藥水)",
+      "Tobi Throwing-Stars\n(梅之鏢)",
+      "Golden Mole\n(黃金錘)",
+      "Old Steel Nordic Helm\n(舊諾曼頭盔)",
+      "Red Distinction\n(紅羽絲絨帽)",
+      "Orange Calas\n(朱紅魔法戰士衣)",
+      "Blue China\n(青陽)",
+      "Blue China Pants\n(青陽褲)",
+      "Red Shouldermail\n(紅將軍鎧甲)",
+      "Red Shouldermail Pants\n(紅將軍褲)",
+      "Red Anakarune\n(紅聖黨之服)",
+      "Dark Clench\n(黑戰鬥手套)",
+      "Red Tai\n(赤旋風甲)",
+      "Sephia Garner\n(赤神功手套)",
+      "Orihalcon Camel Boots\n(紫十字鞋)",
+      "Blood Gigantic\n(赤紅戰神拳套)",
+      "Skylar\n(方天戟)\n(方天戟)",
+      "Red Magic Cape\n(紅色魔法披風)",
+      "Brown Requierre\n(褐天上之衣)",
+      "Blue Eyes\n(藍神眼手套)",
+      "Blue Carzen Boots\n(藍飛魂鞋)",
+      "Red Mystique\n(紅朱雀之甲)",
+      "Red Mystique Pants\n(紅朱雀之褲)",
+      "Black Bisk\n(黑色威斯克手套)",
+      "Scroll for Knuckle for Accuracy 10%\n(指虎命中卷軸10%)",
+      "Scroll for One-Handed BW for Accuracy 60%\n(單手棍命中卷軸60%)",
+      "Scroll for Gloves for HP 100%\n(手套生命卷軸100%)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Wild Kargo Eye\n(魔龍之眼)"
+    ]
   },
   {
     "level": "Lv. 63",
@@ -792,7 +2147,43 @@
       "defenseMagic": 230,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Pelvic Bone\n(骨盆)",
+      "White Potion\n(白色藥水)",
+      "Elixir\n(特殊藥水)",
+      "Scroll for Staff for Magic Attack 10%\n(長杖魔力卷軸10%)",
+      "Scroll for Gloves for ATT 60%\n(手套攻擊卷軸60%)",
+      "Bronze Ore\n(青銅母礦)",
+      "Emerald Ore\n(祖母綠母礦)",
+      "Mithril Brist\n(鋰礦合金手套)",
+      "Blue Moon Gloves\n(藍月手套)",
+      "Blue Pennance\n(藍元素手套)",
+      "Adamantium Legend Shield\n(古老朱礦盾)",
+      "Red Willow\n(紅意志手套)",
+      "Serpent's Coil\n(金蛇劍)",
+      "Blood Gigantic\n(赤紅戰神拳套)",
+      "Blue Oriental Helmet\n(將軍青頭盔)",
+      "Dark Seraphis\n(黑和平之帽)",
+      "Silver Identity\n(銀忍者頭巾)",
+      "White Polyfeather Hat\n(白弓羽)",
+      "Bronze Husk\n(青銅暗影手套)",
+      "Blue Eyes\n(藍神眼手套)",
+      "Brown Lorin\n(褐戰魂手套)",
+      "Silver Rover\n(銀名譽手套)",
+      "Scroll for Earring for HP 10%\n(耳環生命卷軸10%)",
+      "Scroll for Topwear for STR 100%\n(上衣力量卷軸100%)",
+      "Scroll for Topwear for LUK 100%\n(上衣幸運卷軸100%)",
+      "Scroll for Shield for HP 10%\n(盾牌生命卷軸10%)",
+      "Beia Crash\n(拜爾毀滅拳套)",
+      "Mighty Bullet\n(強力子彈)",
+      "Speed Potion\n(速度藥水)",
+      "Neocora\n(奇型刀)",
+      "Bow Production Stimulator\n(弓催化劑)",
+      "Knuckle Production Stimulator\n(指虎催化劑)",
+      "Gloves Production Stimulator\n(手套催化劑)",
+      "Wand Production Stimulator\n(短杖催化劑)"
+    ]
   },
   {
     "level": "Lv. 64",
@@ -807,7 +2198,43 @@
       "defenseMagic": 230,
       "evasionRate": 25,
       "accuracy": "92 (每少1級 +3.33)"
-    }
+    },
+    "drops": [
+      "Purple Cast Linen\n(紫色亞麻水手頭巾)",
+      "Mana Elixir\n(活力藥水)",
+      "Elixir\n(特殊藥水)",
+      "Gold Ore\n(黃金母礦)",
+      "Silver Ore\n(銀的母礦)",
+      "Sapphire Ore\n(藍寶石母礦)",
+      "Red China\n(赤陽)",
+      "Red China Pants\n(赤陽褲)",
+      "Red Jangoon Skirt\n(紅鎮月裙)",
+      "Red Orientican Pants\n(紅鋼玉褲)",
+      "Dragon Skin\n(龍皮)",
+      "Brown Jangoon Armor\n(黃鎮月鎧甲)",
+      "Red Orientican\n(紅鋼玉鎧甲)",
+      "Brown Choro\n(黃草露)",
+      "White Anakarune\n(白聖黨之服)",
+      "Bronze Rover\n(青銅名譽手套)",
+      "Brown Lorin\n(褐戰魂手套)",
+      "Red Lapiz Sandals\n(紅水晶涼鞋)",
+      "Sapphire Gigantic\n(藍寶戰神拳套)",
+      "The Magic Rock\n(魔法石)",
+      "Golden Crow\n(黃金弩)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Scroll for Earring for DEX 60%\n(耳環敏捷卷軸60%)",
+      "Scroll for Earring for HP 10%\n(耳環生命卷軸10%)",
+      "Scroll for Two-Handed Axe for Accuracy 60%\n(雙手斧命中卷軸60%)",
+      "Scroll for Shield for HP 10%\n(盾牌生命卷軸10%)",
+      "Glaze Capsule\n(寒冰膠囊)",
+      "Scroll for Pole arm for Accuracy 10%\n(矛命中卷軸10%)",
+      "Green 冰 Queen\n(綠鋼玉鎧甲)",
+      "Green 冰 Queen Skirt\n(綠鋼玉裙)",
+      "Ice Backbone\n(寒冰背部骨)",
+      "Staff Production Stimulator\n(長杖催化劑)",
+      "Claw Production Stimulator\n(拳套催化劑)",
+      "Two-Handed Axe Production Stimulator\n(雙手斧催化劑)"
+    ]
   },
   {
     "level": "Lv. 68",
@@ -822,7 +2249,40 @@
       "defenseMagic": 250,
       "evasionRate": 27,
       "accuracy": "99 (每少1級 +3.666)"
-    }
+    },
+    "drops": [
+      "Dark Drake's Horn\n(黑龍之角)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Scroll for Cape for MDEF 60%\n(披風魔防卷軸60%)",
+      "White Potion\n(白色藥水)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Orihalcon Ore\n(紫礦石母礦)",
+      "Dragon Skin\n(龍皮)",
+      "Scroll for Cape for DEF 60%\n(披風防禦卷軸60%)",
+      "Scroll for Topwear for DEF 60%\n(上衣防禦卷軸60%)",
+      "Red Seraphis\n(紅和平之帽)",
+      "Blue Sonata\n(藍黑太陽帽)",
+      "Bronze Identity\n(青銅忍者頭巾)",
+      "Gold Ancient Shield\n(黃金古盾牌)",
+      "Skylar\n(方天戟)",
+      "Redemption\n(銀龍槍)",
+      "Chrono\n(雷電斧)",
+      "Red Cordon\n(紅天使手套)",
+      "Aqua Platina\n(藍暴風甲)",
+      "Aqua Platina Pants\n(藍暴風褲)",
+      "Scroll for Helmet for INT 100%\n(頭盔智力卷軸100%)",
+      "Scroll for Helmet for DEF 60%\n(頭盔防禦卷軸60%)",
+      "Blue Mystique Pants\n(藍朱雀之褲)",
+      "Blue Mystique\n(藍朱雀之甲)",
+      "Green Pirate Boots\n(綠飛影鞋)",
+      "Angel Wings\n(天使之翼)",
+      "Diamond Ore\n(鑽石母礦)",
+      "Scroll for Bottomwear for DEX 60%\n(褲裙敏捷卷軸60%)",
+      "Red Viska\n(紅色威斯克套裝)",
+      "Claw Production Stimulator\n(拳套催化劑)",
+      "Two-Handed BW Production Stimulator\n(雙手棍催化劑)",
+      "Bottomwear Production Stimulator\n( 褲裙催化劑)"
+    ]
   },
   {
     "level": "Lv. 70",
@@ -837,7 +2297,40 @@
       "defenseMagic": 250,
       "evasionRate": 15,
       "accuracy": "55 (每少1級 +2)"
-    }
+    },
+    "drops": [
+      "Tauromacis Horn\n(月牙牛魔王的角)",
+      "Mana Elixir\n(活力藥水)",
+      "Elixir\n(特殊藥水)",
+      "Gold Ore\n(黃金母礦)",
+      "Steely Throwing-Knives\n(雷之鏢)",
+      "Scroll for One-Handed Axe for ATT 60%\n(單手斧攻擊卷軸60%)",
+      "The Magic Rock\n(魔法石)",
+      "Blue 冰 Queen\n(藍鋼玉鎧甲)",
+      "Blue 冰 Queen Skirt\n(藍鋼玉裙)",
+      "Dark Scorpio Pants\n(黑飛影之褲)",
+      "Blue Requiem\n(藍天上之衣)",
+      "Dark Scorpio\n(黑飛影之服)",
+      "Dark Requierre\n(黑天上之衣)",
+      "Mithril Planet\n(鋰礦戰盔)",
+      "Beige Patriot\n(黃司令帽)",
+      "Purple Nightfox\n(紫天空之帽)",
+      "Green Lineros\n(綠飄雲之衣)",
+      "Red Mystique Shoes\n(紅龍皮鞋)",
+      "The Judgement\n(暴風錘)",
+      "Red Hinkel\n(赤神弓)",
+      "Brown Scarab\n(黃閃電甲)",
+      "Blue Seraph Cape\n(藍妖精披風)",
+      "Emerald Emperor\n(馬爾斯綠拳套)",
+      "Green Wing Boots\n(綠飛翼鞋)",
+      "Blue Galaxy\n(藍十字帽)",
+      "Green Larceny\n(德古拉藍手套)",
+      "Black Pirate's Bandana\n(黑色海盜頭巾)",
+      "Scroll for Topwear for HP 60%\n(上衣生命卷軸60%)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Dagger Production Stimulator\n(短劍的催化劑",
+      "Bottomwear Production Stimulator\n( 褲裙催化劑)"
+    ]
   },
   {
     "level": "Lv. 73",
@@ -852,7 +2345,38 @@
       "defenseMagic": 300,
       "evasionRate": 32,
       "accuracy": "117 (每少1級 +4.26)"
-    }
+    },
+    "drops": [
+      "Horse Skull\n(馬頭骨)",
+      "Mana Elixir\n(活力藥水)",
+      "Elixir\n(特殊藥水)",
+      "Diamond Ore\n(鑽石母礦)",
+      "AquaMarine Ore\n(海藍石母礦)",
+      "Amethyst Ore\n(紫水晶母礦)",
+      "The Summoning Rock\n(召喚石)",
+      "Scroll for Earring for INT 60%\n(耳環智力卷軸60%)",
+      "Scroll for Overall Armor for LUK 60%\n(套服幸運卷軸60%)",
+      "Blue Orientican Pants\n(藍鋼玉褲)",
+      "Red 冰 Queen\n(紅鋼玉鎧甲)",
+      "Blue Orientican\n(藍鋼玉鎧甲)",
+      "Red 冰 Queen Skirt\n(紅鋼玉裙)",
+      "Bloody Mantis\n(赤飛影之服)",
+      "Bloody Mantis Pants\n(赤飛影之褲)",
+      "Blue Linnex\n(藍飄雲之衣)",
+      "Beige Lineros\n(褐飄雲之衣)",
+      "Brown Requierre\n(褐天上之衣)",
+      "Steel Aquila Shield\n(青銅尖刺護盾)",
+      "Blue Wing Boots\n(藍飛翼鞋)",
+      "Green Pirate Boots\n(綠飛影鞋)",
+      "Red Rivers Boots\n(紅色水晶靴)",
+      "Green Enigma Shoes\n(綠密林之鞋)",
+      "Scroll for Topwear for STR 60%\n(上衣力量卷軸60%)",
+      "Wizard Potion\n(強效魔力水)",
+      "Warrior Potion\n(攻擊藥水)",
+      "Blue Halfglove\n(藍色伯爵手套)",
+      "One-Handed BW Production Stimulator\n( 單手棍催化劑)",
+      "Shoes Production Stimulator\n(鞋子催化劑)"
+    ]
   },
   {
     "level": "Lv. 75",
@@ -867,7 +2391,40 @@
       "defenseMagic": 400,
       "evasionRate": 30,
       "accuracy": "110 (每少1級 +4)"
-    }
+    },
+    "drops": [
+      "Taurospear Horn\n(槍牛魔王之角)",
+      "Power Elixir\n(超級藥水)",
+      "Black Crystal Ore\n(黑水晶母礦)",
+      "Adamantium Ore\n(朱礦石母礦)",
+      "Scroll for Two-handed Axe for ATT 60%\n(雙手斧攻擊卷軸60%)",
+      "The Summoning Rock\n(召喚石)",
+      "Dark Anakarune\n(黑聖黨之服)",
+      "Green 冰 Queen\n(綠鋼玉鎧甲)",
+      "Green 冰 Queen Skirt\n(綠鋼玉裙)",
+      "Chrono\n(雷電斧)",
+      "Gigantic Sledge\n(封魂之錘)",
+      "Golden Hinkel\n(黃神弓)",
+      "Dark Lorin\n(黑戰魂手套)",
+      "Dark Elf Shoes\n(黑箭魂鞋)",
+      "Red Mystique\n(紅朱雀之甲)",
+      "Red Mystique Pants\n(紅朱雀之褲)",
+      "Silver Ancient Shield\n(銀古盾牌)",
+      "Beige Lineros\n(褐飄雲之衣)",
+      "White Nightfox\n(白天空之帽)",
+      "Mithril Husk\n(鋰礦暗影手套)",
+      "Red Seraph Cape\n(紅妖精披風)",
+      "Dark Ritual\n(死靈法杖)",
+      "Green Enigma\n(綠神仙之服)",
+      "Brown Pireta Hat\n(褐色海盜帽)",
+      "Green Pris\n(綠宮衣)",
+      "Blue Rivers Boots\n(藍色水晶靴)",
+      "Scroll for Two-Handed Axe for Accuracy 10%\n(雙手斧命中卷軸10%)",
+      "Beia Crash\n(拜爾毀滅拳套)",
+      "Spear Production Stimulator\n(槍催化劑)",
+      "Dagger Production Stimulator\n(短劍的催化劑)",
+      "[Storybook] Indecipherable Book\n(無法閱讀的書)"
+    ]
   },
   {
     "level": "Lv. 100",
@@ -882,396 +2439,44 @@
       "defenseMagic": 800,
       "evasionRate": 40,
       "accuracy": "147 (每少1級 +5.333)"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "Lv. 20",
-    "attribute": "X",
-    "hp": 10000,
-    "mp": "重生時間",
-    "exp": "23分~ 30min",
-    "name": "Mano\n(紅寶王)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Black Bennis Chainmail\n(黑獵人服)",
-      "defenseMagic": "Red Bennis Chainmail\n(紅打獵服)",
-      "evasionRate": "Black Sneak\n(黑敏捷之服)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "Hard Leather Glove\n(褐色堅固皮手腕)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "Lv. 35",
-    "attribute": "X",
-    "hp": 70000,
-    "mp": "重生時間",
-    "exp": "23分~ 30分",
-    "name": "Stumpy\n(樹妖王)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Dark Pilfer\n(黑海盜頭巾)",
-      "defenseMagic": "Maroon Jangoon Armor\n(紫金鎧甲)",
-      "evasionRate": "Black Jangoon Armor\n(黑鎮月鎧甲)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "Brown Barbee\n(褐色瑞恩手腕)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "Lv. 48",
-    "attribute": "X\n(可治癒攻擊)",
-    "hp": 130000,
-    "mp": "重生時間",
-    "exp": "45分~ 1小時",
-    "name": "Shade",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "Lv. 55",
-    "attribute": "X",
-    "hp": 350000,
-    "mp": "重生時間",
-    "exp": "38分~ 45min",
-    "name": "Pow\n(殭屍猴王)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Shinkita\n(破碎刃)",
-      "defenseMagic": "Cromi\n(大魔法師短杖)",
-      "evasionRate": "Thorns\n(白龍之杖)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "Scroll for Shield for HP 10%\n(盾牌生命卷軸10%)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "Lv. 55",
-    "attribute": "X",
-    "hp": 500000,
-    "mp": "重生時間",
-    "exp": "45分~ 1hr",
-    "name": "King Clang\n(巨居蟹)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Dark Orientican\n(黑鋼玉鎧甲)",
-      "defenseMagic": "Red 冰 Queen\n(紅鋼玉鎧甲)",
-      "evasionRate": "Dark Anakamoon\n(黑神聖服)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "Colorful Tube\n(彩虹游泳圈)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "Lv. 65",
-    "attribute": "X",
-    "hp": 684000,
-    "mp": "重生時間",
-    "exp": "1小時30分~ 1小時45min",
-    "name": "Dyle\n(沼澤巨鱷)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Kandine\n(鳳凰刃)",
-      "defenseMagic": "Angel Wings\n(天使之翼)",
-      "evasionRate": "Dark Ritual\n(死靈法杖)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "Lv. 60",
-    "attribute": "X",
-    "hp": 558000,
-    "mp": "重生時間",
-    "exp": "3小時30分~ 4小時",
-    "name": "Mushmom\n(蘑菇王)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Crystal Flower Earrings\n(水仙耳環)",
-      "defenseMagic": "Thorns \n(白龍之杖)",
-      "evasionRate": "Poison Mushroom \n(毒之菇)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "Lv. 65",
-    "attribute": "X \n(可治癒攻擊)",
-    "hp": 786000,
-    "mp": "重生時間",
-    "exp": "3小時15分~ 3小時45分",
-    "name": "Zombie Mushmom\n(殭屍魔菇王)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Silver Legend Shield\n(古老銀盾)",
-      "defenseMagic": "Pyogo Mushroom\n(松茸)",
-      "evasionRate": "Bronze Helmet\n(青銅帽)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "Lv. 80",
-    "attribute": "弱聖",
-    "hp": 916000,
-    "mp": "重生時間",
-    "exp": "6小時45分~ 9小時",
-    "name": "Jr. Balrog\n(巴洛古)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "Scroll for Two-handed Axe for ATT 60%\n(雙手斧攻擊卷軸60%) ",
-      "defenseMagic": "Scroll for Two-handed BW for ATT 60%\n(雙手棍攻擊卷軸60%)",
-      "evasionRate": "Scroll for Spear for ATT 60%\n(槍攻擊卷軸60%)",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "Scroll for Knuckle for ATT 60%\n(指虎攻擊卷軸60%)",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "?",
-      "defenseMagic": "?",
-      "evasionRate": "?",
-      "accuracy": "?"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
-  },
-  {
-    "level": "",
-    "attribute": "",
-    "hp": "",
-    "mp": "",
-    "exp": "",
-    "name": "",
-    "gold": "",
-    "defense": {
-      "defensePhysical": "0",
-      "defenseMagic": "0",
-      "evasionRate": "0",
-      "accuracy": "0"
-    }
+    },
+    "drops": [
+      "Hwabi Throwing-Stars\n(月牙鏢)",
+      "Scroll for Helmet for DEF 10%\n(頭盔防禦卷軸10%)",
+      "Scroll for Helmet for HP 10%\n(頭盔生命卷軸10%)",
+      "Scroll for Earring for INT 10%\n(耳環智力卷軸10%)",
+      "Scroll for Topwear for DEF 10%\n(上衣防禦卷軸10%)",
+      "Scroll for Overall Armor for DEX 10%\n(套服敏捷卷軸10%)",
+      "Scroll for Overall Armor for DEF 10%\n(套服防禦卷軸10%)",
+      "Scroll for Bottomwear for DEF 10%\n(褲、裙防禦卷軸10%)",
+      "Scroll for Shoes for DEX 10%\n(鞋子敏捷卷軸10%)",
+      "Scroll for Shoes for Jump 10%\n(鞋子跳躍卷軸10%)",
+      "Scroll for Shoes for Speed 10%\n(鞋子速度卷軸10%)",
+      "Scroll for Gloves for DEX 10%\n(手套敏捷卷軸10%)",
+      "Scroll for Gloves for ATT 10%\n(手套攻擊卷軸10%)",
+      "Scroll for Shield for DEF 10%\n(盾牌防禦卷軸10%)",
+      "Scroll for One-Handed Sword for ATT 10%\n(單手劍攻擊卷軸10%)",
+      "Scroll for One-Handed Axe for ATT 10%\n(單手斧攻擊卷軸10%)",
+      "Scroll for One-Handed BW for ATT 10%\n(單手棍攻擊卷軸10%)",
+      "Scroll for Dagger for ATT 10%\n(短劍攻擊卷軸10%)",
+      "Scroll for Wand for Magic Attack 10%\n(短杖魔力卷軸10%)",
+      "Scroll for Staff for Magic Attack 10%\n(長杖魔力卷軸10%)",
+      "Scroll for Two-handed Sword for ATT 10%\n(雙手劍攻擊卷軸10%)",
+      "Scroll for Two-handed Axe for ATT 10%\n(雙手斧攻擊卷軸10%)",
+      "Scroll for Two-handed BW for ATT 10%\n(雙手棍攻擊卷軸10%)",
+      "Scroll for Spear for ATT 10%\n(槍攻擊卷軸10%)",
+      "Scroll for Pole Arm for ATT 10%\n(矛攻擊卷軸10%)",
+      "Scroll for Bow for ATT 10%\n(弓攻擊卷軸10%)\n(弓攻擊卷軸10%)",
+      "Scroll for Crossbow for ATT 10%\n(弩攻擊卷軸10%)",
+      "Scroll for Claw for ATT 10%\n(拳套攻擊卷軸10%)",
+      "Scroll for Knuckle for ATT 10%\n(指虎攻擊卷軸10%)",
+      "Scroll for Gun for ATT 10%\n(火槍攻擊卷軸10%)",
+      "Scroll for Helmet for DEX 60%\n(頭盔敏捷卷軸60%)",
+      "Scroll for Topwear for LUK 60%\n(上衣幸運卷軸60%)",
+      "Scroll for One-Handed BW for Accuracy 60%\n(單手棍命中卷軸60%)",
+      "Scroll for Two-Handed Sword for Accuracy 60%\n(雙手劍命中卷軸60%)",
+      "Scroll for Two-Handed BW for Accuracy 60%\n(雙手棍命中卷軸60%)",
+      "[Storybook] Crimson Balrog's Proposal\n(蝙蝠魔的計劃書)"
+    ]
   }
 ]
