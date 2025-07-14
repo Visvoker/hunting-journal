@@ -26,39 +26,38 @@ model User {
 }
 
 model Monster {
-  id              Int           @id @default(autoincrement())
-  name            String // 怪物名稱
-  imageUrl        String // 圖片 URL
-  level           Int // 等級
-  attribute       String // 屬性（如 Fire/Water/...）
-  hp              Int // 血量
-  exp             Int // 經驗值
-  money           String // 掉落金錢
-  defensePhysical Int // 物理防禦力
-  defenseMagic    Int // 魔法防禦力
-  evasionRate     Int // 迴避率（1–100）
-  accuracy        String // 命中率（accuracy）
-  drops           MonsterDrop[] @relation("MonsterDrops")
+  id              Int      @id @default(autoincrement())
+  attribute       String
+  nameEn          String
+  nameZh          String
+  imageUrl        String?
+  level           Int
+  hp              Int
+  exp             Int
+  gold            String
+  defensePhysical Int
+  defenseMagic    Int
+  evasionRate     Int
+  accuracy        String
+  monsterDrops    MonsterDrop[] @relation("MonsterDrops")
   UserMonster     UserMonster[]
 }
 
-model DropItem {
-  id           Int           @id @default(autoincrement())
-  nameZh       String?
-  nameEn       String?
-  iconUrl      String? // 圖片（如果有的話）
-  monsterDrops MonsterDrop[]
-}
-
-/// 定義怪物的掉落物品，僅規格化，不帶使用者狀態
 model MonsterDrop {
   id               Int               @id @default(autoincrement())
   monster          Monster           @relation("MonsterDrops", fields: [monsterId], references: [id])
   monsterId        Int
   dropItem         DropItem          @relation(fields: [dropItemId], references: [id])
   dropItemId       Int
-  // 其他掉落細節
   userMonsterDrops UserMonsterDrop[]
+}
+
+model DropItem {
+  id           Int      @id @default(autoincrement())
+  nameZh       String?
+  nameEn       String?
+  iconUrl      String?
+  monsterDrops MonsterDrop[]
 }
 
 /// 玩家針對特定怪物的收藏、進度與狀態，以及個人備註

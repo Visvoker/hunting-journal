@@ -100,7 +100,7 @@ function getMonsterBasicInformation(table) {
         level: table[blockStart + 1][col] || '',
         attribute: table[blockStart + 3][col] || '',
         hp: table[blockStart + 5][col] || '',
-        mp: table[blockStart + 7][col] || '',
+        mp: table[blockStart + 7][col] || '0',
         exp: table[blockStart + 8][col] || '',
         name: table[blockStart + 9][col - 3] || '',
         gold: table[blockStart + 9][col] || '',
@@ -202,6 +202,7 @@ async function main() {
     );
 
   }
+  console.log("完成")
 }
 main();
 

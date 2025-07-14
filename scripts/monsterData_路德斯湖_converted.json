@@ -1,0 +1,8838 @@
+[
+  {
+    "level": "Lv. 30",
+    "attribute": "X",
+    "hp": 950,
+    "mp": "0",
+    "exp": 60,
+    "name": "Brown Teddy",
+    "gold": "76 ~ 118 楓幣",
+    "defense": {
+      "defensePhysical": 38,
+      "defenseMagic": 40,
+      "evasionRate": 12,
+      "accuracy": "44 (每少1級 +1.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Teddy's Cotton",
+        "nameZh": "玩具熊的棉花團"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Shoes for DEX 60%",
+        "nameZh": "鞋子敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Mountain Crossbow",
+        "nameZh": "山羊弩"
+      },
+      {
+        "nameEn": "Golden Pride",
+        "nameZh": "孫悟空頭箍"
+      },
+      {
+        "nameEn": "War Hammer",
+        "nameZh": "大戰鬥錘"
+      },
+      {
+        "nameEn": "Dark Silver Stealer",
+        "nameZh": "黑銀寂靜之服"
+      },
+      {
+        "nameEn": "Blue Chaos Robe",
+        "nameZh": "藍魔力長袍"
+      },
+      {
+        "nameEn": "Brown Sneak Pants",
+        "nameZh": "褐敏捷之褲"
+      },
+      {
+        "nameEn": "Brown Sneak",
+        "nameZh": "褐敏捷之服"
+      },
+      {
+        "nameEn": "Blue Silky Boots",
+        "nameZh": "藍錦絲鞋"
+      },
+      {
+        "nameEn": "Brown Pollard",
+        "nameZh": "褐色無袖服"
+      }
+    ],
+    "nameEn": "Brown Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 32",
+    "attribute": "X",
+    "hp": 1050,
+    "mp": "0",
+    "exp": 65,
+    "name": "Pink Teddy",
+    "gold": "80 ~ 120 楓幣",
+    "defense": {
+      "defensePhysical": 50,
+      "defenseMagic": 70,
+      "evasionRate": 14,
+      "accuracy": "51 (每少1級 +1.86)"
+    },
+    "drops": [
+      {
+        "nameEn": "Teddy's Yellow Ribbon",
+        "nameZh": "玩具熊的黃絲帶"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Cape for INT 10%",
+        "nameZh": "披風智力卷軸10%"
+      },
+      {
+        "nameEn": "Battle Shield",
+        "nameZh": "戰鬥盾牌"
+      },
+      {
+        "nameEn": "Black Huntress Armor",
+        "nameZh": "黑浪人之服"
+      },
+      {
+        "nameEn": "Black Huntress Pants",
+        "nameZh": "黑遊俠裙"
+      },
+      {
+        "nameEn": "Bronze Missel",
+        "nameZh": "青銅機器手套"
+      },
+      {
+        "nameEn": "White Magicshoes",
+        "nameZh": "白魔法鞋"
+      },
+      {
+        "nameEn": "Eagle Crow",
+        "nameZh": "鷹弩"
+      },
+      {
+        "nameEn": "Blood Chaos Robe",
+        "nameZh": "紅魔力長袍"
+      },
+      {
+        "nameEn": "Red Knucklevest",
+        "nameZh": "紅暗影之服"
+      },
+      {
+        "nameEn": "Red Knucklevest Pants",
+        "nameZh": "紅暗影之褲"
+      },
+      {
+        "nameEn": "Yellow Briggon",
+        "nameZh": "黃輕便手套"
+      },
+      {
+        "nameEn": "Red Salt Shoes",
+        "nameZh": "紅守護鞋"
+      },
+      {
+        "nameEn": "Steel Avar冰",
+        "nameZh": "鋼鐵護腕"
+      },
+      {
+        "nameEn": "Yellow Tartis",
+        "nameZh": "金色護手"
+      },
+      {
+        "nameEn": "Split Bullet",
+        "nameZh": "子彈"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Sword for Accuracy 60%",
+        "nameZh": "雙手劍命中卷軸60%"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Pink Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 34",
+    "attribute": "X",
+    "hp": 1200,
+    "mp": "0",
+    "exp": 70,
+    "name": "Roloduck",
+    "gold": "84 ~ 126 楓幣",
+    "defense": {
+      "defensePhysical": 70,
+      "defenseMagic": 85,
+      "evasionRate": 16,
+      "accuracy": "59 (每少1級 +2.13)"
+    },
+    "drops": [
+      {
+        "nameEn": "Toy Duckling",
+        "nameZh": "玩具小鴨"
+      },
+      {
+        "nameEn": "Soft Feather",
+        "nameZh": "柔軟的羽毛"
+      },
+      {
+        "nameEn": "Stiff Feather",
+        "nameZh": "堅硬的羽毛"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for ATT 10%",
+        "nameZh": "單手棍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Blue Hunter's Armor",
+        "nameZh": "藍浪人之服"
+      },
+      {
+        "nameEn": "Silver Black Stealer",
+        "nameZh": "銀黑寂靜之服"
+      },
+      {
+        "nameEn": "Blue Hunter's Pants",
+        "nameZh": "藍遊俠之褲"
+      },
+      {
+        "nameEn": "Silver / Black Stealer Pants",
+        "nameZh": "銀黑寂靜之褲"
+      },
+      {
+        "nameEn": "Black Lutia",
+        "nameZh": "黑守護手套"
+      },
+      {
+        "nameEn": "White Chaos Robe",
+        "nameZh": "白魔力長袍"
+      },
+      {
+        "nameEn": "Great Brown Helmet",
+        "nameZh": "褐色戰鬥頭盔"
+      },
+      {
+        "nameEn": "Blue Crusader Chainmail",
+        "nameZh": "藍十字鎖子甲"
+      },
+      {
+        "nameEn": "Steel Trigger",
+        "nameZh": "鐵頭皮鞋"
+      },
+      {
+        "nameEn": "Aqua Brace",
+        "nameZh": "藍勇氣手套"
+      },
+      {
+        "nameEn": "Bazlud",
+        "nameZh": "刺客短刀"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for Jump 100%",
+        "nameZh": "褲裙跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Blue Brace Look",
+        "nameZh": "藍色緊身服"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      }
+    ],
+    "nameEn": "Roloduck",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 34",
+    "attribute": "X",
+    "hp": 1100,
+    "mp": "0",
+    "exp": 70,
+    "name": "Tick",
+    "gold": "84 ~ 126 楓幣",
+    "defense": {
+      "defensePhysical": 95,
+      "defenseMagic": 90,
+      "evasionRate": 14,
+      "accuracy": "51 (每少1級 +1.86)"
+    },
+    "drops": [
+      {
+        "nameEn": "Clock Spring",
+        "nameZh": "鐘錶發條"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Cape for DEX 100%",
+        "nameZh": "披風敏捷卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for ATT 10%",
+        "nameZh": "單手斧攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Snowball",
+        "nameZh": "雪球"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Blue Magicshoes",
+        "nameZh": "藍魔法鞋"
+      },
+      {
+        "nameEn": "Brown Marker",
+        "nameZh": "褐擊中手套"
+      },
+      {
+        "nameEn": "Wizard Wand",
+        "nameZh": "法師短杖"
+      },
+      {
+        "nameEn": "Red Pole-Feather Hat",
+        "nameZh": "紅羽翼三角帽"
+      },
+      {
+        "nameEn": "Green Burgler",
+        "nameZh": "綠防風帽"
+      },
+      {
+        "nameEn": "Brown Legolia",
+        "nameZh": "褐守護之服"
+      },
+      {
+        "nameEn": "Brown Legolia Pants",
+        "nameZh": "褐守護褲"
+      },
+      {
+        "nameEn": "Blue Noel",
+        "nameZh": "藍神聖手套"
+      },
+      {
+        "nameEn": "Blue Starlight",
+        "nameZh": "藍星光長袍"
+      },
+      {
+        "nameEn": "Black Red-Lined Shoes",
+        "nameZh": "紅流星鞋"
+      },
+      {
+        "nameEn": "Sabretooth",
+        "nameZh": "格鬥斧"
+      },
+      {
+        "nameEn": "Adamantium Knuckle",
+        "nameZh": "朱礦長手套"
+      },
+      {
+        "nameEn": "Brown Locote Shoes",
+        "nameZh": "褐色洛卡特鞋"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 10%",
+        "nameZh": "單手棍命中卷軸10%"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Two-Handed BW Production Stimulator",
+        "nameZh": "雙手棍催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "Tick",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 36",
+    "attribute": "X",
+    "hp": 1400,
+    "mp": "0",
+    "exp": 77,
+    "name": "Panda Teddy",
+    "gold": "76 ~ 114 楓幣",
+    "defense": {
+      "defensePhysical": 95,
+      "defenseMagic": 95,
+      "evasionRate": 16,
+      "accuracy": "59 (每少1級 +2.13)"
+    },
+    "drops": [
+      {
+        "nameEn": "Panda Doll",
+        "nameZh": "玩具熊貓"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Bow for ATT 60%",
+        "nameZh": "弓攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Red Hwarang Shirt",
+        "nameZh": "紅龍服"
+      },
+      {
+        "nameEn": "Red Martial Arts Pants",
+        "nameZh": "紅武褲"
+      },
+      {
+        "nameEn": "Blue Hunter Boots",
+        "nameZh": "藍打獵鞋"
+      },
+      {
+        "nameEn": "Dark Starlight",
+        "nameZh": "黑星光長袍"
+      },
+      {
+        "nameEn": "Red Distinction",
+        "nameZh": "紅羽絲絨帽"
+      },
+      {
+        "nameEn": "Red Guiltian",
+        "nameZh": "紅魔道之帽"
+      },
+      {
+        "nameEn": "Dark Knuckle",
+        "nameZh": "黑色長手套"
+      },
+      {
+        "nameEn": "Maroon Jangoon Shoes",
+        "nameZh": "紫金月鞋"
+      },
+      {
+        "nameEn": "Blue Moon Shoes",
+        "nameZh": "藍月鞋"
+      },
+      {
+        "nameEn": "Blue Counter",
+        "nameZh": "青光斧"
+      },
+      {
+        "nameEn": "Dragon Toenail",
+        "nameZh": "龍炎短劍"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 100%",
+        "nameZh": "盾牌幸運卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 60%",
+        "nameZh": "單手棍命中卷軸60%"
+      },
+      {
+        "nameEn": "Silver Maiden",
+        "nameZh": "利刃拳套"
+      },
+      {
+        "nameEn": "Sniper Pill",
+        "nameZh": "命中藥丸"
+      },
+      {
+        "nameEn": "Dark Avenger",
+        "nameZh": "黑飛影甲"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Panda Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 37",
+    "attribute": "X\n(可治癒攻擊)",
+    "hp": 1750,
+    "mp": 30,
+    "exp": 82,
+    "name": "Chrono",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 90,
+      "defenseMagic": 120,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Cog",
+        "nameZh": "齒輪"
+      },
+      {
+        "nameEn": "Mystic Shield",
+        "nameZh": "神祕護盾"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Wand for Magic Attack 10%",
+        "nameZh": "短杖魔力卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Two-handed BW for ATT 60%",
+        "nameZh": "雙手棍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Blood Battle Grieves",
+        "nameZh": "紅鬥士鞋"
+      },
+      {
+        "nameEn": "Bronze Chain Boots",
+        "nameZh": "青銅鏈鞋"
+      },
+      {
+        "nameEn": "Dark Avenger",
+        "nameZh": "黑飛影甲"
+      },
+      {
+        "nameEn": "Mithril Brist",
+        "nameZh": "鋰礦合金手套"
+      },
+      {
+        "nameEn": "Purple Salt Shoes",
+        "nameZh": "紫守護鞋"
+      },
+      {
+        "nameEn": "Brown Legolia",
+        "nameZh": "褐守護之服"
+      },
+      {
+        "nameEn": "Brown Legolia Pants",
+        "nameZh": "褐守護褲"
+      },
+      {
+        "nameEn": "Blue Pilfer",
+        "nameZh": "藍海盜頭巾"
+      },
+      {
+        "nameEn": "White Guiltian",
+        "nameZh": "白魔道之帽"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 60%",
+        "nameZh": "火槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Shooting Star",
+        "nameZh": "流星"
+      },
+      {
+        "nameEn": "Warrior Pill",
+        "nameZh": "攻擊藥丸"
+      },
+      {
+        "nameEn": "Maroon Jangoon Armor",
+        "nameZh": "紫金鎧甲"
+      },
+      {
+        "nameEn": "White Jangoon Pants",
+        "nameZh": "白金褲"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      },
+      {
+        "nameEn": "Wand Production Stimulator",
+        "nameZh": "短杖催化劑"
+      }
+    ],
+    "nameEn": "Chrono",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 39",
+    "attribute": "X",
+    "hp": 1920,
+    "mp": "0",
+    "exp": 92,
+    "name": "Toy Trojan",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 110,
+      "defenseMagic": 130,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.44)"
+    },
+    "drops": [
+      {
+        "nameEn": "Toy Trojan Sword",
+        "nameZh": "玩具士兵的刀"
+      },
+      {
+        "nameEn": "Tree Branch",
+        "nameZh": "樹枝"
+      },
+      {
+        "nameEn": "wood",
+        "nameZh": "木柴"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Cape for 魔法防禦力 60%",
+        "nameZh": "披風魔防卷軸60%"
+      },
+      {
+        "nameEn": "Sapphire Earrings",
+        "nameZh": "藍寶石耳環"
+      },
+      {
+        "nameEn": "Blue Legolia",
+        "nameZh": "藍守護之服"
+      },
+      {
+        "nameEn": "White Martial Arts Shorts",
+        "nameZh": "半白武褲"
+      },
+      {
+        "nameEn": "Blue Legolia Pants",
+        "nameZh": "藍守護褲"
+      },
+      {
+        "nameEn": "Brown Pilfer",
+        "nameZh": "褐海盜頭巾"
+      },
+      {
+        "nameEn": "Mithril Nordic Helm",
+        "nameZh": "鋰礦諾曼頭盔"
+      },
+      {
+        "nameEn": "Dark Arten",
+        "nameZh": "黑精靈手套"
+      },
+      {
+        "nameEn": "Red Cleave",
+        "nameZh": "紅盜賊手套"
+      },
+      {
+        "nameEn": "Yellow Pierre Shoes",
+        "nameZh": "黃精靈鞋"
+      },
+      {
+        "nameEn": "Crescent Polearm",
+        "nameZh": "月牙戟"
+      },
+      {
+        "nameEn": "Red Calaf",
+        "nameZh": "紅妖精禮服"
+      },
+      {
+        "nameEn": "Scroll for Shield for HP 100%",
+        "nameZh": "盾牌生命卷軸100%"
+      },
+      {
+        "nameEn": "Shooting Star",
+        "nameZh": "流星"
+      },
+      {
+        "nameEn": "Split Bullet",
+        "nameZh": "子彈"
+      },
+      {
+        "nameEn": "Blue Dragon",
+        "nameZh": "青龍衣"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      }
+    ],
+    "nameEn": "Toy Trojan",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 40",
+    "attribute": "X",
+    "hp": 1900,
+    "mp": 50,
+    "exp": 95,
+    "name": "Tick-Tock",
+    "gold": "108 ~ 162 楓幣",
+    "defense": {
+      "defensePhysical": 160,
+      "defenseMagic": 170,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Table Clock",
+        "nameZh": "小鬧鐘"
+      },
+      {
+        "nameEn": "Adamantium Ore",
+        "nameZh": "朱礦石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Hall Staff",
+        "nameZh": "護法之杖"
+      },
+      {
+        "nameEn": "Scroll for Topwear for DEF 60%",
+        "nameZh": "上衣防禦卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Claw for ATT 60%",
+        "nameZh": "拳套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Great Red Helmet",
+        "nameZh": "紅色戰鬥頭盔"
+      },
+      {
+        "nameEn": "Red Barbay",
+        "nameZh": "紅色麻布衣"
+      },
+      {
+        "nameEn": "Green Knucklevest",
+        "nameZh": "綠暗影之服"
+      },
+      {
+        "nameEn": "Blue Matty",
+        "nameZh": "藍星魔法帽"
+      },
+      {
+        "nameEn": "Blue Knucklevest Pants",
+        "nameZh": "藍暗影之褲"
+      },
+      {
+        "nameEn": "Blue Moonlight",
+        "nameZh": "藍色月光服"
+      },
+      {
+        "nameEn": "Aqua Brace",
+        "nameZh": "藍勇氣手套"
+      },
+      {
+        "nameEn": "Pansy Earrings",
+        "nameZh": "紫荊花耳環"
+      },
+      {
+        "nameEn": "Iron Knuckle",
+        "nameZh": "鋼鐵長手套"
+      },
+      {
+        "nameEn": "Black Green-Lined Shoes",
+        "nameZh": "綠流星鞋"
+      },
+      {
+        "nameEn": "Cromi",
+        "nameZh": "大魔法師短杖"
+      },
+      {
+        "nameEn": "Sai",
+        "nameZh": "華氏短劍"
+      },
+      {
+        "nameEn": "Jacker",
+        "nameZh": "古代錘"
+      },
+      {
+        "nameEn": "Red Barbay",
+        "nameZh": "紅色麻布衣"
+      },
+      {
+        "nameEn": "All-purpose Clock Spring",
+        "nameZh": "萬能鐘錶發條"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      }
+    ],
+    "nameEn": "Tick-Tock",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 41",
+    "attribute": "強火, 冰",
+    "hp": 2000,
+    "mp": "0",
+    "exp": 99,
+    "name": "Robo",
+    "gold": "116 ~ 174 楓幣",
+    "defense": {
+      "defensePhysical": 190,
+      "defenseMagic": 175,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "Cheap Battery",
+        "nameZh": "便宜的乾電池"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEF 10%",
+        "nameZh": "褲、裙防禦卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Dagger for ATT 10%",
+        "nameZh": "短劍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Red Amoria Top",
+        "nameZh": "紅神聖法衣"
+      },
+      {
+        "nameEn": "Blue Crusader Chainmail",
+        "nameZh": "藍十字鎖子甲"
+      },
+      {
+        "nameEn": "Red Guiltian",
+        "nameZh": "紅魔道之帽"
+      },
+      {
+        "nameEn": "Steel Nordic Helm",
+        "nameZh": "諾曼頭盔"
+      },
+      {
+        "nameEn": "Green Distinction",
+        "nameZh": "綠羽絲絨帽"
+      },
+      {
+        "nameEn": "Gold Moon Shoes",
+        "nameZh": "黃月鞋"
+      },
+      {
+        "nameEn": "Maroon Jangoon Shoes",
+        "nameZh": "紫金月鞋"
+      },
+      {
+        "nameEn": "Green Steel-Tip Boots",
+        "nameZh": "綠弓手鞋"
+      },
+      {
+        "nameEn": "Jeweled Katar",
+        "nameZh": "樹靈之劍"
+      },
+      {
+        "nameEn": "Steel Slain",
+        "nameZh": "鋼鐵手甲"
+      },
+      {
+        "nameEn": "Scroll for Shield for HP 100%",
+        "nameZh": "盾牌生命卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Sword for Accuracy 100%",
+        "nameZh": "雙手劍命中卷軸100%"
+      },
+      {
+        "nameEn": "Red Amoria Skirt",
+        "nameZh": "紅神聖裙"
+      },
+      {
+        "nameEn": "Red Avenger",
+        "nameZh": "紅飛影甲"
+      },
+      {
+        "nameEn": "Red Misty",
+        "nameZh": "紅色皇家頭巾"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      }
+    ],
+    "nameEn": "Robo",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 41",
+    "attribute": "X\n(可治癒攻擊)",
+    "hp": 2050,
+    "mp": 50,
+    "exp": 99,
+    "name": "Platoon Chrono ",
+    "gold": "116 ~ 174 楓幣",
+    "defense": {
+      "defensePhysical": 130,
+      "defenseMagic": 160,
+      "evasionRate": 22,
+      "accuracy": "81 (每少1級 +2.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "Cog",
+        "nameZh": "齒輪"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Gloves for ATT 60%",
+        "nameZh": "手套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Zard",
+        "nameZh": "半月巨刀"
+      },
+      {
+        "nameEn": "Esther Shield",
+        "nameZh": "鑽石護盾"
+      },
+      {
+        "nameEn": "Red Burgler",
+        "nameZh": "紅防風帽"
+      },
+      {
+        "nameEn": "Green Matty",
+        "nameZh": "綠星魔法帽"
+      },
+      {
+        "nameEn": "Red Starlight",
+        "nameZh": "紅星光長袍"
+      },
+      {
+        "nameEn": "Brown Legolier",
+        "nameZh": "褐守護之服"
+      },
+      {
+        "nameEn": "Maroon Jangoon Armor",
+        "nameZh": "紫金鎧甲"
+      },
+      {
+        "nameEn": "White Jangoon Pants",
+        "nameZh": "白金褲"
+      },
+      {
+        "nameEn": "Dark Cleave",
+        "nameZh": "黑盜賊手套"
+      },
+      {
+        "nameEn": "Gold Moon Shoes",
+        "nameZh": "黃月鞋"
+      },
+      {
+        "nameEn": "Mithril Tower Shield",
+        "nameZh": "鋰礦方盾"
+      },
+      {
+        "nameEn": "Serpent's Tongue",
+        "nameZh": "丈八蛇矛"
+      },
+      {
+        "nameEn": "Buck",
+        "nameZh": "樹靈之斧"
+      },
+      {
+        "nameEn": "Speed Pill",
+        "nameZh": "速度藥丸"
+      },
+      {
+        "nameEn": "Red Barbay",
+        "nameZh": "紅色麻布衣"
+      },
+      {
+        "nameEn": "Brown Legolier Pants",
+        "nameZh": "褐守護之褲"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      }
+    ],
+    "nameEn": "Platoon Chrono",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 42",
+    "attribute": "X",
+    "hp": 2400,
+    "mp": 100,
+    "exp": 102,
+    "name": "Mossy Snail",
+    "gold": "129 ~ 198 楓幣",
+    "defense": {
+      "defensePhysical": 110,
+      "defenseMagic": 100,
+      "evasionRate": 12,
+      "accuracy": "44 (每少1級 +1.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Moss Snail Shell",
+        "nameZh": "苔癬蝸牛殼"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "Opal Ore",
+        "nameZh": "蛋白石母礦"
+      },
+      {
+        "nameEn": "Scroll for Helmet for HP 60%",
+        "nameZh": "頭盔生命卷軸60%"
+      },
+      {
+        "nameEn": "Red Duke",
+        "nameZh": "紅色武士頭盔"
+      },
+      {
+        "nameEn": "Blue Moonlight",
+        "nameZh": "藍色月光服"
+      },
+      {
+        "nameEn": "Dark Willow",
+        "nameZh": "黑意志手套"
+      },
+      {
+        "nameEn": "Black Yellow-Lined Shoes",
+        "nameZh": "黃流星鞋"
+      },
+      {
+        "nameEn": "Lunar Shooter",
+        "nameZh": "銀月神射"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      }
+    ],
+    "nameEn": "Mossy Snail",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 44",
+    "attribute": "X",
+    "hp": 2450,
+    "mp": "0",
+    "exp": 105,
+    "name": "Master Robo",
+    "gold": "140 ~ 210 楓幣",
+    "defense": {
+      "defensePhysical": 210,
+      "defenseMagic": 195,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.44)"
+    },
+    "drops": [
+      {
+        "nameEn": "Mechanical Heart",
+        "nameZh": "機器心臟"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Scroll for Helmet for HP 60%",
+        "nameZh": "頭盔生命卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for DEX 10%",
+        "nameZh": "套服敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Yellow Umbrella",
+        "nameZh": "黃色雨傘"
+      },
+      {
+        "nameEn": "Jeweled Katar",
+        "nameZh": "樹靈之劍"
+      },
+      {
+        "nameEn": "Blue Silky Boots",
+        "nameZh": "藍錦絲鞋"
+      },
+      {
+        "nameEn": "Dark Starlight",
+        "nameZh": "黑星光長袍"
+      },
+      {
+        "nameEn": "Black Blue-Lines Shoes",
+        "nameZh": "藍流星鞋"
+      },
+      {
+        "nameEn": "Brown Jangoon Shoes",
+        "nameZh": "黃金月長靴"
+      },
+      {
+        "nameEn": "Dark Knuckle",
+        "nameZh": "黑色長手套"
+      },
+      {
+        "nameEn": "Brown Distinction",
+        "nameZh": "褐羽絲絨帽"
+      },
+      {
+        "nameEn": "Sapphire Slain",
+        "nameZh": "藍寶手甲"
+      },
+      {
+        "nameEn": "Ryden",
+        "nameZh": "雷電"
+      },
+      {
+        "nameEn": "Lion's Fang",
+        "nameZh": "虎劍"
+      },
+      {
+        "nameEn": "Green China",
+        "nameZh": "綠陽"
+      },
+      {
+        "nameEn": "Green China Pants",
+        "nameZh": "綠陽褲"
+      },
+      {
+        "nameEn": "Black Maro",
+        "nameZh": "黑貴族軟帽"
+      },
+      {
+        "nameEn": "The Rising",
+        "nameZh": "太陽之斧"
+      },
+      {
+        "nameEn": "Mr. Rasfelt",
+        "nameZh": "拉斯菲特之槍"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      }
+    ],
+    "nameEn": "Master Robo",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 46",
+    "attribute": "X\n(可治癒攻擊)",
+    "hp": 2600,
+    "mp": 70,
+    "exp": 115,
+    "name": "Master Chrono ",
+    "gold": "172 ~ 258 楓幣",
+    "defense": {
+      "defensePhysical": 170,
+      "defenseMagic": 200,
+      "evasionRate": 24,
+      "accuracy": "88 (每少1級 +3.22)"
+    },
+    "drops": [
+      {
+        "nameEn": "Cog",
+        "nameZh": "齒輪"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 10%",
+        "nameZh": "長杖魔力卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Two-handed Axe for ATT 10%",
+        "nameZh": "雙手斧攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Tobi Throwing-Stars",
+        "nameZh": "梅之鏢"
+      },
+      {
+        "nameEn": "Mithril Scaler",
+        "nameZh": "鋰礦名弓手套"
+      },
+      {
+        "nameEn": "Brown Jangoon Shoes",
+        "nameZh": "黃金月長靴"
+      },
+      {
+        "nameEn": "Brown Piette Pants",
+        "nameZh": "褐貴族褲"
+      },
+      {
+        "nameEn": "Red Pierre Shoes",
+        "nameZh": "紅精靈鞋"
+      },
+      {
+        "nameEn": "Brown Piette",
+        "nameZh": "褐貴族之服"
+      },
+      {
+        "nameEn": "Dark Calas",
+        "nameZh": "黑魔法戰士衣"
+      },
+      {
+        "nameEn": "Ivory Shouldermail",
+        "nameZh": "褐將軍鎧甲"
+      },
+      {
+        "nameEn": "Ivory Shouldermail Pants",
+        "nameZh": "褐將軍褲"
+      },
+      {
+        "nameEn": "Blue Moon Gloves",
+        "nameZh": "藍月手套"
+      },
+      {
+        "nameEn": "Blue Goldwind Shoes",
+        "nameZh": "藍黃金風"
+      },
+      {
+        "nameEn": "Golden Mole",
+        "nameZh": "黃金錘"
+      },
+      {
+        "nameEn": "Dark Slain",
+        "nameZh": "黑手甲"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 60%",
+        "nameZh": "頭盔敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for Jump 100%",
+        "nameZh": "褲裙跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 60%",
+        "nameZh": "盾牌力量卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed BW for Accuracy 10%",
+        "nameZh": "雙手棍命中卷軸10%"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Fury Claw",
+        "nameZh": "惡魔之爪"
+      },
+      {
+        "nameEn": "Speed Potion",
+        "nameZh": "速度藥水"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      }
+    ],
+    "nameEn": "Master Chrono",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 46",
+    "attribute": "X",
+    "hp": 2600,
+    "mp": "0",
+    "exp": 112,
+    "name": "Tree Rod",
+    "gold": "141 ~ 217 楓幣",
+    "defense": {
+      "defensePhysical": 300,
+      "defenseMagic": 300,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEX 10%",
+        "nameZh": "褲裙敏捷卷軸 10%"
+      },
+      {
+        "nameEn": "Flame Golden Circlet",
+        "nameZh": "火黃金法冠"
+      },
+      {
+        "nameEn": "Green Lumati",
+        "nameZh": "綠貴族禮服"
+      },
+      {
+        "nameEn": "Brown Moon Gloves",
+        "nameZh": "黃月手套"
+      },
+      {
+        "nameEn": "Brown Double Boots",
+        "nameZh": "褐色強化皮靴"
+      },
+      {
+        "nameEn": "The Nine Dragons",
+        "nameZh": "九龍刀"
+      },
+      {
+        "nameEn": "Tree Trunk",
+        "nameZh": "藤條"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      }
+    ],
+    "nameEn": "Tree Rod",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 51",
+    "attribute": "X",
+    "hp": 3600,
+    "mp": 40,
+    "exp": 142,
+    "name": "Stone Bug",
+    "gold": "178 ~ 273 楓幣",
+    "defense": {
+      "defensePhysical": 255,
+      "defenseMagic": 200,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Bronze Ore",
+        "nameZh": "青銅母礦"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "Scroll for Cape for STR 10%",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Black Maro",
+        "nameZh": "黑貴族軟帽"
+      },
+      {
+        "nameEn": "Brown China",
+        "nameZh": "黃陽"
+      },
+      {
+        "nameEn": "Brown Moon",
+        "nameZh": "黃月"
+      },
+      {
+        "nameEn": "Brown Royce",
+        "nameZh": "褐色羅伊斯手套"
+      },
+      {
+        "nameEn": "Mithril Hildon Boots",
+        "nameZh": "鋰礦藍將軍靴"
+      },
+      {
+        "nameEn": "Cromi",
+        "nameZh": "大魔法師短杖"
+      },
+      {
+        "nameEn": "Rubble",
+        "nameZh": "石塊"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      }
+    ],
+    "nameEn": "Stone Bug",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 55",
+    "attribute": "X",
+    "hp": 4400,
+    "mp": 110,
+    "exp": 175,
+    "name": "Mossy Mushroom",
+    "gold": "217 ~ 334 楓幣",
+    "defense": {
+      "defensePhysical": 100,
+      "defenseMagic": 120,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "Scroll for Spear for Accuracy 60%",
+        "nameZh": "槍命中卷軸60%"
+      },
+      {
+        "nameEn": "Blue Sonata",
+        "nameZh": "藍黑太陽帽"
+      },
+      {
+        "nameEn": "Green Plasteer",
+        "nameZh": "綠色強化服"
+      },
+      {
+        "nameEn": "Mithril Brist",
+        "nameZh": "鋰礦合金手套"
+      },
+      {
+        "nameEn": "Green Goldwind Shoes",
+        "nameZh": "綠黃金風"
+      },
+      {
+        "nameEn": "Asianic Bow",
+        "nameZh": "鳳凰之弓"
+      },
+      {
+        "nameEn": "Black Mushroom Spore",
+        "nameZh": "黑色芽孢"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Mossy Mushroom",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 57",
+    "attribute": "X",
+    "hp": 4500,
+    "mp": 100,
+    "exp": 200,
+    "name": "Primitive Boar",
+    "gold": "246 ~ 397 楓幣",
+    "defense": {
+      "defensePhysical": 170,
+      "defenseMagic": 160,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Tough Leather",
+        "nameZh": "粗糙的皮革"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for ATT 10%",
+        "nameZh": "指虎攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Purple Cast Linen",
+        "nameZh": "紫色亞麻水手頭巾"
+      },
+      {
+        "nameEn": "Blue Orientican",
+        "nameZh": "藍鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Blue 冰 Queen",
+        "nameZh": "藍鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Gold Manute",
+        "nameZh": "黃金封印手套"
+      },
+      {
+        "nameEn": "Blue Gore Boots",
+        "nameZh": "藍花精鞋"
+      },
+      {
+        "nameEn": "Deadly Fin",
+        "nameZh": "雙翼刃"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      }
+    ],
+    "nameEn": "Primitive Boar",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 61",
+    "attribute": "X",
+    "hp": 7400,
+    "mp": 80,
+    "exp": 230,
+    "name": "Buffy",
+    "gold": "312 ~ 468 楓幣",
+    "defense": {
+      "defensePhysical": 213,
+      "defenseMagic": 229,
+      "evasionRate": 23,
+      "accuracy": "84 (每少1級 +3.06)"
+    },
+    "drops": [
+      {
+        "nameEn": "Buffy Hat",
+        "nameZh": "小丑柏非帽"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "Scroll for Wand for Magic attack 60%",
+        "nameZh": "短杖魔力卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 60%",
+        "nameZh": "長杖魔力卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Cape for MDEF 60%",
+        "nameZh": "披風魔防卷軸60%"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Blue Pilfer",
+        "nameZh": "藍海盜頭巾"
+      },
+      {
+        "nameEn": "Blue Duke",
+        "nameZh": "藍鐵頭盔"
+      },
+      {
+        "nameEn": "Red Calas",
+        "nameZh": "紅魔法戰士衣"
+      },
+      {
+        "nameEn": "Skull Earrings",
+        "nameZh": "骷髏耳環"
+      },
+      {
+        "nameEn": "Oaker Shouldermail",
+        "nameZh": "褐板金鎧甲"
+      },
+      {
+        "nameEn": "Oaker Shouldermail Pants",
+        "nameZh": "褐板金褲"
+      },
+      {
+        "nameEn": "Brown Steel-Tip Boots",
+        "nameZh": "褐弓手鞋"
+      },
+      {
+        "nameEn": "Gold Pow",
+        "nameZh": "黃金柔絲手套"
+      },
+      {
+        "nameEn": "Dark Clench",
+        "nameZh": "黑戰鬥手套"
+      },
+      {
+        "nameEn": "Gold Manute",
+        "nameZh": "黃金封印手套"
+      },
+      {
+        "nameEn": "Dark Moss Boots",
+        "nameZh": "黑無痕之鞋"
+      },
+      {
+        "nameEn": "Blue Choro",
+        "nameZh": "藍草露"
+      },
+      {
+        "nameEn": "Neocora",
+        "nameZh": "奇型刀"
+      },
+      {
+        "nameEn": "Blue Magic Cape",
+        "nameZh": "藍色魔法披風"
+      },
+      {
+        "nameEn": "Red Hinkel",
+        "nameZh": "赤神弓"
+      },
+      {
+        "nameEn": "Brown Lorin",
+        "nameZh": "褐戰魂手套"
+      },
+      {
+        "nameEn": "Mikhail",
+        "nameZh": "黃金斧"
+      },
+      {
+        "nameEn": "Red Mystique Shoes",
+        "nameZh": "紅龍皮鞋"
+      },
+      {
+        "nameEn": "Red Viska",
+        "nameZh": "紅色威斯克套裝"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for Accuracy 60%",
+        "nameZh": "單手斧命中卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Spear for Accuracy 60%",
+        "nameZh": "槍命中卷軸60%"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      }
+    ],
+    "nameEn": "Buffy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 63",
+    "attribute": "弱聖 / 強冰, 雷\n(可治癒攻擊)",
+    "hp": 7600,
+    "mp": 100,
+    "exp": 245,
+    "name": "Soul Teddy",
+    "gold": "328 ~ 492 楓幣",
+    "defense": {
+      "defensePhysical": 190,
+      "defenseMagic": 215,
+      "evasionRate": 25,
+      "accuracy": "92 (每少1級 +3.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Zombie Teddy Bear",
+        "nameZh": "幽魂玩偶"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 10%",
+        "nameZh": "長杖魔力卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Gloves for ATT 60%",
+        "nameZh": "手套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Speed Potion",
+        "nameZh": "速度藥水"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "Bronze Ore",
+        "nameZh": "青銅母礦"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Orange Calaf",
+        "nameZh": "朱紅妖精禮服"
+      },
+      {
+        "nameEn": "Mithril Crusader Helm",
+        "nameZh": "鋰礦十字軍帽"
+      },
+      {
+        "nameEn": "Brown Sonata",
+        "nameZh": "黃黑太陽帽"
+      },
+      {
+        "nameEn": "Blue Lumati",
+        "nameZh": "藍貴族禮服"
+      },
+      {
+        "nameEn": "Brown China",
+        "nameZh": "黃陽"
+      },
+      {
+        "nameEn": "Brown China Pants",
+        "nameZh": "黃陽褲"
+      },
+      {
+        "nameEn": "Evil Tale",
+        "nameZh": "火焰之杖"
+      },
+      {
+        "nameEn": "Dark Garner",
+        "nameZh": "黑神功手套"
+      },
+      {
+        "nameEn": "Steal Pow",
+        "nameZh": "鋼鐵柔絲手套"
+      },
+      {
+        "nameEn": "Steel Manute",
+        "nameZh": "鋼鐵封印手套"
+      },
+      {
+        "nameEn": "Blood Camel Boots",
+        "nameZh": "紅十字鞋"
+      },
+      {
+        "nameEn": "Sapphire Gigantic",
+        "nameZh": "藍寶戰神拳套"
+      },
+      {
+        "nameEn": "White Magic Cape",
+        "nameZh": "白色魔法披風"
+      },
+      {
+        "nameEn": "Tamus",
+        "nameZh": "巨型錘"
+      },
+      {
+        "nameEn": "Gold Drop Earrings",
+        "nameZh": "黃金耳環"
+      },
+      {
+        "nameEn": "Brown Nightfox",
+        "nameZh": "褐天空之帽"
+      },
+      {
+        "nameEn": "Blue Patriot",
+        "nameZh": "藍司令帽"
+      },
+      {
+        "nameEn": "Blue Lorin",
+        "nameZh": "藍戰魂手套"
+      },
+      {
+        "nameEn": "Violet Platina",
+        "nameZh": "紫暴風甲"
+      },
+      {
+        "nameEn": "Violet Platina Pants",
+        "nameZh": "紫暴風褲"
+      },
+      {
+        "nameEn": "Pink-Flowered Earrings",
+        "nameZh": "梅花耳環"
+      },
+      {
+        "nameEn": "Abyss Shooter",
+        "nameZh": "深淵射手"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 10%",
+        "nameZh": "火槍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for HP 10%",
+        "nameZh": "上衣生命卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Overall for STR 100%",
+        "nameZh": "套服力量卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 60%",
+        "nameZh": "盾牌幸運卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Pole Arm for Accuracy10%",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      }
+    ],
+    "nameEn": "Soul Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 66",
+    "attribute": "X",
+    "hp": 9400,
+    "mp": 80,
+    "exp": 260,
+    "name": "Lazy Buffy",
+    "gold": "320 ~ 480 楓幣",
+    "defense": {
+      "defensePhysical": 180,
+      "defenseMagic": 254,
+      "evasionRate": 26,
+      "accuracy": "95 (每少1級 +3.46)"
+    },
+    "drops": [
+      {
+        "nameEn": "Lazy Buffy Marble",
+        "nameZh": "小丑瑞奇的球"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Scroll for Earring for INT 60%",
+        "nameZh": "耳環智力卷軸60%"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "White Calaf",
+        "nameZh": "白妖精禮服"
+      },
+      {
+        "nameEn": "Blue Moon Gloves",
+        "nameZh": "藍月手套"
+      },
+      {
+        "nameEn": "Purple Steel-Tip Boots",
+        "nameZh": "紫弓手鞋"
+      },
+      {
+        "nameEn": "Umber Shouldermail",
+        "nameZh": "黑板金鎧甲"
+      },
+      {
+        "nameEn": "Umber Mantis Pants",
+        "nameZh": "黑飛影之褲"
+      },
+      {
+        "nameEn": "Old Mithril Nordic Helm",
+        "nameZh": "舊鋰礦諾曼頭盔"
+      },
+      {
+        "nameEn": "Red Seraphis",
+        "nameZh": "紅和平之帽"
+      },
+      {
+        "nameEn": "Oaker Scorpio",
+        "nameZh": "黃飛影之服"
+      },
+      {
+        "nameEn": "Oaker Scorpio Pants",
+        "nameZh": "黃飛影之褲"
+      },
+      {
+        "nameEn": "Blue Choro",
+        "nameZh": "藍草露"
+      },
+      {
+        "nameEn": "Sapphire Clench",
+        "nameZh": "藍戰鬥手套"
+      },
+      {
+        "nameEn": "Black Gaia Cape",
+        "nameZh": "黑鬥士披風"
+      },
+      {
+        "nameEn": "Blue Linnex",
+        "nameZh": "藍飄雲之衣"
+      },
+      {
+        "nameEn": "Redemption",
+        "nameZh": "銀龍槍"
+      },
+      {
+        "nameEn": "Silver Rover",
+        "nameZh": "銀名譽手套"
+      },
+      {
+        "nameEn": "Red Lapiz Sandals",
+        "nameZh": "紅水晶涼鞋"
+      },
+      {
+        "nameEn": "Metal Silver Earrings",
+        "nameZh": "銀製耳環"
+      },
+      {
+        "nameEn": "Psycho Claw",
+        "nameZh": "塞爾拉利刃拳套"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for ATT 60%",
+        "nameZh": "指虎攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Earring for DEX 10%",
+        "nameZh": "耳環敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for HP 10%",
+        "nameZh": "褲裙生命卷軸10%"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "Lazy Buffy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 67",
+    "attribute": "弱聖 / 強雷 / 免疫 冰\n(可治癒攻擊)",
+    "hp": 11000,
+    "mp": 100,
+    "exp": 265,
+    "name": "Master Soul Teddy",
+    "gold": "332 ~ 498 楓幣",
+    "defense": {
+      "defensePhysical": 210,
+      "defenseMagic": 250,
+      "evasionRate": 27,
+      "accuracy": "99 (每少1級 +3.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Free Spirit",
+        "nameZh": "自由之靈"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Scroll for Cape for LUK 60%",
+        "nameZh": "披風幸運卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Dagger for ATT 60%",
+        "nameZh": "短劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Dark Calas",
+        "nameZh": "黑魔法戰士衣"
+      },
+      {
+        "nameEn": "Green Steel-Tip Boots",
+        "nameZh": "綠弓手鞋"
+      },
+      {
+        "nameEn": "Red Willow",
+        "nameZh": "紅意志手套"
+      },
+      {
+        "nameEn": "Dark Anakamoon",
+        "nameZh": "黑神聖服"
+      },
+      {
+        "nameEn": "Blue Oriental Helmet",
+        "nameZh": "將軍青頭盔"
+      },
+      {
+        "nameEn": "Dark Identity",
+        "nameZh": "黑忍者頭巾"
+      },
+      {
+        "nameEn": "Black Polyfeather Hat",
+        "nameZh": "黑弓羽"
+      },
+      {
+        "nameEn": "Green Seraphis",
+        "nameZh": "綠和平之帽"
+      },
+      {
+        "nameEn": "Red Orientican",
+        "nameZh": "紅鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Red Orientican Pants",
+        "nameZh": "紅鋼玉褲"
+      },
+      {
+        "nameEn": "Purple Mystique Shoes",
+        "nameZh": "紫龍皮鞋"
+      },
+      {
+        "nameEn": "Green Elf Shoes",
+        "nameZh": "綠箭魂鞋"
+      },
+      {
+        "nameEn": "Bronze Husk",
+        "nameZh": "青銅暗影手套"
+      },
+      {
+        "nameEn": "Golden River",
+        "nameZh": "金剛刃"
+      },
+      {
+        "nameEn": "Brown Lapiz Sandals",
+        "nameZh": "褐水晶涼鞋"
+      },
+      {
+        "nameEn": "Black Pirate's Bandana",
+        "nameZh": "黑色海盜頭巾"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for HP 100%",
+        "nameZh": "褲裙生命卷軸100%"
+      },
+      {
+        "nameEn": "Two-Handed BW Production Stimulator",
+        "nameZh": "雙手棍催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      }
+    ],
+    "nameEn": "Master Soul Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 70",
+    "attribute": "弱火, 聖\n(可治癒攻擊)",
+    "hp": 15000,
+    "mp": 180,
+    "exp": 270,
+    "name": "Klock",
+    "gold": "336 ~ 509 楓幣",
+    "defense": {
+      "defensePhysical": 250,
+      "defenseMagic": 250,
+      "evasionRate": 26,
+      "accuracy": "95 (每少1級 +3.46)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sealed-up Grandpa Clock",
+        "nameZh": "封印鐘心"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Wizard Potion",
+        "nameZh": "強效魔力水"
+      },
+      {
+        "nameEn": "Scroll for Earring for INT 10%",
+        "nameZh": "耳環智力卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Gloves for DEX 10%",
+        "nameZh": "手套敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Sunrise Dew",
+        "nameZh": "清晨之露"
+      },
+      {
+        "nameEn": "Red Anakamoon",
+        "nameZh": "紅神聖服"
+      },
+      {
+        "nameEn": "Black Polyfeather Hat",
+        "nameZh": "黑弓羽"
+      },
+      {
+        "nameEn": "Dark Orientican",
+        "nameZh": "黑鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Dark Orientican Pants",
+        "nameZh": "黑鋼玉褲"
+      },
+      {
+        "nameEn": "Bronze Clench",
+        "nameZh": "青銅戰鬥手套"
+      },
+      {
+        "nameEn": "Red Gore Boots",
+        "nameZh": "紫花精鞋"
+      },
+      {
+        "nameEn": "Orange Tai",
+        "nameZh": "朱旋風甲"
+      },
+      {
+        "nameEn": "Bronze Gigantic",
+        "nameZh": "青銅戰神拳套"
+      },
+      {
+        "nameEn": "Blue Requierre",
+        "nameZh": "藍天上之衣"
+      },
+      {
+        "nameEn": "Blue Mystique Shoes",
+        "nameZh": "藍龍皮鞋"
+      },
+      {
+        "nameEn": "Mithril Husk",
+        "nameZh": "鋰礦暗影手套"
+      },
+      {
+        "nameEn": "Brown Lapiz Sandals",
+        "nameZh": "褐水晶涼鞋"
+      },
+      {
+        "nameEn": "Blue Lineros",
+        "nameZh": "藍飄雲之衣"
+      },
+      {
+        "nameEn": "Metal Silver Earrings",
+        "nameZh": "銀製耳環"
+      },
+      {
+        "nameEn": "The Judgement",
+        "nameZh": "暴風錘"
+      },
+      {
+        "nameEn": "Half Earrings",
+        "nameZh": "紅色時髦耳環"
+      },
+      {
+        "nameEn": "Blue Enigmatic",
+        "nameZh": "藍神仙之服"
+      },
+      {
+        "nameEn": "Blue Wing Boots",
+        "nameZh": "藍飛翼鞋"
+      },
+      {
+        "nameEn": "Sapphire Emperor",
+        "nameZh": "馬爾斯藍拳套"
+      },
+      {
+        "nameEn": "Beia Crash",
+        "nameZh": "拜爾毀滅拳套"
+      },
+      {
+        "nameEn": "Scroll for Earring for DEX 10%",
+        "nameZh": "耳環敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 10%",
+        "nameZh": "盾牌幸運卷軸10%"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      }
+    ],
+    "nameEn": "Klock",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 74",
+    "attribute": "弱冰 / 強火",
+    "hp": 16000,
+    "mp": 120,
+    "exp": 340,
+    "name": "Buffoon",
+    "gold": "320 ~ 480 楓幣",
+    "defense": {
+      "defensePhysical": 340,
+      "defenseMagic": 330,
+      "evasionRate": 27,
+      "accuracy": "99 (每少1級 +3.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Buffoon's Grandpa Clock",
+        "nameZh": "貝爾芬掛鐘"
+      },
+      {
+        "nameEn": "Scroll for Cape for LUK 60%",
+        "nameZh": "披風幸運卷軸60%"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Orange Potion",
+        "nameZh": "橘色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Light Scorpio",
+        "nameZh": "白飛影之服"
+      },
+      {
+        "nameEn": "Light Scorpio Pants",
+        "nameZh": "白飛影之褲"
+      },
+      {
+        "nameEn": "Blue Goldrunners",
+        "nameZh": "藍天使鞋"
+      },
+      {
+        "nameEn": "Blue 冰 Queen",
+        "nameZh": "藍鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Blue 冰 Queen Skirt",
+        "nameZh": "藍鋼玉裙"
+      },
+      {
+        "nameEn": "Red Lapiz Sandals",
+        "nameZh": "紅水晶涼鞋"
+      },
+      {
+        "nameEn": "Gold Rover",
+        "nameZh": "黃金名譽手套"
+      },
+      {
+        "nameEn": "Dark Lineros",
+        "nameZh": "黑飄雲之衣"
+      },
+      {
+        "nameEn": "Violet Platina Pants",
+        "nameZh": "紫暴風褲"
+      },
+      {
+        "nameEn": "Violet Platina",
+        "nameZh": "紫暴風甲"
+      },
+      {
+        "nameEn": "Dark Eyes",
+        "nameZh": "黑神眼手套"
+      },
+      {
+        "nameEn": "Blue Studded Top",
+        "nameZh": "藍玄武之甲"
+      },
+      {
+        "nameEn": "Blue Studded Pants",
+        "nameZh": "藍玄武之褲"
+      },
+      {
+        "nameEn": "Green Scarab",
+        "nameZh": "綠閃電甲"
+      },
+      {
+        "nameEn": "Blue Hinkel",
+        "nameZh": "青神弓"
+      },
+      {
+        "nameEn": "The Gold Dragon",
+        "nameZh": "黃龍刀"
+      },
+      {
+        "nameEn": "Green Pirate Boots",
+        "nameZh": "綠飛影鞋"
+      },
+      {
+        "nameEn": "Blue Clarity",
+        "nameZh": "魔力藍手套"
+      },
+      {
+        "nameEn": "Red Cordon",
+        "nameZh": "紅天使手套"
+      },
+      {
+        "nameEn": "Blue Battle Road",
+        "nameZh": "藍白銀鎧甲"
+      },
+      {
+        "nameEn": "Infinity's Wrath",
+        "nameZh": "因弗蒂之槍"
+      },
+      {
+        "nameEn": "Scroll for Topwear for HP 60%",
+        "nameZh": "上衣生命卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Gloves for HP 10%",
+        "nameZh": "手套生命卷軸10%"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "Buffoon",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 76",
+    "attribute": " 弱聖 \n(可治癒攻擊)",
+    "hp": 18000,
+    "mp": 200,
+    "exp": 370,
+    "name": "Dark Klock",
+    "gold": "648 ~ 960 楓幣",
+    "defense": {
+      "defensePhysical": 380,
+      "defenseMagic": 400,
+      "evasionRate": 27,
+      "accuracy": "99 (每少1級 +3.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Evil Spirit",
+        "nameZh": "邪惡鐘心"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for INT 60%",
+        "nameZh": "套服智力卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Crossbow for ATT 10%",
+        "nameZh": "弩攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Brown Choro",
+        "nameZh": "黃草露"
+      },
+      {
+        "nameEn": "Umber Mantis Pants",
+        "nameZh": "黑飛影之褲"
+      },
+      {
+        "nameEn": "Umber Mantis",
+        "nameZh": "黑飛影之服"
+      },
+      {
+        "nameEn": "Green Orientican",
+        "nameZh": "綠鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Green Orientican Pants",
+        "nameZh": "綠鋼玉褲"
+      },
+      {
+        "nameEn": "Dark Requierre",
+        "nameZh": "黑天上之衣"
+      },
+      {
+        "nameEn": "Dark Studded Pants",
+        "nameZh": "黑玄武之褲"
+      },
+      {
+        "nameEn": "Dark Studded Top",
+        "nameZh": "黑玄武之甲"
+      },
+      {
+        "nameEn": "Red Infinium Circlet",
+        "nameZh": "紅神聖之冠"
+      },
+      {
+        "nameEn": "Dark Patriot",
+        "nameZh": "黑司令帽"
+      },
+      {
+        "nameEn": "Gold Lapiz Sandals",
+        "nameZh": "金水晶涼鞋"
+      },
+      {
+        "nameEn": "Blood Platina Pants",
+        "nameZh": "紅暴風褲"
+      },
+      {
+        "nameEn": "Blood Platina Pants",
+        "nameZh": "紅暴風褲"
+      },
+      {
+        "nameEn": "Green Patriot",
+        "nameZh": "綠司令帽"
+      },
+      {
+        "nameEn": "Green Scarab",
+        "nameZh": "綠閃電甲"
+      },
+      {
+        "nameEn": "Bent Judgement",
+        "nameZh": "黃金暴風錘"
+      },
+      {
+        "nameEn": "Dark Ritual",
+        "nameZh": "死靈法杖"
+      },
+      {
+        "nameEn": "Purple Enigma",
+        "nameZh": "紫神仙之服"
+      },
+      {
+        "nameEn": "Red Pirate Top",
+        "nameZh": "紅隱者之服"
+      },
+      {
+        "nameEn": "Red Pirate Boots",
+        "nameZh": "紅飛影鞋"
+      },
+      {
+        "nameEn": "Green Falcon",
+        "nameZh": "綠色飛翔帽"
+      },
+      {
+        "nameEn": "Dark Dragon Babuta",
+        "nameZh": "黑龍頭盔"
+      },
+      {
+        "nameEn": "Steely Throwing-Knives",
+        "nameZh": "雷之鏢"
+      },
+      {
+        "nameEn": "Abyss Shooter",
+        "nameZh": "深淵射手"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for HP 10%",
+        "nameZh": "褲裙生命卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEX 100%",
+        "nameZh": "褲裙敏捷卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for Accuracy 100%",
+        "nameZh": "單手斧命中卷軸100%"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      }
+    ],
+    "nameEn": "Dark Klock",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 77",
+    "attribute": "弱冰 / 強火",
+    "hp": 19000,
+    "mp": 140,
+    "exp": 385,
+    "name": "Deep Buffoon",
+    "gold": "334 ~ 497 楓幣",
+    "defense": {
+      "defensePhysical": 400,
+      "defenseMagic": 410,
+      "evasionRate": 28,
+      "accuracy": "103 (每少1級 +3.73)"
+    },
+    "drops": [
+      {
+        "nameEn": "Deep Buffoon's Rock Piece",
+        "nameZh": "特貝爾芬石塊"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Sniper Pill",
+        "nameZh": "命中藥丸"
+      },
+      {
+        "nameEn": "Scroll for Two-handed Sword for ATT 60%",
+        "nameZh": "雙手劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Cape for STR 60%",
+        "nameZh": "披風力量卷軸60%"
+      },
+      {
+        "nameEn": "White Anakamoon",
+        "nameZh": "白神聖服"
+      },
+      {
+        "nameEn": "Brown Polyfeather Hat",
+        "nameZh": "黃弓羽"
+      },
+      {
+        "nameEn": "Blood Camel Boots",
+        "nameZh": "紅十字鞋"
+      },
+      {
+        "nameEn": "Blue Nightfox",
+        "nameZh": "藍天空之帽"
+      },
+      {
+        "nameEn": "Bloody Platina",
+        "nameZh": "紅暴風甲"
+      },
+      {
+        "nameEn": "Blood Platina Pants",
+        "nameZh": "紅暴風褲"
+      },
+      {
+        "nameEn": "Blue Linnex",
+        "nameZh": "藍飄雲之衣"
+      },
+      {
+        "nameEn": "Brown Lorin",
+        "nameZh": "褐戰魂手套"
+      },
+      {
+        "nameEn": "Gold Ancient Shield",
+        "nameZh": "黃金古盾牌"
+      },
+      {
+        "nameEn": "Black Scarab",
+        "nameZh": "黑閃電甲"
+      },
+      {
+        "nameEn": "Dark Patriot",
+        "nameZh": "黑司令帽"
+      },
+      {
+        "nameEn": "Red Infinium Circlet",
+        "nameZh": "紅神聖之冠"
+      },
+      {
+        "nameEn": "Blue Studded Top",
+        "nameZh": "藍玄武之甲"
+      },
+      {
+        "nameEn": "Blue Studded Pants",
+        "nameZh": "藍玄武之褲"
+      },
+      {
+        "nameEn": "Chrono",
+        "nameZh": "雷電斧"
+      },
+      {
+        "nameEn": "Half Earrings",
+        "nameZh": "紅色時髦耳環"
+      },
+      {
+        "nameEn": "Dark Enigma",
+        "nameZh": "黑神仙之服"
+      },
+      {
+        "nameEn": "Green Pris",
+        "nameZh": "綠宮衣"
+      },
+      {
+        "nameEn": "Red Pirate Boots",
+        "nameZh": "紅飛影鞋"
+      },
+      {
+        "nameEn": "Blood Emperor",
+        "nameZh": "馬爾斯紅拳套"
+      },
+      {
+        "nameEn": "Blue Halfglove",
+        "nameZh": "藍色伯爵手套"
+      },
+      {
+        "nameEn": "Scroll for Earring for LUK 60%",
+        "nameZh": "耳環幸運卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Overall for STR 10%",
+        "nameZh": "套服力量卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for Accuracy 10%",
+        "nameZh": "單手斧命中卷軸10%"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      }
+    ],
+    "nameEn": "Deep Buffoon",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 83",
+    "attribute": "弱火 / 強冰",
+    "hp": 30000,
+    "mp": 160,
+    "exp": 1100,
+    "name": "Ghost Pirate",
+    "gold": "361 ~ 540 楓幣",
+    "defense": {
+      "defensePhysical": 710,
+      "defenseMagic": 460,
+      "evasionRate": 27,
+      "accuracy": "99 (每少1級 +3.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Ghost Pirate Key",
+        "nameZh": "百烈舵輪"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "Scroll for Cape for MDEF 60%",
+        "nameZh": "披風魔防卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for DEX 10%",
+        "nameZh": "套服敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Dark Studded Top",
+        "nameZh": "黑玄武之甲"
+      },
+      {
+        "nameEn": "Dark Studded Pants",
+        "nameZh": "黑玄武之褲"
+      },
+      {
+        "nameEn": "Bronze Planet",
+        "nameZh": "青銅戰盔"
+      },
+      {
+        "nameEn": "Beige Patriot",
+        "nameZh": "黃司令帽"
+      },
+      {
+        "nameEn": "Green Pirate Top",
+        "nameZh": "綠隱者之服"
+      },
+      {
+        "nameEn": "Green Pirate Pants",
+        "nameZh": "綠隱者之褲"
+      },
+      {
+        "nameEn": "Blue Battle Road",
+        "nameZh": "藍白銀鎧甲"
+      },
+      {
+        "nameEn": "Purple Galaxy",
+        "nameZh": "紫十字帽"
+      },
+      {
+        "nameEn": "Green Falcon",
+        "nameZh": "綠色飛翔帽"
+      },
+      {
+        "nameEn": "Red Dragon Babuta",
+        "nameZh": "赤龍頭盔"
+      },
+      {
+        "nameEn": "Blue Wing Boots",
+        "nameZh": "藍飛翼鞋"
+      },
+      {
+        "nameEn": "Sapphire Emperor",
+        "nameZh": "馬爾斯藍拳套"
+      },
+      {
+        "nameEn": "Gold Aquila Shield",
+        "nameZh": "金尖刺護盾"
+      },
+      {
+        "nameEn": "火 Raven",
+        "nameZh": "炎帝弩弓"
+      },
+      {
+        "nameEn": "Omega Spear",
+        "nameZh": "奧丁手戟"
+      },
+      {
+        "nameEn": "Blue Ades",
+        "nameZh": "藍色昂斯"
+      },
+      {
+        "nameEn": "Green Osfa Boots",
+        "nameZh": "藍扣帶靴"
+      },
+      {
+        "nameEn": "Green Neli Shoes",
+        "nameZh": "綠色艾倫鞋"
+      },
+      {
+        "nameEn": "Green Imperial",
+        "nameZh": "綠色費洛奇拳頭"
+      },
+      {
+        "nameEn": "Blue Sun Boat Hat",
+        "nameZh": "藍色船型帽"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 60%",
+        "nameZh": "盾牌幸運卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for Accuracy 100%",
+        "nameZh": "單手劍命中卷軸100%"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      },
+      {
+        "nameEn": "[Storybook] Unknown Letter",
+        "nameZh": "來歷不明的信"
+      }
+    ],
+    "nameEn": "Ghost Pirate",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 85",
+    "attribute": "弱聖, 火 \n(可治癒攻擊)",
+    "hp": 32000,
+    "mp": 180,
+    "exp": 1300,
+    "name": "Death Teddy",
+    "gold": "364 ~ 545 楓幣",
+    "defense": {
+      "defensePhysical": 700,
+      "defenseMagic": 465,
+      "evasionRate": 27,
+      "accuracy": "99 (每少1級 +3.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sealed Teddy Bear",
+        "nameZh": "封印發條熊"
+      },
+      {
+        "nameEn": "All Cure Potion",
+        "nameZh": "萬能療傷藥"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Sniper Potion",
+        "nameZh": "命中藥水"
+      },
+      {
+        "nameEn": "Sunset Dew",
+        "nameZh": "黃昏之露"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEF 60%",
+        "nameZh": "褲、裙防禦卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Cape for INT 60%",
+        "nameZh": "披風智力卷軸60%"
+      },
+      {
+        "nameEn": "Yellow Umbrella",
+        "nameZh": "黃色雨傘"
+      },
+      {
+        "nameEn": "Dark Lineros",
+        "nameZh": "黑飄雲之衣"
+      },
+      {
+        "nameEn": "Blue Carzen Boots",
+        "nameZh": "藍飛魂鞋"
+      },
+      {
+        "nameEn": "Blue Mystique",
+        "nameZh": "藍朱雀之甲"
+      },
+      {
+        "nameEn": "Blue Mystique Pants",
+        "nameZh": "藍朱雀之褲"
+      },
+      {
+        "nameEn": "Blue Hinkel",
+        "nameZh": "青神弓"
+      },
+      {
+        "nameEn": "Black Seraph Cape",
+        "nameZh": "黑妖精披風"
+      },
+      {
+        "nameEn": "Blue Enigmatic",
+        "nameZh": "藍神仙之服"
+      },
+      {
+        "nameEn": "Helios",
+        "nameZh": "大力神之斧"
+      },
+      {
+        "nameEn": "Angelic Betrayal",
+        "nameZh": "小妖精刀"
+      },
+      {
+        "nameEn": "Dark Clarity",
+        "nameZh": "魔力青手套"
+      },
+      {
+        "nameEn": "Green Larceny",
+        "nameZh": "德古拉藍手套"
+      },
+      {
+        "nameEn": "Red Battle Empress",
+        "nameZh": "紅白銀鎧甲"
+      },
+      {
+        "nameEn": "Green Wing Boots",
+        "nameZh": "綠飛翼鞋"
+      },
+      {
+        "nameEn": "Green Pireta Hat",
+        "nameZh": "綠色海盜帽"
+      },
+      {
+        "nameEn": "Yellow Battle Empress",
+        "nameZh": "黃白銀鎧甲"
+      },
+      {
+        "nameEn": "Red Ades",
+        "nameZh": "紅色昂斯"
+      },
+      {
+        "nameEn": "Emerald War Greave",
+        "nameZh": "黃鱗甲靴"
+      },
+      {
+        "nameEn": "Dark Neli Shoes",
+        "nameZh": "黑色艾倫鞋"
+      },
+      {
+        "nameEn": "Green Mystra",
+        "nameZh": "綠色米斯特手套"
+      },
+      {
+        "nameEn": "Phoenix Wand",
+        "nameZh": "鳳凰短杖"
+      },
+      {
+        "nameEn": "Blue Halfglove",
+        "nameZh": "藍色伯爵手套"
+      },
+      {
+        "nameEn": "Scroll for Helmet for INT 60%",
+        "nameZh": "頭盔智力卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for STR 60%",
+        "nameZh": "上衣力量卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 100%",
+        "nameZh": "盾牌幸運卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Shield for HP 10%",
+        "nameZh": "盾牌生命卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Pole arm for Accuracy 60%",
+        "nameZh": "矛命中卷軸60%"
+      }
+    ],
+    "nameEn": "Death Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 87",
+    "attribute": "弱火 / 免疫 冰",
+    "hp": 35000,
+    "mp": 200,
+    "exp": 1500,
+    "name": "Dual Ghost Pirate",
+    "gold": "400 ~ 600 楓幣",
+    "defense": {
+      "defensePhysical": 775,
+      "defenseMagic": 470,
+      "evasionRate": 28,
+      "accuracy": "103 (每少1級 +3.73)"
+    },
+    "drops": [
+      {
+        "nameEn": "Dual Pirate's Propeller",
+        "nameZh": "多立百烈推進器"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Adamantium Ore",
+        "nameZh": "朱礦石母礦"
+      },
+      {
+        "nameEn": "Scroll for Pole Arm for ATT 60%",
+        "nameZh": "矛攻擊卷軸60%"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "Steely Throwing-Knives",
+        "nameZh": "雷之鏢"
+      },
+      {
+        "nameEn": "Dark Requiem",
+        "nameZh": "黑天上之衣"
+      },
+      {
+        "nameEn": "Golden Hinkel",
+        "nameZh": "黃神弓"
+      },
+      {
+        "nameEn": "Bronze Husk",
+        "nameZh": "青銅暗影手套"
+      },
+      {
+        "nameEn": "Dark Studded Top",
+        "nameZh": "黑玄武之甲"
+      },
+      {
+        "nameEn": "Dark Studded Pants",
+        "nameZh": "黑玄武之褲"
+      },
+      {
+        "nameEn": "Purple Enigma",
+        "nameZh": "紫神仙之服"
+      },
+      {
+        "nameEn": "Dark Pireta Hat",
+        "nameZh": "黑色海盜帽"
+      },
+      {
+        "nameEn": "Blue Galaxy",
+        "nameZh": "藍十字帽"
+      },
+      {
+        "nameEn": "Metal Heart Earrings",
+        "nameZh": "金屬心型耳環"
+      },
+      {
+        "nameEn": "Green Pirate Blouse",
+        "nameZh": "綠隱者之服"
+      },
+      {
+        "nameEn": "Green Pirate Skirt",
+        "nameZh": "綠隱者之裙"
+      },
+      {
+        "nameEn": "Red Pris",
+        "nameZh": "紅宮衣"
+      },
+      {
+        "nameEn": "Yellow Battle Empress",
+        "nameZh": "黃白銀鎧甲"
+      },
+      {
+        "nameEn": "Red Pria",
+        "nameZh": "紅宮衣"
+      },
+      {
+        "nameEn": "Red Pirate Boots",
+        "nameZh": "紅飛影鞋"
+      },
+      {
+        "nameEn": "Blood Emperor",
+        "nameZh": "馬爾斯紅拳套"
+      },
+      {
+        "nameEn": "Red Cordon",
+        "nameZh": "紅天使手套"
+      },
+      {
+        "nameEn": "Green Clarity",
+        "nameZh": "魔力綠手套"
+      },
+      {
+        "nameEn": "Green Osfa Suit",
+        "nameZh": "藍扣帶護甲"
+      },
+      {
+        "nameEn": "Green Osfa Pants",
+        "nameZh": "藍色勇者褲"
+      },
+      {
+        "nameEn": "Orihalcon War Greave",
+        "nameZh": "紫鱗甲靴"
+      },
+      {
+        "nameEn": "Red Focus",
+        "nameZh": "紅色亞達夫手套"
+      },
+      {
+        "nameEn": "Blue Sage",
+        "nameZh": "藍色貴族手套"
+      },
+      {
+        "nameEn": "Vital Bullet",
+        "nameZh": "高等子彈"
+      },
+      {
+        "nameEn": "Infinity's Wrath",
+        "nameZh": "因弗蒂之槍"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for Jump 10%",
+        "nameZh": "褲裙跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Two-Handed BW Production Stimulator",
+        "nameZh": "雙手棍催化劑"
+      },
+      {
+        "nameEn": "[Storybook] Unknown Letter",
+        "nameZh": "來歷不明的信"
+      }
+    ],
+    "nameEn": "Dual Ghost Pirate",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 89",
+    "attribute": " 弱聖 / 強冰, 雷\n(可治癒攻擊)",
+    "hp": 40000,
+    "mp": 190,
+    "exp": 1720,
+    "name": "Master Death Teddy",
+    "gold": "408 ~ 610 楓幣",
+    "defense": {
+      "defensePhysical": 750,
+      "defenseMagic": 480,
+      "evasionRate": 28,
+      "accuracy": "103 (每少1級 +3.73)"
+    },
+    "drops": [
+      {
+        "nameEn": "Binding Bridle",
+        "nameZh": "束縛枷鎖"
+      },
+      {
+        "nameEn": "Power Elixir",
+        "nameZh": "超級藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Warrior Potion",
+        "nameZh": "攻擊藥水"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "Scroll for Spear for ATT 60%",
+        "nameZh": "槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Cape for MP 100%",
+        "nameZh": "披風魔力卷軸100%"
+      },
+      {
+        "nameEn": "White Nightfox",
+        "nameZh": "白天空之帽"
+      },
+      {
+        "nameEn": "Blue Infinium Circlet",
+        "nameZh": "藍神聖之冠"
+      },
+      {
+        "nameEn": "Purple Carzen Boots",
+        "nameZh": "紫飛魂鞋"
+      },
+      {
+        "nameEn": "Dark Elf Shoes",
+        "nameZh": "黑箭魂鞋"
+      },
+      {
+        "nameEn": "Dark Enigmatic",
+        "nameZh": "黑神仙之服"
+      },
+      {
+        "nameEn": "Khan",
+        "nameZh": "湯勺"
+      },
+      {
+        "nameEn": "Dark Galaxy",
+        "nameZh": "黑十字帽"
+      },
+      {
+        "nameEn": "Red Falcon",
+        "nameZh": "紅色飛翔帽"
+      },
+      {
+        "nameEn": "Dark Pirate Blouse",
+        "nameZh": "黑隱者之服"
+      },
+      {
+        "nameEn": "Dark Pirate Skirt",
+        "nameZh": "黑隱者之裙"
+      },
+      {
+        "nameEn": "Green Battle Road",
+        "nameZh": "綠白銀鎧甲"
+      },
+      {
+        "nameEn": "Green Pria",
+        "nameZh": "綠宮衣"
+      },
+      {
+        "nameEn": "Dark Rivers Boots",
+        "nameZh": "黑色水晶靴"
+      },
+      {
+        "nameEn": "Blue Cordon",
+        "nameZh": "藍天使手套"
+      },
+      {
+        "nameEn": "Dark Valkyrie",
+        "nameZh": "黑貴族鎧甲"
+      },
+      {
+        "nameEn": "Blood Valkyrie Skirt",
+        "nameZh": "紅色虎雲裙"
+      },
+      {
+        "nameEn": "Red Ades Shoes",
+        "nameZh": "紅色昂斯鞋"
+      },
+      {
+        "nameEn": "Blue Neli Shoes",
+        "nameZh": "藍色艾倫鞋"
+      },
+      {
+        "nameEn": "Purple Mystra",
+        "nameZh": "紫色米斯特手套"
+      },
+      {
+        "nameEn": "Blue Pageant",
+        "nameZh": "藍色伯爵靴"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 10%",
+        "nameZh": "頭盔敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Gloves for HP 100%",
+        "nameZh": "手套生命卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 100%",
+        "nameZh": "單手棍命中卷軸100%"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "Master Death Teddy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 93",
+    "attribute": "弱雷 / 強火",
+    "hp": 50000,
+    "mp": 190,
+    "exp": 2100,
+    "name": "Spirit Viking",
+    "gold": "625 ~ 926 楓幣",
+    "defense": {
+      "defensePhysical": 830,
+      "defenseMagic": 530,
+      "evasionRate": 37,
+      "accuracy": "136 (每少1級 +4.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "Viking Sail",
+        "nameZh": "維京船帆"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "Scroll for Crossbow for ATT 10%",
+        "nameZh": "弩攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Ilbi Throwing-Stars",
+        "nameZh": "日之鏢"
+      },
+      {
+        "nameEn": "Beige Lineros",
+        "nameZh": "褐飄雲之衣"
+      },
+      {
+        "nameEn": "Dark Infinium Circlet",
+        "nameZh": "黑神聖之冠"
+      },
+      {
+        "nameEn": "Blood Nightfox",
+        "nameZh": "紅天空之帽"
+      },
+      {
+        "nameEn": "Gigantic Sledge",
+        "nameZh": "封魂之錘"
+      },
+      {
+        "nameEn": "Dark Enigmatic",
+        "nameZh": "黑神仙之服"
+      },
+      {
+        "nameEn": "Green Enigmatic",
+        "nameZh": "綠神仙之服"
+      },
+      {
+        "nameEn": "Heaven's Just冰",
+        "nameZh": "釘頭錘"
+      },
+      {
+        "nameEn": "Brown Pireta Hat",
+        "nameZh": "褐色海盜帽"
+      },
+      {
+        "nameEn": "Dark Falcon",
+        "nameZh": "黑色飛翔帽"
+      },
+      {
+        "nameEn": "Dark Battle Road",
+        "nameZh": "黑白銀鎧甲"
+      },
+      {
+        "nameEn": "Red Pirate Blouse",
+        "nameZh": "紅隱者之服"
+      },
+      {
+        "nameEn": "Red Pirate Skirt",
+        "nameZh": "紅隱者之裙"
+      },
+      {
+        "nameEn": "Blue Pris",
+        "nameZh": "藍宮衣"
+      },
+      {
+        "nameEn": "Emerald Emperor",
+        "nameZh": "馬爾斯綠拳套"
+      },
+      {
+        "nameEn": "Green Pria",
+        "nameZh": "綠宮衣"
+      },
+      {
+        "nameEn": "Blue Battle Empress",
+        "nameZh": "藍白銀鎧甲"
+      },
+      {
+        "nameEn": "Blue Commodore",
+        "nameZh": "藍色崇高服"
+      },
+      {
+        "nameEn": "Blue Commodore Pants",
+        "nameZh": "藍色強化褲"
+      },
+      {
+        "nameEn": "Purple Osfa Suit",
+        "nameZh": "紫扣帶護甲"
+      },
+      {
+        "nameEn": "Purple Osfa Pants",
+        "nameZh": "粉色勇者褲"
+      },
+      {
+        "nameEn": "Green Sage",
+        "nameZh": "綠色貴族手套"
+      },
+      {
+        "nameEn": "Black Markintz",
+        "nameZh": "黑色馬金斯靴"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for ATT 10%",
+        "nameZh": "指虎攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Earring for DEX 60%",
+        "nameZh": "耳環敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 100%",
+        "nameZh": "盾牌力量卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for Accuracy 10%",
+        "nameZh": "指虎命中卷軸10%"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "[Mastery Book] Dragon Strike 20",
+        "nameZh": "[技能書]魔龍降臨20"
+      },
+      {
+        "nameEn": "[Mastery Book] Ninja Ambush 20",
+        "nameZh": "[技能書]忍影瞬殺20"
+      }
+    ],
+    "nameEn": "Spirit Viking",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 95",
+    "attribute": "弱聖, 火 / 強冰\n(可治癒攻擊)",
+    "hp": 53000,
+    "mp": 200,
+    "exp": 2300,
+    "name": "Phantom Watch",
+    "gold": "622 ~ 948 楓幣",
+    "defense": {
+      "defensePhysical": 835,
+      "defenseMagic": 530,
+      "evasionRate": 37,
+      "accuracy": "136 (每少1級 +4.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sealed Bottle",
+        "nameZh": "封印甕"
+      },
+      {
+        "nameEn": "Power Elixir",
+        "nameZh": "超級藥水"
+      },
+      {
+        "nameEn": "Speed Potion",
+        "nameZh": "速度藥水"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Sunset Dew",
+        "nameZh": "黃昏之露"
+      },
+      {
+        "nameEn": "Scroll for Two-handed Sword for ATT 60%",
+        "nameZh": "雙手劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Cape for LUK 60%",
+        "nameZh": "披風幸運卷軸60%"
+      },
+      {
+        "nameEn": "Redemption",
+        "nameZh": "銀龍槍"
+      },
+      {
+        "nameEn": "Gold Eyes",
+        "nameZh": "黃金神眼手套"
+      },
+      {
+        "nameEn": "Green Enigma",
+        "nameZh": "綠神仙之服"
+      },
+      {
+        "nameEn": "Dragon's Tail",
+        "nameZh": "黑精靈拳刃"
+      },
+      {
+        "nameEn": "Dark Cordon",
+        "nameZh": "黑天使手套"
+      },
+      {
+        "nameEn": "Blood Emperor",
+        "nameZh": "馬爾斯紅拳套"
+      },
+      {
+        "nameEn": "Dark Pirate Top",
+        "nameZh": "黑隱者之服"
+      },
+      {
+        "nameEn": "Dark Pirate Pants",
+        "nameZh": "黑隱者之褲"
+      },
+      {
+        "nameEn": "Blue Pris",
+        "nameZh": "藍宮衣"
+      },
+      {
+        "nameEn": "Dark Rivers Boots",
+        "nameZh": "黑色水晶靴"
+      },
+      {
+        "nameEn": "Blue Dragon Babuta",
+        "nameZh": "藍龍頭盔"
+      },
+      {
+        "nameEn": "Red Battle Empress",
+        "nameZh": "紅白銀鎧甲"
+      },
+      {
+        "nameEn": "火 Arund",
+        "nameZh": "火焰艾倫弓"
+      },
+      {
+        "nameEn": "Blue Pria",
+        "nameZh": "藍宮衣"
+      },
+      {
+        "nameEn": "Red Oriental Fury Coat",
+        "nameZh": "紅綢緞長袍"
+      },
+      {
+        "nameEn": "Dark Ades",
+        "nameZh": "黑色昂斯"
+      },
+      {
+        "nameEn": "Green Commodore",
+        "nameZh": "綠色崇高服"
+      },
+      {
+        "nameEn": "Green Commodore Pants",
+        "nameZh": "綠色強化褲"
+      },
+      {
+        "nameEn": "Red Sage",
+        "nameZh": "紅色貴族手套"
+      },
+      {
+        "nameEn": "The Peacemaker",
+        "nameZh": "調停者"
+      },
+      {
+        "nameEn": "Scroll for Topwear for LUK 10%",
+        "nameZh": "上衣幸運卷軸10%"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Pole Arm Production Stimulator",
+        "nameZh": "矛催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "[Storybook] Black Book",
+        "nameZh": "黑色書本"
+      }
+    ],
+    "nameEn": "Phantom Watch",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 98",
+    "attribute": "弱雷 / 強火",
+    "hp": 58000,
+    "mp": 220,
+    "exp": 2600,
+    "name": "Gigantic Spirit Viking",
+    "gold": "646 ~ 959 楓幣",
+    "defense": {
+      "defensePhysical": 845,
+      "defenseMagic": 580,
+      "evasionRate": 38,
+      "accuracy": "139 (每少1級 +5.06)"
+    },
+    "drops": [
+      {
+        "nameEn": "Gigantic Viking Hat",
+        "nameZh": "巨人維京帽"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Power Elixir",
+        "nameZh": "超級藥水"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for ATT 10%",
+        "nameZh": "單手劍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 10%",
+        "nameZh": "盾牌防禦卷軸10%"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Dark Husk",
+        "nameZh": "黑暗影手套"
+      },
+      {
+        "nameEn": "Baige Elf Shoes",
+        "nameZh": "黃箭魂鞋"
+      },
+      {
+        "nameEn": "Dark Enigma",
+        "nameZh": "黑神仙之服"
+      },
+      {
+        "nameEn": "Heaven's Gate",
+        "nameZh": "亞歷山大之劍"
+      },
+      {
+        "nameEn": "Red Battle Road",
+        "nameZh": "紅白銀鎧甲"
+      },
+      {
+        "nameEn": "Green Pris",
+        "nameZh": "綠宮衣"
+      },
+      {
+        "nameEn": "Red Pireta Hat",
+        "nameZh": "紅色海盜帽"
+      },
+      {
+        "nameEn": "Dark Battle Empress",
+        "nameZh": "黑白銀鎧甲"
+      },
+      {
+        "nameEn": "Dark Wing Boots",
+        "nameZh": "黑飛翼鞋"
+      },
+      {
+        "nameEn": "Purple Larceny",
+        "nameZh": "德古拉紫手套"
+      },
+      {
+        "nameEn": "Golden Raven",
+        "nameZh": "金天弩弓"
+      },
+      {
+        "nameEn": "Blue Oriental Fury Coat",
+        "nameZh": "青綢緞長袍"
+      },
+      {
+        "nameEn": "Blue Anes",
+        "nameZh": "藍色高麗貴婦袍"
+      },
+      {
+        "nameEn": "Brown Osfa Pants",
+        "nameZh": "褐色勇者褲"
+      },
+      {
+        "nameEn": "Brown Osfa Suit",
+        "nameZh": "褐扣帶護甲"
+      },
+      {
+        "nameEn": "Dark Pachone",
+        "nameZh": "黑色貴族手套"
+      },
+      {
+        "nameEn": "Scroll for Helmet for INT 60%",
+        "nameZh": "頭盔智力卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 10%",
+        "nameZh": "頭盔敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for STR 60%",
+        "nameZh": "上衣力量卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for LUK 10%",
+        "nameZh": "上衣幸運卷軸10%"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      },
+      {
+        "nameEn": "Wand Production Stimulator",
+        "nameZh": "短杖催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Sword Forging Manual",
+        "nameZh": "雙手劍鍛造捲"
+      }
+    ],
+    "nameEn": "Gigantic Spirit Viking",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 99",
+    "attribute": "弱聖, 火 / 免疫 冰\n(可治癒攻擊)",
+    "hp": 60000,
+    "mp": 220,
+    "exp": 2800,
+    "name": "Grim Phantom Watch",
+    "gold": "416 ~ 623 楓幣",
+    "defense": {
+      "defensePhysical": 850,
+      "defenseMagic": 570,
+      "evasionRate": 38,
+      "accuracy": "139 (每少1級 +5.06)"
+    },
+    "drops": [
+      {
+        "nameEn": "冰 Piece",
+        "nameZh": "寒冰碎塊"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Power Elixir",
+        "nameZh": "超級藥水"
+      },
+      {
+        "nameEn": "Unagi",
+        "nameZh": "烤鰻魚"
+      },
+      {
+        "nameEn": "Magic Potion",
+        "nameZh": "魔力藥水"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "Scroll for Claw for ATT 10%",
+        "nameZh": "拳套攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for DEF 60%",
+        "nameZh": "上衣防禦卷軸60%"
+      },
+      {
+        "nameEn": "Purple Nightfox",
+        "nameZh": "紫天空之帽"
+      },
+      {
+        "nameEn": "Dark Linnex",
+        "nameZh": "黑飄雲之衣"
+      },
+      {
+        "nameEn": "Silver Ancient Shield",
+        "nameZh": "銀古盾牌"
+      },
+      {
+        "nameEn": "The Morningstar",
+        "nameZh": "雷神之錘"
+      },
+      {
+        "nameEn": "Marine Raven",
+        "nameZh": "滄海弩弓"
+      },
+      {
+        "nameEn": "Blue Clarity",
+        "nameZh": "魔力藍手套"
+      },
+      {
+        "nameEn": "Blood Larceny",
+        "nameZh": "德古拉紅手套"
+      },
+      {
+        "nameEn": "Red Wing Boots",
+        "nameZh": "紅飛翼鞋"
+      },
+      {
+        "nameEn": "Dark Emperor",
+        "nameZh": "馬爾斯黑拳套"
+      },
+      {
+        "nameEn": "Dark Enigma Shoes",
+        "nameZh": "黑密林之鞋"
+      },
+      {
+        "nameEn": "Green Pireta Hat",
+        "nameZh": "綠色海盜帽"
+      },
+      {
+        "nameEn": "Green Oriental Fury Coat",
+        "nameZh": "綠綢緞長袍"
+      },
+      {
+        "nameEn": "Red Arlic Helmet",
+        "nameZh": "紅色昂斯頭盔"
+      },
+      {
+        "nameEn": "Green Valkyrie Skirt",
+        "nameZh": "綠色虎雲裙"
+      },
+      {
+        "nameEn": "Green Valkyrie",
+        "nameZh": "綠貴族鎧甲"
+      },
+      {
+        "nameEn": "Brown Osfa Suit",
+        "nameZh": "褐扣帶護甲"
+      },
+      {
+        "nameEn": "Brown Osfa Pants",
+        "nameZh": "褐色勇者褲"
+      },
+      {
+        "nameEn": "Green Anes",
+        "nameZh": "綠色高麗貴婦袍"
+      },
+      {
+        "nameEn": "Dark Imperial",
+        "nameZh": "黑色費洛奇拳頭"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for Accuracy 10%",
+        "nameZh": "單手劍命中卷軸10%"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      }
+    ],
+    "nameEn": "Grim Phantom Watch",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 108",
+    "attribute": " 弱聖 / 免疫 冰\n(可治癒攻擊)",
+    "hp": 70000,
+    "mp": 300,
+    "exp": 4100,
+    "name": "Thanatos",
+    "gold": "664 ~ 996 楓幣",
+    "defense": {
+      "defensePhysical": 850,
+      "defenseMagic": 680,
+      "evasionRate": 38,
+      "accuracy": "139 (每少1級 +4.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "Tanathos Strap",
+        "nameZh": "達納托斯肩章"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Power Elixir",
+        "nameZh": "超級藥水"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Scroll for Shoes for DEX 10%",
+        "nameZh": "鞋子敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Gloves for DEX 10%",
+        "nameZh": "手套敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Speed Potion",
+        "nameZh": "速度藥水"
+      },
+      {
+        "nameEn": "Brown Nightfox",
+        "nameZh": "褐天空之帽"
+      },
+      {
+        "nameEn": "Gold Ancient Shield",
+        "nameZh": "黃金古盾牌"
+      },
+      {
+        "nameEn": "Kandine",
+        "nameZh": "鳳凰刃"
+      },
+      {
+        "nameEn": "Golden River",
+        "nameZh": "金剛刃"
+      },
+      {
+        "nameEn": "Green Enigmatic",
+        "nameZh": "綠神仙之服"
+      },
+      {
+        "nameEn": "Marine Arund",
+        "nameZh": "馬藍艾倫弓"
+      },
+      {
+        "nameEn": "Green Enigma Shoes",
+        "nameZh": "綠密林之鞋"
+      },
+      {
+        "nameEn": "Dark Pirate Blouse",
+        "nameZh": "黑隱者之服"
+      },
+      {
+        "nameEn": "Dark Pirate Skirt",
+        "nameZh": "黑隱者之裙"
+      },
+      {
+        "nameEn": "Dark Battle Road",
+        "nameZh": "黑白銀鎧甲"
+      },
+      {
+        "nameEn": "Dark Pria",
+        "nameZh": "黑宮衣"
+      },
+      {
+        "nameEn": "Blue Rivers Boots",
+        "nameZh": "藍色水晶靴"
+      },
+      {
+        "nameEn": "Purple Enigma Shoes",
+        "nameZh": "紫密林之鞋"
+      },
+      {
+        "nameEn": "Dark Raven",
+        "nameZh": "黑暗弩弓"
+      },
+      {
+        "nameEn": "Green Giles Cape",
+        "nameZh": "綠龍紋披風"
+      },
+      {
+        "nameEn": "Black Oriental Fury Coat",
+        "nameZh": "黑綢緞長袍"
+      },
+      {
+        "nameEn": "Silver Kalkan",
+        "nameZh": "銀圓盾"
+      },
+      {
+        "nameEn": "Green Arlic Helmet",
+        "nameZh": "綠色昂斯頭盔"
+      },
+      {
+        "nameEn": "Rose Earrings",
+        "nameZh": "玫瑰耳環"
+      },
+      {
+        "nameEn": "Dark Commodore",
+        "nameZh": "黑色崇高服"
+      },
+      {
+        "nameEn": "Dark Commodore Pants",
+        "nameZh": "黑色強化褲"
+      },
+      {
+        "nameEn": "Red Arnah Shoes",
+        "nameZh": "紅色阿爾納鞋"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for INT 100%",
+        "nameZh": "套服智力卷軸100%"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      },
+      {
+        "nameEn": "[Storybook] Black Book",
+        "nameZh": "黑色書本"
+      }
+    ],
+    "nameEn": "Thanatos",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 108",
+    "attribute": "強雷",
+    "hp": 78000,
+    "mp": 200,
+    "exp": 4300,
+    "name": "Gatekeeper",
+    "gold": "664 ~ 996 楓幣",
+    "defense": {
+      "defensePhysical": 900,
+      "defenseMagic": 650,
+      "evasionRate": 37,
+      "accuracy": "136 (每少1級 +4.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "Gatekeeper Armband",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Unagi",
+        "nameZh": "烤鰻魚"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Scroll for Shoes for Jump 10%",
+        "nameZh": "鞋子跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEF 10%",
+        "nameZh": "褲、裙防禦卷軸10%"
+      },
+      {
+        "nameEn": "Steel Ancient Shield",
+        "nameZh": "鋼鐵古盾牌"
+      },
+      {
+        "nameEn": "Gross Jaeger",
+        "nameZh": "破天弩弓"
+      },
+      {
+        "nameEn": "Blue Scarab",
+        "nameZh": "藍閃電甲"
+      },
+      {
+        "nameEn": "Beige Linnex",
+        "nameZh": "黃飄雲之衣"
+      },
+      {
+        "nameEn": "Eclipse",
+        "nameZh": "月神刀"
+      },
+      {
+        "nameEn": "Black Mamba",
+        "nameZh": "龍之拳"
+      },
+      {
+        "nameEn": "Dark Arund",
+        "nameZh": "黑色艾倫弓"
+      },
+      {
+        "nameEn": "Red Battle Road",
+        "nameZh": "紅白銀鎧甲"
+      },
+      {
+        "nameEn": "Red Pireta Hat",
+        "nameZh": "紅色海盜帽"
+      },
+      {
+        "nameEn": "Dark Enigma Shoes",
+        "nameZh": "黑密林之鞋"
+      },
+      {
+        "nameEn": "Dark Clarity",
+        "nameZh": "魔力青手套"
+      },
+      {
+        "nameEn": "Blue Battle Empress",
+        "nameZh": "藍白銀鎧甲"
+      },
+      {
+        "nameEn": "Strawberry Earrings",
+        "nameZh": "草莓耳環"
+      },
+      {
+        "nameEn": "Blue Oriental Fury Coat",
+        "nameZh": "藍綢緞長袍"
+      },
+      {
+        "nameEn": "Bronze Kalkan",
+        "nameZh": "青銅圓盾"
+      },
+      {
+        "nameEn": "Blue Arlic Helmet",
+        "nameZh": "藍色昂斯頭盔"
+      },
+      {
+        "nameEn": "Red Osfa Suit",
+        "nameZh": "紅扣帶護甲"
+      },
+      {
+        "nameEn": "Red Osfa Pants",
+        "nameZh": "紅色勇者褲"
+      },
+      {
+        "nameEn": "Purple Valkyrie Skirt",
+        "nameZh": "粉色虎雲裙"
+      },
+      {
+        "nameEn": "Purple Valkyrie",
+        "nameZh": "紫貴族鎧甲"
+      },
+      {
+        "nameEn": "Green Katina Boots",
+        "nameZh": "綠色蒂娜長靴"
+      },
+      {
+        "nameEn": "Red Belly Duke",
+        "nameZh": "紅色公爵套裝"
+      },
+      {
+        "nameEn": "Scroll for Shield for LUK 60%",
+        "nameZh": "盾牌幸運卷軸60%"
+      },
+      {
+        "nameEn": "Shiny Bullet",
+        "nameZh": "高爆彈"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      }
+    ],
+    "nameEn": "Gatekeeper",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 23",
+    "attribute": "弱火 / 強聖",
+    "hp": 450,
+    "mp": "0",
+    "exp": 42,
+    "name": "Trixter",
+    "gold": "47 ~ 62 楓幣",
+    "defense": {
+      "defensePhysical": 52,
+      "defenseMagic": 65,
+      "evasionRate": 10,
+      "accuracy": "37 (每少1級 +1.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sticky Spiderweb",
+        "nameZh": "黏稠的蜘蛛網"
+      },
+      {
+        "nameEn": "Warrior Pill",
+        "nameZh": "攻擊藥丸"
+      },
+      {
+        "nameEn": "Adamantium Ore",
+        "nameZh": "朱礦石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Orange Potion",
+        "nameZh": "橘色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 100%",
+        "nameZh": "盾牌防禦卷軸100%"
+      },
+      {
+        "nameEn": "Korean Fan",
+        "nameZh": "太極扇"
+      },
+      {
+        "nameEn": "Aluminum Baseball Bat",
+        "nameZh": "鋁球棍"
+      },
+      {
+        "nameEn": "Eloon",
+        "nameZh": "太陽劍"
+      },
+      {
+        "nameEn": "Misthil Axe",
+        "nameZh": "鋰狂斧"
+      },
+      {
+        "nameEn": "Red Savata",
+        "nameZh": "紅命中手套"
+      },
+      {
+        "nameEn": "Red Starry Bandana",
+        "nameZh": "紅星頭巾"
+      },
+      {
+        "nameEn": "Blue Doros Robe",
+        "nameZh": "藍魔者之袍"
+      },
+      {
+        "nameEn": "Subi Throwing-Stars",
+        "nameZh": "海星鏢"
+      },
+      {
+        "nameEn": "Balanche",
+        "nameZh": "獵弩弓"
+      },
+      {
+        "nameEn": "Brown Skeedy Sandals",
+        "nameZh": "褐色防滑涼鞋"
+      },
+      {
+        "nameEn": "Brown Wooden Krag",
+        "nameZh": "褐色木鞋"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for ATT 10%",
+        "nameZh": "指虎攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Earring for LUK 100%",
+        "nameZh": "耳環幸運卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Axe for Accuracy 10%",
+        "nameZh": "雙手斧命中卷軸10%"
+      }
+    ],
+    "nameEn": "Trixter",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 28",
+    "attribute": "免疫 毒",
+    "hp": 780,
+    "mp": "0",
+    "exp": 55,
+    "name": "Green Trixter",
+    "gold": "56 ~ 78 楓幣",
+    "defense": {
+      "defensePhysical": 75,
+      "defenseMagic": 75,
+      "evasionRate": 12,
+      "accuracy": "44 (每少1級 +1.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sticky Spiderweb",
+        "nameZh": "黏稠的蜘蛛網"
+      },
+      {
+        "nameEn": "Magic Pill",
+        "nameZh": "魔力藥丸"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEF 60%",
+        "nameZh": "褲、裙防禦卷軸60%"
+      },
+      {
+        "nameEn": "Iron Dagger",
+        "nameZh": "鋼短刀"
+      },
+      {
+        "nameEn": "Purple Fairy Skirt",
+        "nameZh": "紫色妖精裙"
+      },
+      {
+        "nameEn": "Purple Fairy Top",
+        "nameZh": "紫色妖精之服"
+      },
+      {
+        "nameEn": "Wizard Staff",
+        "nameZh": "法師長杖"
+      },
+      {
+        "nameEn": "Silver Sylvia",
+        "nameZh": "銀暴風手套"
+      },
+      {
+        "nameEn": "Blue Hawkeye",
+        "nameZh": "藍雙翼之帽"
+      },
+      {
+        "nameEn": "Green Wizard Robe",
+        "nameZh": "綠牧師長袍"
+      },
+      {
+        "nameEn": "Mokbi Throwing-Stars",
+        "nameZh": "黑色利刃"
+      },
+      {
+        "nameEn": "Steel Sylvia",
+        "nameZh": "鋼鐵暴風手套"
+      },
+      {
+        "nameEn": "Brown Turk Gally",
+        "nameZh": "褐色海盜服"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 100%",
+        "nameZh": "盾牌力量卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for Accuracy 60%",
+        "nameZh": "單手斧命中卷軸60%"
+      }
+    ],
+    "nameEn": "Green Trixter",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 30",
+    "attribute": "X",
+    "hp": 950,
+    "mp": "0",
+    "exp": 60,
+    "name": "Drumming Bunny",
+    "gold": "97 ~ 139 楓幣",
+    "defense": {
+      "defensePhysical": 38,
+      "defenseMagic": 50,
+      "evasionRate": 12,
+      "accuracy": "44 (每少1級 +1.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Toy Drum",
+        "nameZh": "玩具鼓"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Pan Lid",
+        "nameZh": "鍋蓋"
+      },
+      {
+        "nameEn": "Mokbi Throwing-Stars",
+        "nameZh": "黑色利刃"
+      },
+      {
+        "nameEn": "Red Whip",
+        "nameZh": "紅色鞭子"
+      },
+      {
+        "nameEn": "Broadsword",
+        "nameZh": "鋼鐵劍"
+      },
+      {
+        "nameEn": "Black Bennis Chainmail",
+        "nameZh": "黑獵人服"
+      },
+      {
+        "nameEn": "Bennis Chainpants",
+        "nameZh": "打獵褲"
+      },
+      {
+        "nameEn": "Blue Steal",
+        "nameZh": "藍寂靜之服"
+      },
+      {
+        "nameEn": "Blue Steal Pants",
+        "nameZh": "藍寂靜裙"
+      },
+      {
+        "nameEn": "Black Dragon Robe",
+        "nameZh": "黑龍袍"
+      },
+      {
+        "nameEn": "Black Lutia",
+        "nameZh": "黑守護手套"
+      },
+      {
+        "nameEn": "Green Legolier",
+        "nameZh": "綠守護之服"
+      },
+      {
+        "nameEn": "Green Legolier Pants",
+        "nameZh": "綠守護之褲"
+      },
+      {
+        "nameEn": "Brown Matty",
+        "nameZh": "褐星魔法帽"
+      },
+      {
+        "nameEn": "Fairy Wand",
+        "nameZh": "妖精短杖"
+      },
+      {
+        "nameEn": "Cold Mind",
+        "nameZh": "冷酷之心"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 60%",
+        "nameZh": "火槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Pole arm for Accuracy 10%",
+        "nameZh": "矛命中卷軸10%"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      }
+    ],
+    "nameEn": "Drumming Bunny",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 31",
+    "attribute": "X",
+    "hp": 800,
+    "mp": "0",
+    "exp": 62,
+    "name": "Chirppy",
+    "gold": "100 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 60,
+      "defenseMagic": 50,
+      "evasionRate": 10,
+      "accuracy": "37 (每少1級 +1.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Worn-Out Goggle",
+        "nameZh": "舊的太陽鏡"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Stiff Feather",
+        "nameZh": "堅硬的羽毛"
+      },
+      {
+        "nameEn": "Tree Branch",
+        "nameZh": "樹枝"
+      },
+      {
+        "nameEn": "Purple Doroness Robe",
+        "nameZh": "紫魔者之袍"
+      },
+      {
+        "nameEn": "Forked Dagger",
+        "nameZh": "雙枝短刀"
+      },
+      {
+        "nameEn": "Red Hunter's Armor",
+        "nameZh": "紅浪人之服"
+      },
+      {
+        "nameEn": "Red Hunter's Pants",
+        "nameZh": "紅遊俠之褲"
+      },
+      {
+        "nameEn": "Green Jester",
+        "nameZh": "綠色術士帽"
+      },
+      {
+        "nameEn": "火man's Axe",
+        "nameZh": "赤斧"
+      },
+      {
+        "nameEn": "Steel Briggon",
+        "nameZh": "鐵製輕便手套"
+      },
+      {
+        "nameEn": "Red White-Lined Boots",
+        "nameZh": "紅楊柳鞋"
+      },
+      {
+        "nameEn": "Cutlus",
+        "nameZh": "彎刀"
+      },
+      {
+        "nameEn": "Green Pilfer",
+        "nameZh": "綠海盜頭巾"
+      },
+      {
+        "nameEn": "Blue Guiltian",
+        "nameZh": "藍魔道之帽"
+      },
+      {
+        "nameEn": "Brown Pierre Shoes",
+        "nameZh": "褐精靈鞋"
+      },
+      {
+        "nameEn": "Iron Knuckle",
+        "nameZh": "鋼鐵長手套"
+      },
+      {
+        "nameEn": "Prime Hands",
+        "nameZh": "精鋼拳套"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 100%",
+        "nameZh": "盾牌力量卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Axe for Accuracy 100%",
+        "nameZh": "雙手斧命中卷軸100%"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Wand Production Stimulator",
+        "nameZh": "短杖催化劑"
+      }
+    ],
+    "nameEn": "Chirppy",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 32",
+    "attribute": "X",
+    "hp": 1000,
+    "mp": "0",
+    "exp": 65,
+    "name": "Ratz",
+    "gold": "80 ~ 120 楓幣",
+    "defense": {
+      "defensePhysical": 65,
+      "defenseMagic": 75,
+      "evasionRate": 13,
+      "accuracy": "48 (每少1級 +1.73)"
+    },
+    "drops": [
+      {
+        "nameEn": "Rat Trap",
+        "nameZh": "捕鼠器"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Pole Arm for ATT 60%",
+        "nameZh": "矛攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Green Guise",
+        "nameZh": "綠假面帽"
+      },
+      {
+        "nameEn": "Brown Hawkeye",
+        "nameZh": "褐雙翼之帽"
+      },
+      {
+        "nameEn": "Red Lutia",
+        "nameZh": "紅守護手套"
+      },
+      {
+        "nameEn": "Silver Chain Boots",
+        "nameZh": "銀鏈鞋"
+      },
+      {
+        "nameEn": "Cass",
+        "nameZh": "偃月刃"
+      },
+      {
+        "nameEn": "Blue Dragon",
+        "nameZh": "青龍衣"
+      },
+      {
+        "nameEn": "White Martial Arts Shorts",
+        "nameZh": "半白武褲"
+      },
+      {
+        "nameEn": "Bronze Scaler",
+        "nameZh": "青銅名弓手套"
+      },
+      {
+        "nameEn": "Dankke",
+        "nameZh": "大斧"
+      },
+      {
+        "nameEn": "Jacker",
+        "nameZh": "古代錘"
+      },
+      {
+        "nameEn": "Brown Paulie Boots",
+        "nameZh": "褐色短皮靴"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed BW for Accuracy 100%",
+        "nameZh": "雙手棍命中卷軸100%"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      }
+    ],
+    "nameEn": "Ratz",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 34",
+    "attribute": "X",
+    "hp": 1150,
+    "mp": "0",
+    "exp": 70,
+    "name": "Black Ratz",
+    "gold": "84 ~ 126 楓幣",
+    "defense": {
+      "defensePhysical": 60,
+      "defenseMagic": 80,
+      "evasionRate": 15,
+      "accuracy": "51 (每少1級 +1.86)"
+    },
+    "drops": [
+      {
+        "nameEn": "Hard Walnut",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "Speed Pill",
+        "nameZh": "速度藥丸"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Shoes for Jump 100%",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Blue Fairy Top",
+        "nameZh": "F"
+      },
+      {
+        "nameEn": "Blue Fairy Skirt",
+        "nameZh": "F"
+      },
+      {
+        "nameEn": "Dark Brown Stealer",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "DarkBrown Stealer Pants",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "Great Blue Helmet",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Dark Pole-Feather Hat",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Brown Legolier",
+        "nameZh": "褐守護之服"
+      },
+      {
+        "nameEn": "Brown Legolier Pants",
+        "nameZh": "褐守護之褲"
+      },
+      {
+        "nameEn": "Blood Fitted Mail",
+        "nameZh": "赤紅鎧甲"
+      },
+      {
+        "nameEn": "Green Starlight",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "Red Cleave",
+        "nameZh": "紅盜賊手套"
+      },
+      {
+        "nameEn": "Hall Staff",
+        "nameZh": "護法之杖"
+      },
+      {
+        "nameEn": "Brown Jeweled",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Red Barbay",
+        "nameZh": "紅色麻布衣"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      }
+    ],
+    "nameEn": "Black Ratz",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 35",
+    "attribute": "X",
+    "hp": 1300,
+    "mp": "0",
+    "exp": 72,
+    "name": "Bloctopus",
+    "gold": "76 ~ 114 楓幣",
+    "defense": {
+      "defensePhysical": 100,
+      "defenseMagic": 130,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "Bloctopus Key Chain",
+        "nameZh": "章魚鑰匙環"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Opal Ore",
+        "nameZh": "蛋白石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Cape for LUK 10%",
+        "nameZh": "披風幸運卷軸10%"
+      },
+      {
+        "nameEn": "Silver Battle Grieves",
+        "nameZh": "銀鬥士鞋"
+      },
+      {
+        "nameEn": "Black Magicshoes",
+        "nameZh": "黑魔法鞋"
+      },
+      {
+        "nameEn": "Adamantium Guards",
+        "nameZh": "朱礦鬥拳"
+      },
+      {
+        "nameEn": "Red Matty",
+        "nameZh": "紅星魔法帽"
+      },
+      {
+        "nameEn": "Dark Legolier",
+        "nameZh": "黑守護之服"
+      },
+      {
+        "nameEn": "Dark Legolier Pants",
+        "nameZh": "黑守護之褲"
+      },
+      {
+        "nameEn": "Purple Avenger",
+        "nameZh": "紫飛影甲"
+      },
+      {
+        "nameEn": "Crescent Polearm",
+        "nameZh": "月牙戟"
+      },
+      {
+        "nameEn": "Khaki Shadow",
+        "nameZh": "樹林之影"
+      },
+      {
+        "nameEn": "Khaki Shadow Pants",
+        "nameZh": "樹林之褲"
+      },
+      {
+        "nameEn": "Silver Crow",
+        "nameZh": "白銀弩"
+      },
+      {
+        "nameEn": "Blue Brace Look",
+        "nameZh": "藍色緊身服"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      }
+    ],
+    "nameEn": "Bloctopus",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 36",
+    "attribute": "X",
+    "hp": 1350,
+    "mp": "0",
+    "exp": 77,
+    "name": "Helly",
+    "gold": "76 ~ 114 楓幣",
+    "defense": {
+      "defensePhysical": 85,
+      "defenseMagic": 105,
+      "evasionRate": 17,
+      "accuracy": "62 (每少1級 +2.26)"
+    },
+    "drops": [
+      {
+        "nameEn": "Propeller",
+        "nameZh": "飛機螺旋槳"
+      },
+      {
+        "nameEn": "Adamantium Ore",
+        "nameZh": "朱礦石母礦"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for ATT 60%",
+        "nameZh": "單手劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Korean Fan",
+        "nameZh": "太極扇"
+      },
+      {
+        "nameEn": "Kumbi Throwing-Stars",
+        "nameZh": "雪花鏢"
+      },
+      {
+        "nameEn": "Gold Chain Boots",
+        "nameZh": "金鏈鞋"
+      },
+      {
+        "nameEn": "Black Hunter Boots",
+        "nameZh": "黑打獵鞋"
+      },
+      {
+        "nameEn": "Emerald Battle Grieves",
+        "nameZh": "綠鬥士鞋"
+      },
+      {
+        "nameEn": "Brown Burgler",
+        "nameZh": "褐防風帽"
+      },
+      {
+        "nameEn": "Red Silky Boots",
+        "nameZh": "紅錦絲鞋"
+      },
+      {
+        "nameEn": "Dark Moonlight",
+        "nameZh": "黑色月光服"
+      },
+      {
+        "nameEn": "Green Distinction",
+        "nameZh": "綠羽絲絨帽"
+      },
+      {
+        "nameEn": "Yellow Jangoon Armor",
+        "nameZh": "黃金鎧甲"
+      },
+      {
+        "nameEn": "Black Jangoon Pants",
+        "nameZh": "黑金褲"
+      },
+      {
+        "nameEn": "White Piette",
+        "nameZh": "白貴族之服"
+      },
+      {
+        "nameEn": "Blue Piette Pants",
+        "nameZh": "藍貴族褲"
+      },
+      {
+        "nameEn": "Blue Calaf",
+        "nameZh": "藍妖精禮服"
+      },
+      {
+        "nameEn": "Red Sonata",
+        "nameZh": "紅黑太陽帽"
+      },
+      {
+        "nameEn": "Emerald Hildon Boots",
+        "nameZh": "祖母綠將軍靴"
+      },
+      {
+        "nameEn": "Red Maro",
+        "nameZh": "紅貴族軟帽"
+      },
+      {
+        "nameEn": "Shooting Star",
+        "nameZh": "流星"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      }
+    ],
+    "nameEn": "Helly",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 37",
+    "attribute": "X",
+    "hp": 1700,
+    "mp": "0",
+    "exp": 82,
+    "name": "Propelly",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 95,
+      "defenseMagic": 115,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.4)"
+    },
+    "drops": [
+      {
+        "nameEn": "Motor",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Mystic Shield",
+        "nameZh": "神祕護盾"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "Opal Ore",
+        "nameZh": "蛋白石母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Dagger for ATT 60%",
+        "nameZh": "短劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Mithril Wand",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "火man's Axe",
+        "nameZh": "赤斧"
+      },
+      {
+        "nameEn": "Lollipop",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Aluminum Baseball Bat",
+        "nameZh": "鋁球棍"
+      },
+      {
+        "nameEn": "Red White-Lined Boots",
+        "nameZh": "紅楊柳鞋"
+      },
+      {
+        "nameEn": "Black Salt Shoes",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Steel Arbion",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Red Jangoon Armor",
+        "nameZh": "紅鎮月鎧甲"
+      },
+      {
+        "nameEn": "Red Jangoon Skirt",
+        "nameZh": "紅鎮月裙"
+      },
+      {
+        "nameEn": "White Piettra",
+        "nameZh": "白女貴族服"
+      },
+      {
+        "nameEn": "White Piettra Skirt",
+        "nameZh": "白貴族裙"
+      },
+      {
+        "nameEn": "Red Pilfer",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Yellow Duke",
+        "nameZh": "黃鐵頭盔"
+      },
+      {
+        "nameEn": "Dark Penance",
+        "nameZh": "黑元素手套"
+      },
+      {
+        "nameEn": "Steel Slain",
+        "nameZh": "鋼鐵手甲"
+      },
+      {
+        "nameEn": "Rower",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Lion's Fang",
+        "nameZh": "虎劍"
+      },
+      {
+        "nameEn": "Dark Matty",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Silver Maiden",
+        "nameZh": "利刃拳套"
+      },
+      {
+        "nameEn": "Scroll for Spear for Accuracy 60%",
+        "nameZh": "槍命中卷軸60%"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Pole Arm Production Stimulator",
+        "nameZh": "矛催化劑"
+      },
+      {
+        "nameEn": "Wand Production Stimulator",
+        "nameZh": "短杖催化劑"
+      }
+    ],
+    "nameEn": "Propelly",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 38",
+    "attribute": "X",
+    "hp": 1830,
+    "mp": "0",
+    "exp": 85,
+    "name": "Planey",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 105,
+      "defenseMagic": 125,
+      "evasionRate": 19,
+      "accuracy": "70 (每少1級 +2.53)"
+    },
+    "drops": [
+      {
+        "nameEn": "Plane Controller",
+        "nameZh": "飛機操縱桿"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Earring for INT 10%",
+        "nameZh": "耳環智力卷軸10%"
+      },
+      {
+        "nameEn": "Petal Staff",
+        "nameZh": "翡赤之杖"
+      },
+      {
+        "nameEn": "Silver Guardian",
+        "nameZh": "銀守護拳套"
+      },
+      {
+        "nameEn": "Nakamaki",
+        "nameZh": "刺槍"
+      },
+      {
+        "nameEn": "Heckler",
+        "nameZh": "雙弦弩"
+      },
+      {
+        "nameEn": "Green Pilfer",
+        "nameZh": "綠海盜頭巾"
+      },
+      {
+        "nameEn": "Blue Distinction",
+        "nameZh": "藍羽絲絨帽"
+      },
+      {
+        "nameEn": "Blue Jangoon Armor",
+        "nameZh": "青金鎧甲"
+      },
+      {
+        "nameEn": "Brown Jangoon Pants",
+        "nameZh": "黃金褲"
+      },
+      {
+        "nameEn": "Dark Shadow",
+        "nameZh": "深夜之影"
+      },
+      {
+        "nameEn": "Dark Shadow Pants",
+        "nameZh": "黑暗之褲"
+      },
+      {
+        "nameEn": "Brown Jangoon Shoes",
+        "nameZh": "黃金月長靴"
+      },
+      {
+        "nameEn": "Pansy Earrings",
+        "nameZh": "紫荊花耳環"
+      },
+      {
+        "nameEn": "Blue Pennance",
+        "nameZh": "藍元素手套"
+      },
+      {
+        "nameEn": "Red Willow",
+        "nameZh": "紅意志手套"
+      },
+      {
+        "nameEn": "Green Goni Shoes",
+        "nameZh": "綠雷電鞋"
+      },
+      {
+        "nameEn": "Mithril Brist",
+        "nameZh": "鋰礦合金手套"
+      },
+      {
+        "nameEn": "Blue Brace Look",
+        "nameZh": "藍色緊身服"
+      },
+      {
+        "nameEn": "Scroll for Earring for DEX 100%",
+        "nameZh": "耳環敏捷卷軸100%"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Planey",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 38",
+    "attribute": "X",
+    "hp": 1850,
+    "mp": 110,
+    "exp": 85,
+    "name": "King Bloctopus",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 120,
+      "defenseMagic": 140,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.4)"
+    },
+    "drops": [
+      {
+        "nameEn": "Plastic Crown",
+        "nameZh": "塑膠王冠"
+      },
+      {
+        "nameEn": "Magic Pill",
+        "nameZh": "魔力藥丸"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Earring for INT 10%",
+        "nameZh": "耳環智力卷軸10%"
+      },
+      {
+        "nameEn": "Yellow Briggon",
+        "nameZh": "黃輕便手套"
+      },
+      {
+        "nameEn": "Green White-Lined Boots",
+        "nameZh": "綠楊柳鞋"
+      },
+      {
+        "nameEn": "Bronze Guardian",
+        "nameZh": "青銅守護拳套"
+      },
+      {
+        "nameEn": "Red Viper",
+        "nameZh": "火焰之弓"
+      },
+      {
+        "nameEn": "Axe Pole Arm",
+        "nameZh": "斧戟"
+      },
+      {
+        "nameEn": "Blue Duke",
+        "nameZh": "藍鐵頭盔"
+      },
+      {
+        "nameEn": "Dark Guiltian",
+        "nameZh": "黑魔道之帽"
+      },
+      {
+        "nameEn": "Marine Shadow",
+        "nameZh": "滄海之影"
+      },
+      {
+        "nameEn": "Marine Shadow Pants",
+        "nameZh": "滄海之褲"
+      },
+      {
+        "nameEn": "Blue Moon",
+        "nameZh": "青月"
+      },
+      {
+        "nameEn": "Brown Piettra Skirt",
+        "nameZh": "褐貴族裙"
+      },
+      {
+        "nameEn": "Brown Piettra Skirt",
+        "nameZh": "褐貴族裙"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Axe for Accuracy 60%",
+        "nameZh": "雙手斧命中卷軸60%"
+      },
+      {
+        "nameEn": "Blue Calas",
+        "nameZh": "藍魔法戰士衣"
+      },
+      {
+        "nameEn": "Blue Den Marine",
+        "nameZh": "海藍水手頭巾"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "King Bloctopus",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 39",
+    "attribute": "X",
+    "hp": 1900,
+    "mp": "0",
+    "exp": 85,
+    "name": "Tweeter",
+    "gold": "96 ~ 144 楓幣",
+    "defense": {
+      "defensePhysical": 120,
+      "defenseMagic": 130,
+      "evasionRate": 17,
+      "accuracy": "62 (每少1級 +2.26)"
+    },
+    "drops": [
+      {
+        "nameEn": "Small Egg",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Sniper Pill",
+        "nameZh": "命中藥丸"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 10%",
+        "nameZh": "盾牌防禦卷軸10%"
+      },
+      {
+        "nameEn": "Lollipop",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Soft Feather",
+        "nameZh": "柔軟的羽毛"
+      },
+      {
+        "nameEn": "Tree Branch",
+        "nameZh": "樹枝"
+      },
+      {
+        "nameEn": "Lionheart",
+        "nameZh": "高原之劍"
+      },
+      {
+        "nameEn": "Sledgehammer",
+        "nameZh": "大錘"
+      },
+      {
+        "nameEn": "Fairy Wand",
+        "nameZh": "妖精短杖"
+      },
+      {
+        "nameEn": "Black Red-Lined Shoes",
+        "nameZh": "紅流星鞋"
+      },
+      {
+        "nameEn": "Brown Pierre Shoes",
+        "nameZh": "褐精靈鞋"
+      },
+      {
+        "nameEn": "Blue Moon Shoes",
+        "nameZh": "藍月鞋"
+      },
+      {
+        "nameEn": "Steel Tower Shield",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Dark Brace",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Brown Jangoon Armor",
+        "nameZh": "黃鎮月鎧甲"
+      },
+      {
+        "nameEn": "Brown Jangoon Skirt",
+        "nameZh": "黃鎮月裙"
+      },
+      {
+        "nameEn": "Red Calaf",
+        "nameZh": "紅妖精禮服"
+      },
+      {
+        "nameEn": "Blue Moon Gloves",
+        "nameZh": "藍月手套"
+      },
+      {
+        "nameEn": "Mithril Brist",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Dark Willow",
+        "nameZh": "黑意志手套"
+      },
+      {
+        "nameEn": "Silver Maiden",
+        "nameZh": "利刃拳套"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 100%",
+        "nameZh": "單手棍命中卷軸100%"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      }
+    ],
+    "nameEn": "Tweeter",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 40",
+    "attribute": "X",
+    "hp": 1930,
+    "mp": 130,
+    "exp": 95,
+    "name": "Barnard Gray",
+    "gold": "108 ~ 162 楓幣",
+    "defense": {
+      "defensePhysical": 140,
+      "defenseMagic": 160,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.4)"
+    },
+    "drops": [
+      {
+        "nameEn": "Space Food",
+        "nameZh": "宇宙糧食"
+      },
+      {
+        "nameEn": "Dexterity Pill",
+        "nameZh": "敏捷藥丸"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Dexterity Pill aScroll for Cape for 物理防禦力 10%",
+        "nameZh": "披風防禦卷軸10%"
+      },
+      {
+        "nameEn": "Yellow Umbrella",
+        "nameZh": "黃色雨傘"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Wizard Wand",
+        "nameZh": "法師短杖"
+      },
+      {
+        "nameEn": "Heavy Hammer",
+        "nameZh": "鐵釘錘"
+      },
+      {
+        "nameEn": "Lionheart",
+        "nameZh": "高原之劍"
+      },
+      {
+        "nameEn": "Battle Shield",
+        "nameZh": "戰鬥盾牌"
+      },
+      {
+        "nameEn": "Black Yellow-Lined Shoes",
+        "nameZh": "黃流星鞋"
+      },
+      {
+        "nameEn": "Brown Pierre Shoes",
+        "nameZh": "褐精靈鞋"
+      },
+      {
+        "nameEn": "Red Arten",
+        "nameZh": "紅精靈手套"
+      },
+      {
+        "nameEn": "Dark Shadow",
+        "nameZh": "深夜之影"
+      },
+      {
+        "nameEn": "Dark Shadow Pants",
+        "nameZh": "黑暗之褲"
+      },
+      {
+        "nameEn": "Orange Calas",
+        "nameZh": "朱紅魔法戰士衣"
+      },
+      {
+        "nameEn": "Blue Maro",
+        "nameZh": "藍貴族軟帽"
+      },
+      {
+        "nameEn": "Silver Crusader Helm",
+        "nameZh": "銀製十字軍帽子"
+      },
+      {
+        "nameEn": "Brown Barbee",
+        "nameZh": "褐色瑞恩手腕"
+      },
+      {
+        "nameEn": "Two-Handed BW Production Stimulator",
+        "nameZh": "雙手棍催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      }
+    ],
+    "nameEn": "Barnard Gray",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 41",
+    "attribute": "X",
+    "hp": 2080,
+    "mp": 150,
+    "exp": 99,
+    "name": "Mateon",
+    "gold": "116 ~ 174 楓幣",
+    "defense": {
+      "defensePhysical": 120,
+      "defenseMagic": 120,
+      "evasionRate": 16,
+      "accuracy": "59 (每少1級 +2.13)"
+    },
+    "drops": [
+      {
+        "nameEn": "Mateon's Tentacle",
+        "nameZh": "馬堤安的觸角"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Warrior Pill",
+        "nameZh": "攻擊藥丸"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "AquaMarine Ore",
+        "nameZh": "海藍石母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Scroll for Gloves for ATT 60%",
+        "nameZh": "手套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Green Burgler",
+        "nameZh": "綠防風帽"
+      },
+      {
+        "nameEn": "Silver Fitted Mail",
+        "nameZh": "銀制鎧甲"
+      },
+      {
+        "nameEn": "Bronze Scaler",
+        "nameZh": "青銅名弓手套"
+      },
+      {
+        "nameEn": "Steel Trigger",
+        "nameZh": "鐵頭皮鞋"
+      },
+      {
+        "nameEn": "Brown Starlight",
+        "nameZh": "褐星光長袍"
+      },
+      {
+        "nameEn": "Red Shadow",
+        "nameZh": "火焰之影"
+      },
+      {
+        "nameEn": "Red Shadow Pants",
+        "nameZh": "滄海之褲"
+      },
+      {
+        "nameEn": "Red Jangoon Skirt",
+        "nameZh": "紅鎮月裙"
+      },
+      {
+        "nameEn": "Red Jangoon Armor",
+        "nameZh": "紅鎮月鎧甲"
+      },
+      {
+        "nameEn": "Dark Penance",
+        "nameZh": "黑元素手套"
+      },
+      {
+        "nameEn": "Blue Steel-Tip Boots",
+        "nameZh": "藍弓手鞋"
+      },
+      {
+        "nameEn": "Red Moon Gloves",
+        "nameZh": "赤月手套"
+      },
+      {
+        "nameEn": "Brown Barbee",
+        "nameZh": "褐色瑞恩手腕"
+      },
+      {
+        "nameEn": "Split Bullet",
+        "nameZh": "子彈"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Axe for Accuracy 100%",
+        "nameZh": "雙手斧命中卷軸100%"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      }
+    ],
+    "nameEn": "Mateon",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 42",
+    "attribute": "弱火 /強冰, 雷",
+    "hp": 2400,
+    "mp": "0",
+    "exp": 102,
+    "name": "Block Golem",
+    "gold": "123 ~ 190 楓幣",
+    "defense": {
+      "defensePhysical": 110,
+      "defenseMagic": 90,
+      "evasionRate": 12,
+      "accuracy": "44 (每少1級 +1.6)"
+    },
+    "drops": [
+      {
+        "nameEn": "Yellow Toy Block",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 60%",
+        "nameZh": "盾牌防禦卷軸60%"
+      },
+      {
+        "nameEn": "Pansy Earrings",
+        "nameZh": "紫荊花耳環"
+      },
+      {
+        "nameEn": "Scimitar",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Dark Burgler",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Gold Scaler",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Red Moonlight",
+        "nameZh": "紅色月光服"
+      },
+      {
+        "nameEn": "Dark Guiltian",
+        "nameZh": "黑魔道之帽"
+      },
+      {
+        "nameEn": "Blue Distinction",
+        "nameZh": "藍羽絲絨帽"
+      },
+      {
+        "nameEn": "",
+        "nameZh": "Dark Avar冰"
+      },
+      {
+        "nameEn": "Dark Moon Shoes",
+        "nameZh": "黑月鞋"
+      },
+      {
+        "nameEn": "Blue Shouldermail",
+        "nameZh": "藍板金鎧甲"
+      },
+      {
+        "nameEn": "Blue Shouldermail Pants",
+        "nameZh": "藍板金褲"
+      },
+      {
+        "nameEn": "Rower",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Skull Shield",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Neozard",
+        "nameZh": "尼奧札德毀滅拳套"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 60%",
+        "nameZh": "單手棍命中卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Pole arm for Accuracy 10%",
+        "nameZh": "矛命中卷軸10%"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Dagger Production Stimulator",
+        "nameZh": "短劍的催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      }
+    ],
+    "nameEn": "Block Golem",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 42",
+    "attribute": "X",
+    "hp": 2300,
+    "mp": 150,
+    "exp": 102,
+    "name": "Zeta Gray",
+    "gold": "128 ~ 192 楓幣",
+    "defense": {
+      "defensePhysical": 160,
+      "defenseMagic": 180,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Small Spaceship",
+        "nameZh": "小型宇宙船"
+      },
+      {
+        "nameEn": "Adamantium Ore",
+        "nameZh": "朱礦石母礦"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Magic Pill",
+        "nameZh": "魔力藥丸"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Shoes for Speed 60%",
+        "nameZh": "鞋子速度卷軸60%"
+      },
+      {
+        "nameEn": "Jurgen Wristguard",
+        "nameZh": "敏捷盾牌"
+      },
+      {
+        "nameEn": "Mokbi Throwing-Stars",
+        "nameZh": "黑色利刃"
+      },
+      {
+        "nameEn": "Orihalcon Arbion",
+        "nameZh": "紫礦追擊手套"
+      },
+      {
+        "nameEn": "Steel Briggon",
+        "nameZh": "鐵製輕便手套"
+      },
+      {
+        "nameEn": "Brown Jangoon Armor",
+        "nameZh": "黃鎮月鎧甲"
+      },
+      {
+        "nameEn": "Brown Jangoon Skirt",
+        "nameZh": "黃鎮月裙"
+      },
+      {
+        "nameEn": "Dark Piette Pants",
+        "nameZh": "黑貴族褲"
+      },
+      {
+        "nameEn": "Dark Piette",
+        "nameZh": "黑貴族之服"
+      },
+      {
+        "nameEn": "Dark Calas",
+        "nameZh": "黑魔法戰士衣"
+      },
+      {
+        "nameEn": "Blue Sonata",
+        "nameZh": "藍黑太陽帽"
+      },
+      {
+        "nameEn": "Red Maro",
+        "nameZh": "紅貴族軟帽"
+      },
+      {
+        "nameEn": "Orange Golden Circlet",
+        "nameZh": "土黃金法冠"
+      },
+      {
+        "nameEn": "Buck",
+        "nameZh": "樹靈之斧"
+      },
+      {
+        "nameEn": "Shinkita",
+        "nameZh": "破碎刃"
+      },
+      {
+        "nameEn": "Lunar Shooter",
+        "nameZh": "銀月神射"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      },
+      {
+        "nameEn": "Wand Production Stimulator",
+        "nameZh": "短杖催化劑"
+      }
+    ],
+    "nameEn": "Zeta Gray",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 44",
+    "attribute": "X",
+    "hp": 2480,
+    "mp": "0",
+    "exp": 105,
+    "name": "Plateon",
+    "gold": "140 ~ 210 楓幣",
+    "defense": {
+      "defensePhysical": 140,
+      "defenseMagic": 190,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.4)"
+    },
+    "drops": [
+      {
+        "nameEn": "Plateon's Helmet",
+        "nameZh": "培利堤安的頭盔"
+      },
+      {
+        "nameEn": "Emerald Ore",
+        "nameZh": "祖母綠母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Scroll for Gloves for ATT 60%",
+        "nameZh": "手套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Red Matty",
+        "nameZh": "紅星魔法帽"
+      },
+      {
+        "nameEn": "Brown Pole-Feather Hat",
+        "nameZh": "褐羽翼三角帽"
+      },
+      {
+        "nameEn": "Black Jangoon Armor",
+        "nameZh": "黑鎮月鎧甲"
+      },
+      {
+        "nameEn": "Black Jangoon Skirt",
+        "nameZh": "黑鎮月裙"
+      },
+      {
+        "nameEn": "White Piettra Skirt",
+        "nameZh": "白貴族裙"
+      },
+      {
+        "nameEn": "White Piettra",
+        "nameZh": "白女貴族服"
+      },
+      {
+        "nameEn": "Dark Shadow",
+        "nameZh": "深夜之影"
+      },
+      {
+        "nameEn": "Dark Shadow Pants",
+        "nameZh": "黑暗之褲"
+      },
+      {
+        "nameEn": "Dark Calaf",
+        "nameZh": "黑妖精禮服"
+      },
+      {
+        "nameEn": "Red Lumati",
+        "nameZh": "紅貴族禮服"
+      },
+      {
+        "nameEn": "Blue Willow",
+        "nameZh": "藍意志手套"
+      },
+      {
+        "nameEn": "Purple Goni Shoes",
+        "nameZh": "紫雷電鞋"
+      },
+      {
+        "nameEn": "Serpent's Tongue",
+        "nameZh": "丈八蛇矛"
+      },
+      {
+        "nameEn": "Olympus",
+        "nameZh": "天弓"
+      },
+      {
+        "nameEn": "Fury Claw",
+        "nameZh": "惡魔之爪"
+      },
+      {
+        "nameEn": "Scroll for Earring for HP 100%",
+        "nameZh": "耳環生命卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Overall for STR 100%",
+        "nameZh": "套服力量卷軸100%"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "Shoes Production Stimulator",
+        "nameZh": "鞋子催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      }
+    ],
+    "nameEn": "Plateon",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 45",
+    "attribute": "X",
+    "hp": 2600,
+    "mp": "0",
+    "exp": 110,
+    "name": "King Block Golem",
+    "gold": "164 ~ 246 楓幣",
+    "defense": {
+      "defensePhysical": 130,
+      "defenseMagic": 110,
+      "evasionRate": 14,
+      "accuracy": "51 (每少1級 +1.86)"
+    },
+    "drops": [
+      {
+        "nameEn": "Blue Toy Block",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for DEF 60%",
+        "nameZh": "套服防禦卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Two-handed Sword for ATT 10%",
+        "nameZh": "雙手劍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Spear for ATT 60%",
+        "nameZh": "槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Red Whip",
+        "nameZh": "紅色鞭子"
+      },
+      {
+        "nameEn": "Great Brown Helmet",
+        "nameZh": "褐色戰鬥頭盔"
+      },
+      {
+        "nameEn": "Green Legolia",
+        "nameZh": "F"
+      },
+      {
+        "nameEn": "Green Legolia Pants",
+        "nameZh": "F"
+      },
+      {
+        "nameEn": "Brown Matty",
+        "nameZh": "褐星魔法帽"
+      },
+      {
+        "nameEn": "Dark Distinction",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Red Pilfer",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Khaki Shadow",
+        "nameZh": "樹林之影"
+      },
+      {
+        "nameEn": "Khaki Shadow Pants",
+        "nameZh": "樹林之褲"
+      },
+      {
+        "nameEn": "Red Jangoon Skirt",
+        "nameZh": "紅鎮月裙"
+      },
+      {
+        "nameEn": "Red Jangoon Armor",
+        "nameZh": "紅鎮月鎧甲"
+      },
+      {
+        "nameEn": "Oaker Shouldermail",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "Oaker Shouldermail Pants",
+        "nameZh": "褐板金褲"
+      },
+      {
+        "nameEn": "",
+        "nameZh": "래드 Pennance"
+      },
+      {
+        "nameEn": "Dark Willow",
+        "nameZh": "黑意志手套"
+      },
+      {
+        "nameEn": "Gold Hildon Boots",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Brown Barbee",
+        "nameZh": "褐色瑞恩手腕"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 10%",
+        "nameZh": "火槍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for Jump 60%",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEX 10%",
+        "nameZh": "褲裙敏捷卷軸 10%"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 60%",
+        "nameZh": "盾牌力量卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Sword for Accuracy 10%",
+        "nameZh": "雙手劍命中卷軸10%"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "Bow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      }
+    ],
+    "nameEn": "King Block Golem",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 45",
+    "attribute": "強雷",
+    "hp": 2550,
+    "mp": 170,
+    "exp": 110,
+    "name": "Ultra Gray",
+    "gold": "164 ~ 246 楓幣",
+    "defense": {
+      "defensePhysical": 180,
+      "defenseMagic": 200,
+      "evasionRate": 21,
+      "accuracy": "77 (每少1級 +2.8)"
+    },
+    "drops": [
+      {
+        "nameEn": "Receiving Apparatus",
+        "nameZh": "接收機"
+      },
+      {
+        "nameEn": "Magic Pill",
+        "nameZh": "魔力藥丸"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Scroll for Gloves for DEX 10%",
+        "nameZh": "手套敏捷卷軸10%"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Tobi Throwing-Stars",
+        "nameZh": "梅之鏢"
+      },
+      {
+        "nameEn": "Dark Legolia",
+        "nameZh": "黑守護之服"
+      },
+      {
+        "nameEn": "Dark Legolia Pants",
+        "nameZh": "黑守護褲"
+      },
+      {
+        "nameEn": "Blue Starlight",
+        "nameZh": "藍星光長袍"
+      },
+      {
+        "nameEn": "White Guiltian",
+        "nameZh": "白魔道之帽"
+      },
+      {
+        "nameEn": "Red Shadow Pants",
+        "nameZh": "滄海之褲"
+      },
+      {
+        "nameEn": "Red Shadow",
+        "nameZh": "火焰之影"
+      },
+      {
+        "nameEn": "Adamantium Knuckle",
+        "nameZh": "朱礦長手套"
+      },
+      {
+        "nameEn": "Yellow Jangoon Armor",
+        "nameZh": "黃金鎧甲"
+      },
+      {
+        "nameEn": "Brown Jangoon Pants",
+        "nameZh": "黃金褲"
+      },
+      {
+        "nameEn": "Emerald Dome",
+        "nameZh": "祖母綠武士頭盔"
+      },
+      {
+        "nameEn": "Skull Earrings",
+        "nameZh": "骷髏耳環"
+      },
+      {
+        "nameEn": "Green Goldwind Shoes",
+        "nameZh": "綠黃金風"
+      },
+      {
+        "nameEn": "Golden Mole",
+        "nameZh": "黃金錘"
+      },
+      {
+        "nameEn": "Dark Slain",
+        "nameZh": "黑手甲"
+      },
+      {
+        "nameEn": "Brown Leather Krag",
+        "nameZh": "褐色尖頭皮鞋"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 10%",
+        "nameZh": "頭盔敏捷卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Shield for STR 60%",
+        "nameZh": "盾牌力量卷軸60%"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      },
+      {
+        "nameEn": "Shield Production Stimulator",
+        "nameZh": "盾牌催化劑"
+      }
+    ],
+    "nameEn": "Ultra Gray",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 46",
+    "attribute": "X",
+    "hp": 2600,
+    "mp": 170,
+    "exp": 110,
+    "name": "Mecateon",
+    "gold": "164 ~ 256 楓幣",
+    "defense": {
+      "defensePhysical": 160,
+      "defenseMagic": 210,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Mecateon's Laser Gun",
+        "nameZh": "梅卡堤安的光線槍"
+      },
+      {
+        "nameEn": "Opal Ore",
+        "nameZh": "蛋白石母礦"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 10%",
+        "nameZh": "長杖魔力卷軸10%"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Black Amoria Top",
+        "nameZh": "黑神聖法衣"
+      },
+      {
+        "nameEn": "Black Amoria Skirt",
+        "nameZh": "黑神聖裙"
+      },
+      {
+        "nameEn": "Blood Fitted Mail",
+        "nameZh": "赤紅鎧甲"
+      },
+      {
+        "nameEn": "Orihalcon Arbion",
+        "nameZh": "紫礦追擊手套"
+      },
+      {
+        "nameEn": "Red Moonlight",
+        "nameZh": "紅色月光服"
+      },
+      {
+        "nameEn": "White Guiltian",
+        "nameZh": "白魔道之帽"
+      },
+      {
+        "nameEn": "Brown Pilfer",
+        "nameZh": "褐海盜頭巾"
+      },
+      {
+        "nameEn": "Gold Brace",
+        "nameZh": "黃金勇氣手套"
+      },
+      {
+        "nameEn": "Cromi",
+        "nameZh": "大魔法師短杖"
+      },
+      {
+        "nameEn": "Umber Shouldermail",
+        "nameZh": "黑板金鎧甲"
+      },
+      {
+        "nameEn": "Umber Shouldermail Pants",
+        "nameZh": "黑板金褲"
+      },
+      {
+        "nameEn": "Maroon Moon Pants",
+        "nameZh": "紫月褲"
+      },
+      {
+        "nameEn": "Maroon Moon",
+        "nameZh": "紫月"
+      },
+      {
+        "nameEn": "The Rising",
+        "nameZh": "太陽之斧"
+      },
+      {
+        "nameEn": "Brown Royce",
+        "nameZh": "褐色羅伊斯手套"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 60%",
+        "nameZh": "火槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Gloves Production Stimulator",
+        "nameZh": "手套催化劑"
+      }
+    ],
+    "nameEn": "Mecateon",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 47",
+    "attribute": "X",
+    "hp": 11000,
+    "mp": 220,
+    "exp": 720,
+    "name": "Rombot",
+    "gold": "630 ~ 915 楓幣",
+    "defense": {
+      "defensePhysical": 165,
+      "defenseMagic": 180,
+      "evasionRate": 16,
+      "accuracy": "59 (每少1級 +2.13)"
+    },
+    "drops": [
+      {
+        "nameEn": "Rombot's Memory Card",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Bronze Ore",
+        "nameZh": "青銅母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 10%",
+        "nameZh": "盾牌防禦卷軸10%"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Black Knucklevest Pants",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "Black Knucklevest",
+        "nameZh": "M"
+      },
+      {
+        "nameEn": "Crescent Polearm",
+        "nameZh": "月牙戟"
+      },
+      {
+        "nameEn": "Aqua Brace",
+        "nameZh": "藍勇氣手套"
+      },
+      {
+        "nameEn": "Silver Crow",
+        "nameZh": "白銀弩"
+      },
+      {
+        "nameEn": "Blue Calaf",
+        "nameZh": "藍妖精禮服"
+      },
+      {
+        "nameEn": "Cromi",
+        "nameZh": "大魔法師短杖"
+      },
+      {
+        "nameEn": "Blood Slain",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Green Goni Shoes",
+        "nameZh": "綠雷電鞋"
+      },
+      {
+        "nameEn": "Serpent's Tongue",
+        "nameZh": "丈八蛇矛"
+      },
+      {
+        "nameEn": "Pink Goldwind Shoes",
+        "nameZh": ""
+      },
+      {
+        "nameEn": "Red Willow",
+        "nameZh": "紅意志手套"
+      },
+      {
+        "nameEn": "Buck",
+        "nameZh": "樹靈之斧"
+      },
+      {
+        "nameEn": "Mr. Rasfelt",
+        "nameZh": "拉斯菲特之槍"
+      },
+      {
+        "nameEn": "Scroll for One-Handed BW for Accuracy 100%",
+        "nameZh": "單手棍命中卷軸100%"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      }
+    ],
+    "nameEn": "Rombot",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 49",
+    "attribute": "強火, 冰, 雷, 聖",
+    "hp": 9000,
+    "mp": 220,
+    "exp": 580,
+    "name": "Chief Gray",
+    "gold": "622 ~ 907 楓幣",
+    "defense": {
+      "defensePhysical": 140,
+      "defenseMagic": 250,
+      "evasionRate": 25,
+      "accuracy": "92 (每少1級 +3.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Chief Gray's Sign",
+        "nameZh": "葛雷元老的標誌"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Sniper Pill",
+        "nameZh": "命中藥丸"
+      },
+      {
+        "nameEn": "Red Magic Cape",
+        "nameZh": "紅色魔法披風"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 60%",
+        "nameZh": "長杖魔力卷軸60%"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Star Rock",
+        "nameZh": "星石"
+      },
+      {
+        "nameEn": "Jacker",
+        "nameZh": "古代錘"
+      },
+      {
+        "nameEn": "Purple Shadow",
+        "nameZh": "花精之影"
+      },
+      {
+        "nameEn": "Purple Shadow Pants",
+        "nameZh": "樹林之褲"
+      },
+      {
+        "nameEn": "Dark Piettra",
+        "nameZh": "黑女貴族服"
+      },
+      {
+        "nameEn": "Dark Piettra Skirt",
+        "nameZh": "黑貴族裙"
+      },
+      {
+        "nameEn": "Shinkita",
+        "nameZh": "破碎刃"
+      },
+      {
+        "nameEn": "Brown Steel-Tip Boots",
+        "nameZh": "褐弓手鞋"
+      },
+      {
+        "nameEn": "Red Goni Shoes",
+        "nameZh": "紅雷電鞋"
+      },
+      {
+        "nameEn": "Mithril Hildon Boots",
+        "nameZh": "鋰礦藍將軍靴"
+      },
+      {
+        "nameEn": "Dark Penance",
+        "nameZh": "黑元素手套"
+      },
+      {
+        "nameEn": "Purple Steel-Tip Boots",
+        "nameZh": "紫弓手鞋"
+      },
+      {
+        "nameEn": "Aqua Golden Circlet",
+        "nameZh": "水黃金法冠"
+      },
+      {
+        "nameEn": "Old Mithril Nordic Helm",
+        "nameZh": "舊鋰礦諾曼頭盔"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 60%",
+        "nameZh": "頭盔敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for Jump 10%",
+        "nameZh": "褲裙跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Axe for Accuracy 10%",
+        "nameZh": "雙手斧命中卷軸10%"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Chief Gray",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 54",
+    "attribute": "X",
+    "hp": 13500,
+    "mp": 170,
+    "exp": 980,
+    "name": "MT-09",
+    "gold": "324 ~ 486 楓幣",
+    "defense": {
+      "defensePhysical": 280,
+      "defenseMagic": 280,
+      "evasionRate": 20,
+      "accuracy": "74 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "MT-09's Fuel",
+        "nameZh": "機器人堤安的燃料"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Speed Pill",
+        "nameZh": "速度藥丸"
+      },
+      {
+        "nameEn": "Pink-Flowered Earrings",
+        "nameZh": "梅花耳環"
+      },
+      {
+        "nameEn": "Power Crystal Ore",
+        "nameZh": "力量母礦"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Moon Rock",
+        "nameZh": "月石"
+      },
+      {
+        "nameEn": "Scroll for Crossbow for ATT 10%",
+        "nameZh": "弩攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Brown Piettra Skirt",
+        "nameZh": "褐貴族裙"
+      },
+      {
+        "nameEn": "Mithril Brist",
+        "nameZh": "鋰礦合金手套"
+      },
+      {
+        "nameEn": "Dark Guiltian",
+        "nameZh": "黑魔道之帽"
+      },
+      {
+        "nameEn": "Brown Piettra Skirt",
+        "nameZh": "褐貴族裙"
+      },
+      {
+        "nameEn": "Red Moon Gloves",
+        "nameZh": "赤月手套"
+      },
+      {
+        "nameEn": "Purple Goldwind Shoes",
+        "nameZh": "紫黃金風"
+      },
+      {
+        "nameEn": "Brown China",
+        "nameZh": "黃陽"
+      },
+      {
+        "nameEn": "Brown China Pants",
+        "nameZh": "黃陽褲"
+      },
+      {
+        "nameEn": "Blue Maro",
+        "nameZh": "藍貴族軟帽"
+      },
+      {
+        "nameEn": "Sparta",
+        "nameZh": "無極劍"
+      },
+      {
+        "nameEn": "Silver Legend Shield",
+        "nameZh": "古老銀盾"
+      },
+      {
+        "nameEn": "The Shining",
+        "nameZh": "光明斧"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for Accuracy 60%",
+        "nameZh": "單手劍命中卷軸60%"
+      },
+      {
+        "nameEn": "One-Handed BW Production Stimulator",
+        "nameZh": "單手棍催化劑"
+      },
+      {
+        "nameEn": "Crossbow Production Stimulator",
+        "nameZh": "弩催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      }
+    ],
+    "nameEn": "MT-09",
+    "nameZh": ""
+  },
+  {
+    "level": "LV. 22",
+    "attribute": "弱火",
+    "hp": 550,
+    "mp": 40,
+    "exp": 38,
+    "name": "Dark Axe Stump",
+    "gold": "40 ~ 60 楓幣",
+    "defense": {
+      "defensePhysical": "0",
+      "defenseMagic": "0",
+      "evasionRate": "0",
+      "accuracy": "26 (每少1級 +0.93)"
+    },
+    "drops": [
+      {
+        "nameEn": "火wood",
+        "nameZh": "木柴"
+      },
+      {
+        "nameEn": "Orange Potion",
+        "nameZh": "橘色藥水"
+      },
+      {
+        "nameEn": "Sap of Ancient Tree",
+        "nameZh": "枯木樹液"
+      },
+      {
+        "nameEn": "Scroll for Two-handed BW for ATT 10%",
+        "nameZh": "雙手棍攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Brown Doroness Robe",
+        "nameZh": "褐魔者之袍"
+      },
+      {
+        "nameEn": "Green Able Armor Skirt",
+        "nameZh": "綠旅行皮裙"
+      },
+      {
+        "nameEn": "Purple Shivermail",
+        "nameZh": "紫硬皮裝"
+      },
+      {
+        "nameEn": "Purple Shivermail Skirt",
+        "nameZh": "紫硬皮裙"
+      },
+      {
+        "nameEn": "Arrow for Bow",
+        "nameZh": "箭矢"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Diamond Ore",
+        "nameZh": "鑽石母礦"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Adamantium Igor",
+        "nameZh": "朱礦指虎"
+      },
+      {
+        "nameEn": "Red Lappy Boots",
+        "nameZh": "紅追擊鞋"
+      },
+      {
+        "nameEn": "Yellow Starry Bandana",
+        "nameZh": "黃星頭巾"
+      },
+      {
+        "nameEn": "Mithril Guards",
+        "nameZh": "鋰礦鬥拳"
+      },
+      {
+        "nameEn": "Silver Guardian",
+        "nameZh": "銀守護拳套"
+      },
+      {
+        "nameEn": "Arrow for Crossbow",
+        "nameZh": "弩箭"
+      },
+      {
+        "nameEn": "Purple Doroness Robe",
+        "nameZh": "紫魔者之袍"
+      },
+      {
+        "nameEn": "Black Lappy Boots",
+        "nameZh": "黑追擊鞋"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Wooden Top",
+        "nameZh": "木製陀螺"
+      },
+      {
+        "nameEn": "Axe",
+        "nameZh": "遺失的斧頭"
+      },
+      {
+        "nameEn": "Brown Double Marine",
+        "nameZh": "褐色水手頭巾"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Sword for Accuracy 60%",
+        "nameZh": "雙手劍命中卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Two-handed BW for ATT 100%",
+        "nameZh": "雙手棍攻擊卷軸100%"
+      }
+    ],
+    "nameEn": "Dark Axe Stump",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 36",
+    "attribute": "X",
+    "hp": 1400,
+    "mp": "0",
+    "exp": 78,
+    "name": "Retz",
+    "gold": "76 ~ 114 楓幣",
+    "defense": {
+      "defensePhysical": 90,
+      "defenseMagic": 85,
+      "evasionRate": 18,
+      "accuracy": "66 (每少1級 +2.4)"
+    },
+    "drops": [
+      {
+        "nameEn": "Sunflower Seed",
+        "nameZh": "向日葵子"
+      },
+      {
+        "nameEn": "Sniper Potion",
+        "nameZh": "命中藥水"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Scroll for Bow for ATT 60%",
+        "nameZh": "弓攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Petal Staff",
+        "nameZh": "翡赤之杖"
+      },
+      {
+        "nameEn": "Green Guise",
+        "nameZh": "綠假面帽"
+      },
+      {
+        "nameEn": "Blue Amoria Top",
+        "nameZh": "藍神聖法衣"
+      },
+      {
+        "nameEn": "Blue Amoria Skirt",
+        "nameZh": "藍神聖裙"
+      },
+      {
+        "nameEn": "Great Brown Helmet",
+        "nameZh": "褐色戰鬥頭盔"
+      },
+      {
+        "nameEn": "Cat's Eye",
+        "nameZh": "貓眼耳環"
+      },
+      {
+        "nameEn": "Red Legolia",
+        "nameZh": "紅守護之服"
+      },
+      {
+        "nameEn": "Red Legolia Pants",
+        "nameZh": "紅守護褲"
+      },
+      {
+        "nameEn": "Blue Avenger",
+        "nameZh": "藍飛影甲"
+      },
+      {
+        "nameEn": "Gold Brace",
+        "nameZh": "黃金勇氣手套"
+      },
+      {
+        "nameEn": "Gold Cleave",
+        "nameZh": "黃金盜賊手套"
+      },
+      {
+        "nameEn": "Dark Moon Shoes",
+        "nameZh": "黑月鞋"
+      },
+      {
+        "nameEn": "Maroon Jangoon Shoes",
+        "nameZh": "紫金月鞋"
+      },
+      {
+        "nameEn": "Blue Brace Look",
+        "nameZh": "藍色緊身服"
+      },
+      {
+        "nameEn": "Brown Barbee",
+        "nameZh": "褐色瑞恩手腕"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      }
+    ],
+    "nameEn": "Retz",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 45",
+    "attribute": "弱火 / 強冰",
+    "hp": 2600,
+    "mp": 170,
+    "exp": 110,
+    "name": "Moon Bunny",
+    "gold": "160 ~ 240 楓幣",
+    "defense": {
+      "defensePhysical": 100,
+      "defenseMagic": 180,
+      "evasionRate": 20,
+      "accuracy": "73 (每少1級 +2.66)"
+    },
+    "drops": [
+      {
+        "nameEn": "Pounder",
+        "nameZh": "搗米棒"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Sapphire Ore",
+        "nameZh": "藍寶石母礦"
+      },
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "Yellow Umbrella",
+        "nameZh": "黃色雨傘"
+      },
+      {
+        "nameEn": "Gold Brace",
+        "nameZh": "黃金勇氣手套"
+      },
+      {
+        "nameEn": "Black Yellow-Lined Shoes",
+        "nameZh": "黃流星鞋"
+      },
+      {
+        "nameEn": "Mithril Trigger",
+        "nameZh": "藍鐵頭鞋"
+      },
+      {
+        "nameEn": "Adamantium Tower Shield",
+        "nameZh": "朱礦方盾"
+      },
+      {
+        "nameEn": "Blue Moon",
+        "nameZh": "青月"
+      },
+      {
+        "nameEn": "Blue Counter",
+        "nameZh": "青光斧"
+      },
+      {
+        "nameEn": "Mokbi Throwing-Stars",
+        "nameZh": "黑色利刃"
+      },
+      {
+        "nameEn": "Blue Napoleon",
+        "nameZh": "藍色冒險披風"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Scroll for Shoes for Jump 10%",
+        "nameZh": "鞋子跳躍卷軸10%"
+      },
+      {
+        "nameEn": "Neozard",
+        "nameZh": "尼奧札德毀滅拳套"
+      },
+      {
+        "nameEn": "Scroll for Helmet for DEX 60%",
+        "nameZh": "頭盔敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Topwear for STR 100%",
+        "nameZh": "上衣力量卷軸100%"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Pole Arm Production Stimulator",
+        "nameZh": "矛催化劑"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      }
+    ],
+    "nameEn": "Moon Bunny",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 50",
+    "attribute": "X",
+    "hp": 3800,
+    "mp": 40,
+    "exp": 140,
+    "name": "Hodori",
+    "gold": "200 ~ 300 楓幣",
+    "defense": {
+      "defensePhysical": 150,
+      "defenseMagic": 180,
+      "evasionRate": 28,
+      "accuracy": "103 (每少1級 +3.73)"
+    },
+    "drops": [
+      {
+        "nameEn": "Tiger Stamp",
+        "nameZh": "老虎腳印"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "Mithril Ore",
+        "nameZh": "鋰礦石母礦"
+      },
+      {
+        "nameEn": "Bazlud",
+        "nameZh": "刺客短刀"
+      },
+      {
+        "nameEn": "Red Pierre Shoes",
+        "nameZh": "紅精靈鞋"
+      },
+      {
+        "nameEn": "Green Lumati",
+        "nameZh": "綠貴族禮服"
+      },
+      {
+        "nameEn": "Scroll for Shield for DEF 60%",
+        "nameZh": "盾牌防禦卷軸60%"
+      },
+      {
+        "nameEn": "Wizard Potion",
+        "nameZh": "強效魔力水"
+      },
+      {
+        "nameEn": "Jacker",
+        "nameZh": "古代錘"
+      },
+      {
+        "nameEn": "Scroll for Crossbow for ATT 10%",
+        "nameZh": "弩攻擊卷軸10%"
+      },
+      {
+        "nameEn": "Ivory Shouldermail",
+        "nameZh": "褐將軍鎧甲"
+      },
+      {
+        "nameEn": "Oaker Shouldermail Pants",
+        "nameZh": "褐板金褲"
+      },
+      {
+        "nameEn": "Scroll for Gloves for ATT 60%",
+        "nameZh": "手套攻擊卷軸60%"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Buck",
+        "nameZh": "樹靈之斧"
+      },
+      {
+        "nameEn": "Brown Royce",
+        "nameZh": "褐色羅伊斯手套"
+      },
+      {
+        "nameEn": "Scroll for Knuckle for Accuracy 100%",
+        "nameZh": "指虎命中卷軸100%"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Knuckle Production Stimulator",
+        "nameZh": "指虎催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      }
+    ],
+    "nameEn": "Hodori",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 53",
+    "attribute": "弱冰 / 強火",
+    "hp": 4500,
+    "mp": 160,
+    "exp": 165,
+    "name": "Hogul",
+    "gold": "232 ~ 348 楓幣",
+    "defense": {
+      "defensePhysical": 185,
+      "defenseMagic": 215,
+      "evasionRate": 25,
+      "accuracy": "92 (每少1級 +3.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Tiger Skin",
+        "nameZh": "虎皮"
+      },
+      {
+        "nameEn": "White Potion",
+        "nameZh": "白色藥水"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Scroll for Cape for LUK 10%",
+        "nameZh": "披風幸運卷軸10%"
+      },
+      {
+        "nameEn": "Lionheart",
+        "nameZh": "高原之劍"
+      },
+      {
+        "nameEn": "Scroll for Two-handed BW for ATT 60%",
+        "nameZh": "雙手棍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Red Anakarune",
+        "nameZh": "紅聖黨之服"
+      },
+      {
+        "nameEn": "Tobi Throwing-Stars",
+        "nameZh": "梅之鏢"
+      },
+      {
+        "nameEn": "Titan",
+        "nameZh": "巨人錘"
+      },
+      {
+        "nameEn": "Blue China",
+        "nameZh": "青陽"
+      },
+      {
+        "nameEn": "Blue China Pants",
+        "nameZh": "青陽褲"
+      },
+      {
+        "nameEn": "Brown Moon",
+        "nameZh": "黃月"
+      },
+      {
+        "nameEn": "Brown Moon Pants",
+        "nameZh": "黃月褲"
+      },
+      {
+        "nameEn": "Scroll for Gun for ATT 60%",
+        "nameZh": "火槍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Earring for DEX 100%",
+        "nameZh": "耳環敏捷卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for HP 60%",
+        "nameZh": "褲裙生命卷軸60%"
+      },
+      {
+        "nameEn": "Spear Production Stimulator",
+        "nameZh": "槍催化劑"
+      },
+      {
+        "nameEn": "Pole Arm Production Stimulator",
+        "nameZh": "矛催化劑"
+      },
+      {
+        "nameEn": "Bottomwear Production Stimulator",
+        "nameZh": "褲裙催化劑"
+      }
+    ],
+    "nameEn": "Hogul",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 56",
+    "attribute": "弱火, 聖",
+    "hp": 4500,
+    "mp": 120,
+    "exp": 185,
+    "name": "Samiho",
+    "gold": "268 ~ 402 楓幣",
+    "defense": {
+      "defensePhysical": 150,
+      "defenseMagic": 190,
+      "evasionRate": 28,
+      "accuracy": "103 (每少1級 +3.7)"
+    },
+    "drops": [
+      {
+        "nameEn": "Three-Tailed Foxtail",
+        "nameZh": "三尾狐的尾巴"
+      },
+      {
+        "nameEn": "Leather",
+        "nameZh": "動物皮"
+      },
+      {
+        "nameEn": "Dark Crystal Ore",
+        "nameZh": "黑暗母礦"
+      },
+      {
+        "nameEn": "Blue Potion",
+        "nameZh": "藍色藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Opal Ore",
+        "nameZh": "蛋白石母礦"
+      },
+      {
+        "nameEn": "Orihalcon Ore",
+        "nameZh": "紫礦石母礦"
+      },
+      {
+        "nameEn": "聖 Cross Earrings",
+        "nameZh": "聖十字耳環"
+      },
+      {
+        "nameEn": "Orihalcon Hildon Boots",
+        "nameZh": "紫礦將軍靴"
+      },
+      {
+        "nameEn": "Brown Moon Gloves",
+        "nameZh": "黃月手套"
+      },
+      {
+        "nameEn": "Orange Tai",
+        "nameZh": "朱旋風甲"
+      },
+      {
+        "nameEn": "White Anakarune",
+        "nameZh": "白聖黨之服"
+      },
+      {
+        "nameEn": "Scroll for Staff for Magic Attack 60%",
+        "nameZh": "長杖魔力卷軸60%"
+      },
+      {
+        "nameEn": "Red Pennance",
+        "nameZh": "紅元素手套"
+      },
+      {
+        "nameEn": "聖 Spear",
+        "nameZh": "十字槍"
+      },
+      {
+        "nameEn": "Oaker Scorpio",
+        "nameZh": "黃飛影之服"
+      },
+      {
+        "nameEn": "Oaker Scorpio Pants",
+        "nameZh": "黃飛影之褲"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Blue Shouldermail",
+        "nameZh": "藍板金鎧甲"
+      },
+      {
+        "nameEn": "Blue Shouldermail Pants",
+        "nameZh": "藍板金褲"
+      },
+      {
+        "nameEn": "Scroll for Wand for Magic attack 60%",
+        "nameZh": "短杖魔力卷軸60%"
+      },
+      {
+        "nameEn": "Black Royal Barone",
+        "nameZh": "紫色皇家套裝"
+      },
+      {
+        "nameEn": "Scroll for Topwear for HP 100%",
+        "nameZh": "上衣生命卷軸100%"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Staff Production Stimulator",
+        "nameZh": "長杖催化劑"
+      },
+      {
+        "nameEn": "One-Handed Axe Production Stimulator",
+        "nameZh": "單手斧催化劑"
+      }
+    ],
+    "nameEn": "Samiho",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 60",
+    "attribute": "弱冰, 聖 → \n弱聖 / 強火, 冰",
+    "hp": "3500 → 7000",
+    "mp": "100 → 170",
+    "exp": 330,
+    "name": "Morphed Blin",
+    "gold": "304 ~ 456 楓幣",
+    "defense": {
+      "defensePhysical": "170 → 220",
+      "defenseMagic": "180 → 230",
+      "evasionRate": "38 → 25",
+      "accuracy": "92 (每少1級 +3.33)"
+    },
+    "drops": [
+      {
+        "nameEn": "Broom",
+        "nameZh": "掃把"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Black Crystal Ore",
+        "nameZh": "黑水晶母礦"
+      },
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Serpent's Tongue",
+        "nameZh": "丈八蛇矛"
+      },
+      {
+        "nameEn": "Crescent Polearm",
+        "nameZh": "月牙戟"
+      },
+      {
+        "nameEn": "Olympus",
+        "nameZh": "天弓"
+      },
+      {
+        "nameEn": "Silver Crow",
+        "nameZh": "白銀弩"
+      },
+      {
+        "nameEn": "Steel Manute",
+        "nameZh": "鋼鐵封印手套"
+      },
+      {
+        "nameEn": "Steal Pow",
+        "nameZh": "鋼鐵柔絲手套"
+      },
+      {
+        "nameEn": "Red Gore Boots",
+        "nameZh": "紫花精鞋"
+      },
+      {
+        "nameEn": "Scroll for Topwear for DEF 60%",
+        "nameZh": "上衣防禦卷軸60%"
+      },
+      {
+        "nameEn": "Oaker Scorpio Pants",
+        "nameZh": "黃飛影之褲"
+      },
+      {
+        "nameEn": "Oaker Scorpio",
+        "nameZh": "黃飛影之服"
+      },
+      {
+        "nameEn": "Black Magic Cape",
+        "nameZh": "黑色魔法披風"
+      },
+      {
+        "nameEn": "Green 冰 Queen",
+        "nameZh": "綠鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Green 冰 Queen Skirt",
+        "nameZh": "綠鋼玉裙"
+      },
+      {
+        "nameEn": "Scroll for Helmet for HP 60%",
+        "nameZh": "頭盔生命卷軸60%"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for DEX 60%",
+        "nameZh": "套服敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Umber Shouldermail",
+        "nameZh": "黑板金鎧甲"
+      },
+      {
+        "nameEn": "Umber Shouldermail Pants",
+        "nameZh": "黑板金褲"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      },
+      {
+        "nameEn": "Overall Production Stimulator",
+        "nameZh": "套裝催化劑"
+      }
+    ],
+    "nameEn": "Morphed Blin",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 70",
+    "attribute": "弱火 / 強冰",
+    "hp": 25000,
+    "mp": 200,
+    "exp": 400,
+    "name": "Blue King Goblin",
+    "gold": "366 ~ 500 楓幣",
+    "defense": {
+      "defensePhysical": 280,
+      "defenseMagic": 280,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "Silver Ore",
+        "nameZh": "銀的母礦"
+      },
+      {
+        "nameEn": "Garnet Ore",
+        "nameZh": "石榴石母礦"
+      },
+      {
+        "nameEn": "DEX Crystal Ore",
+        "nameZh": "敏捷母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Speed Potion",
+        "nameZh": "速度藥水"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for DEF 60%",
+        "nameZh": "褲、裙防禦卷軸60%"
+      },
+      {
+        "nameEn": "Scroll for Shoes for DEX 60%",
+        "nameZh": "鞋子敏捷卷軸60%"
+      },
+      {
+        "nameEn": "Red Choro",
+        "nameZh": "赤草露"
+      },
+      {
+        "nameEn": "Skylar",
+        "nameZh": "方天戟"
+      },
+      {
+        "nameEn": "Red Lapiz Sandals",
+        "nameZh": "紅水晶涼鞋"
+      },
+      {
+        "nameEn": "Red Mystique Shoes",
+        "nameZh": "紅龍皮鞋"
+      },
+      {
+        "nameEn": "Chrono",
+        "nameZh": "雷電斧"
+      },
+      {
+        "nameEn": "Blue Studded Top",
+        "nameZh": "藍玄武之甲"
+      },
+      {
+        "nameEn": "Blue Studded Pants",
+        "nameZh": "藍玄武之褲"
+      },
+      {
+        "nameEn": "The Blessing",
+        "nameZh": "妖精之錘"
+      },
+      {
+        "nameEn": "Half Earrings",
+        "nameZh": "紅色時髦耳環"
+      },
+      {
+        "nameEn": "Blue Hinkel",
+        "nameZh": "青神弓"
+      },
+      {
+        "nameEn": "Hwabi Throwing-Stars",
+        "nameZh": "月牙鏢"
+      },
+      {
+        "nameEn": "Beia Crash",
+        "nameZh": "拜爾毀滅拳套"
+      },
+      {
+        "nameEn": "Scroll for Bottomwear for HP 100%",
+        "nameZh": "褲裙生命卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Two-Handed Sword for Accuracy 60%",
+        "nameZh": "雙手劍命中卷軸60%"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "Two-Handed Axe Production Stimulator",
+        "nameZh": "雙手斧催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      }
+    ],
+    "nameEn": "Blue King Goblin",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 70",
+    "attribute": "免疫 毒",
+    "hp": 25000,
+    "mp": 200,
+    "exp": 400,
+    "name": "Green King Goblin",
+    "gold": "351 ~ 453 楓幣",
+    "defense": {
+      "defensePhysical": 280,
+      "defenseMagic": 280,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "Gold Ore",
+        "nameZh": "黃金母礦"
+      },
+      {
+        "nameEn": "Topaz Ore",
+        "nameZh": "黃晶母礦"
+      },
+      {
+        "nameEn": "Wisdom Crystal Ore",
+        "nameZh": "智慧母礦"
+      },
+      {
+        "nameEn": "The Magic Rock",
+        "nameZh": "魔法石"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Warrior Pill",
+        "nameZh": "攻擊藥丸"
+      },
+      {
+        "nameEn": "Scroll for Cape for HP 60%",
+        "nameZh": "披風生命卷軸60%"
+      },
+      {
+        "nameEn": "Crystal Flower Earrings",
+        "nameZh": "水仙耳環"
+      },
+      {
+        "nameEn": "Sephia Garner",
+        "nameZh": "赤神功手套"
+      },
+      {
+        "nameEn": "Sephia GarneRed 冰 Queen",
+        "nameZh": "紅鋼玉鎧甲"
+      },
+      {
+        "nameEn": "Red 冰 Queen Skirt",
+        "nameZh": "紅鋼玉裙"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Sword for ATT 60%",
+        "nameZh": "單手劍攻擊卷軸60%"
+      },
+      {
+        "nameEn": "Half Earrings",
+        "nameZh": "紅色時髦耳環"
+      },
+      {
+        "nameEn": "Doombringer",
+        "nameZh": "霸王劍"
+      },
+      {
+        "nameEn": "Purple Carzen Boots",
+        "nameZh": "紫飛魂鞋"
+      },
+      {
+        "nameEn": "Golden Mole",
+        "nameZh": "黃金錘"
+      },
+      {
+        "nameEn": "Blue Mystique",
+        "nameZh": "藍朱雀之甲"
+      },
+      {
+        "nameEn": "Blue Mystique Pants",
+        "nameZh": "藍朱雀之褲"
+      },
+      {
+        "nameEn": "Hwabi Throwing-Stars",
+        "nameZh": "月牙鏢"
+      },
+      {
+        "nameEn": "Black Pirate's Bandana",
+        "nameZh": "黑色海盜頭巾"
+      },
+      {
+        "nameEn": "Vital Bullet",
+        "nameZh": "高等子彈"
+      },
+      {
+        "nameEn": "Scroll for Helmet for INT 100%",
+        "nameZh": "頭盔智力卷軸100%"
+      },
+      {
+        "nameEn": "Scroll for Overall for STR 10%",
+        "nameZh": "套服力量卷軸10%"
+      },
+      {
+        "nameEn": "Scroll for One-Handed Axe for Accuracy 60%",
+        "nameZh": "單手斧命中卷軸60%"
+      },
+      {
+        "nameEn": "Gun Production Stimulator",
+        "nameZh": "火槍催化劑"
+      },
+      {
+        "nameEn": "Helmet Production Stimulator",
+        "nameZh": "頭盔催化劑"
+      },
+      {
+        "nameEn": "Topwear Production Stimulator",
+        "nameZh": "上衣催化劑"
+      }
+    ],
+    "nameEn": "Green King Goblin",
+    "nameZh": ""
+  },
+  {
+    "level": "Lv. 70",
+    "attribute": "弱冰 / 強火",
+    "hp": 25000,
+    "mp": 200,
+    "exp": 400,
+    "name": "Yellow King Goblin",
+    "gold": "366 ~ 381 楓幣",
+    "defense": {
+      "defensePhysical": 280,
+      "defenseMagic": 280,
+      "evasionRate": 15,
+      "accuracy": "55 (每少1級 +2)"
+    },
+    "drops": [
+      {
+        "nameEn": "Steel Ore",
+        "nameZh": "鋼鐵母礦"
+      },
+      {
+        "nameEn": "Amethyst Ore",
+        "nameZh": "紫水晶母礦"
+      },
+      {
+        "nameEn": "LUK Crystal Ore",
+        "nameZh": "幸運母礦"
+      },
+      {
+        "nameEn": "The Summoning Rock",
+        "nameZh": "召喚石"
+      },
+      {
+        "nameEn": "Mana Elixir",
+        "nameZh": "活力藥水"
+      },
+      {
+        "nameEn": "Elixir",
+        "nameZh": "特殊藥水"
+      },
+      {
+        "nameEn": "Wizard Potion",
+        "nameZh": "強效魔力水"
+      },
+      {
+        "nameEn": "Scroll for Overall Armor for DEF 60%",
+        "nameZh": "套服防禦卷軸60%"
+      },
+      {
+        "nameEn": "Orange Tai",
+        "nameZh": "朱旋風甲"
+      },
+      {
+        "nameEn": "Light Mantis Pants",
+        "nameZh": "灰飛影之褲"
+      },
+      {
+        "nameEn": "Light Mantis",
+        "nameZh": "灰飛影之服"
+      },
+      {
+        "nameEn": "Scroll for Earring for INT 10%",
+        "nameZh": "耳環智力卷軸10%"
+      },
+      {
+        "nameEn": "Silver Ancient Shield",
+        "nameZh": "銀古盾牌"
+      },
+      {
+        "nameEn": "Blue Gaia Cape",
+        "nameZh": "藍鬥士披風"
+      },
+      {
+        "nameEn": "Gross Jaeger",
+        "nameZh": "破天弩弓"
+      },
+      {
+        "nameEn": "Sapphire Gigantic",
+        "nameZh": "藍寶戰神拳套"
+      },
+      {
+        "nameEn": "Bronze Platine",
+        "nameZh": "青銅暴風甲"
+      },
+      {
+        "nameEn": "Bronze Platine Pants",
+        "nameZh": "青銅暴風褲"
+      },
+      {
+        "nameEn": "Black Voyson Shoes",
+        "nameZh": "黑色航海靴"
+      },
+      {
+        "nameEn": "Two-Handed Sword Production Stimulator",
+        "nameZh": "雙手劍催化劑"
+      },
+      {
+        "nameEn": "Claw Production Stimulator",
+        "nameZh": "拳套催化劑"
+      },
+      {
+        "nameEn": "One-Handed Sword Production Stimulator",
+        "nameZh": "單手劍催化劑"
+      }
+    ],
+    "nameEn": "Yellow King Goblin",
+    "nameZh": ""
+  }
+]
