@@ -17,16 +17,16 @@ datasource db {
 
 model User {
   id              Int           @id @default(autoincrement())
-  username        String        @unique // 帳號
-  password        String // 密碼
-  email           String        @unique // 電子郵件
+  email           String        @unique // 帳號
+  password        String
+  username        String        @unique
   discordId       String?       @unique // Discord 使用者 ID（可選）
   discordUsername String? // Discord 使用者名稱#標籤
   monsterList     UserMonster[] // 玩家加入的怪物清單
 }
 
 model Monster {
-  id              Int      @id @default(autoincrement())
+  id              Int           @id @default(autoincrement())
   attribute       String
   nameEn          String
   nameZh          String
@@ -53,7 +53,7 @@ model MonsterDrop {
 }
 
 model DropItem {
-  id           Int      @id @default(autoincrement())
+  id           Int           @id @default(autoincrement())
   nameZh       String?
   nameEn       String?
   iconUrl      String?
