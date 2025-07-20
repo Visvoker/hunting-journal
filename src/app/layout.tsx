@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Artale狩獵日誌",
-  description: "紀錄你的打寶過程",
+  title: "Artale 狩獵日記",
+  description: "紀錄打寶的過程",
 };
 
 export default function RootLayout({

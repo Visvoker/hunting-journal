@@ -8,8 +8,8 @@ export default function Logo() {
       <Image
         src="/MapleStoryLogo.svg"
         alt="logo"
-        width={30}
-        height={30}
+        width={25}
+        height={25}
       />
     </Link>
   );
